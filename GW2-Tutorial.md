@@ -359,7 +359,68 @@ The fractals of the mist are 5 party instances that act like mini-dungeons. The 
 
 ## 8.2 Dungeons
 
+Dungeons are the oldest end game content in the game. They were present at the release of the game, and while not being as actively pursued as other contents they still are worthwhile for learning the game, getting equipment and a decent amount of money. There are 8 dungeons, with one story path and 3 exploration parts (which are the ones being done for reward). One exception is the last one, which has 5 paths in total. Dungeons are 5 man content. Even though some of the dungeons have a lower recommended level they are actually decent level 80 content because of the scaling mechanism.
+
+All dungeons offer unique skins as well as food and runes.
+
+**Ascalonian Catacombs**: Level: 30-35
+
+The Ascalonian Catacombs are the first dungeon you will be introduced to in the game. Go into the ancient Ascalonian Catacombs near the black citadel.
+
+**Caudecus's Manner**: Level 40-45
+
+Find out what mysteries lie in the Manner of Caudecus Beetlestone the Wise, Legate Minister of the Krytan Ministry, located in Beetletun near Divinitys Reach.
+
+**Twilight Arbor**: Level 50-55 (80 for the Aetherpath)
+
+Find out what the Nightmare Court is up to. Enter the twilight arbor and fight alongside Caithe in order to stop them. Twilight Arbor is located inside Caledon forest.
+
+**Sorrow's Embrace**: Level 60-65
+
+Enter the dredge city within the Shiverpeak Mountains to help Zojja finding her masters research. Fight the xenophobic dredge to advance.
+
+**Citadel of Flame**: Level 70-75
+
+Face the flame legion alongside the pact in order to stop Gaheron Baelfire, leader of the flame legion from pursuing godhood. Enter their temple in Fireheart Rise to stop them.
+
+**Honor of the Waves**: Level 76-80
+
+Explore the half sunken sanctuary of the kodan in the far north of Frostgorge Sound. Fight the ravaging Sons of Svanir as well as the icebrood and salvage the magical artifacts.
+
+**Crucible of Eternity** Level 78-80
+
+Break into the inquest research facility in Mount Maelstrom to pursue the Inquest and stop them from their horrible experiments.
+
+**The Ruined city of Arah** Level 80-80
+
+Enter the resurfaced sunken capital Arah of the ancient human kindgom of Orr. Fight against the undead in order to stop them from destroying all life.
+
 ## 8.3 Raids
+
+Raids are the newest end game content in the game. They were first introduced with the Heart of Thorns expansion. In order to be able to play raids you need the Expansion in wich they ship. There are currently 5 Raid wings. Raiding itself is a bit out of scope of this tutorial, so you might want to check out the [Happy Raiders Kit](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1) if you intend to pursue them.
+
+**Forsaken Thicket**
+
+The Forsaken Thicket is the first Raid introduced into the Game. It is seperated into 3 Wings, the first of which was released a few weeks after the launch of Heart of Thorns.
+
+**Spirit Vale** 
+
+Spirit Vale is the first Wing of the Forsaken Thicket, consisting of 3 distinct bosses as well as events between them. Enter it to find out what happened to the lost Pact squad.
+
+**Salvation Pass**
+
+Salvation Pass is the second Wing. It also features 3 boss encounters. Venture deepter into the Thicket to save what you can of the squad.
+
+**Stronghold of the Faithful**
+
+The third wing of the first raid also features 3 boss encouters. The first one beeing an escort quest, the rest normal bosses. Enter the stronghold of the white mantle to stop them in their evil deeds.
+
+**Bastion of the Penitent**
+
+Bastion of the Penitent is the second Raid, consisting of a single Wing. Fight against 4 bosses in order to unveil its mysteries.
+
+**Hall of Chains**
+Hall of Chains is the newest Raid released and the only one not being part of Heart of Thorns. Venture into the underworld to find out what is happening in the realm of the dead.
 
 ## 8.4 Fashion Wars
 
