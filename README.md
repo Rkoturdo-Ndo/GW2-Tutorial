@@ -41,45 +41,15 @@ Humans are the only non-native race on the planet that the player can choose. Wh
 
 # Chapter 1: The User Interface
 
-## 1.1 General Interface ![Complete](img/en/complete.jpg)
-
-The user interface can be separated into different areas on the screen. Generally there is not that much interface customization possible unless you are willing to modify the game, which of course would be at your own risk and is not supported by ArenaNet.
-
-**Top left**
-
-![Top Left](img/en/top_left.jpg)
-
-In the top left of the User Interface you can find your party, showing health as well as boons and conditions. Over that there are different buttons to open parts of the Interface. From the left to the right:
-
-Settings | Friends | Hero-Panel | Inventory | Mail | Trading-Post | Guilds | World vs. World | PvP
-
-**Top right**
-
-![Top Right](img/en/top_right.jpg)
-
-In the top right you can find your content guide. It shows you your current mission, current events in your area, where to go for the next mission or piece needed for map completion. Besides that it can also show achievements you currently track.
-
-**Bottom left**
-
-![Bottom Left](img/en/bottom_left.jpg)
-
-In the bottom left the chat is displayed. Under that you can see your current level. You can edit the amount of tabs the chat has, what is displayed in each tab, if the chat is transparent or not as well as other things.
-
-**Bottom right**
-
-![Bottom Right](img/en/bottom_right.jpg)
-
-In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests as well as other things.
-
-**Bottom Center**
-
-![Bottom Center](img/en/bottom_center.jpg)
-
-In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills and their cooldown and current boons and conditions that might apply to you. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
-
-## 1.2 Menus
-
-
+- Top left
+- Top right
+- map
+- chat
+- menus
+- center 
+  - how to swap skills
+  - show/hide cooldowns etc
+- mentioning mods like ICM/ARCdps/TaCo ?
 
 # Chapter 2: Movement, Camera and Targeting
 
