@@ -16,7 +16,7 @@ By the community, for the community.
 - CC means Crowd-Control. Generally that refers to skills that in some way restrict the control an enemy has over his character.
 - ​
 
-## Chapter 0.1 Races
+## 0.1 Races
 
 > It is no problem for new players that want to play together to get different races, since the first way point in every starting region is unlocked for every player from the beginning. 
 > This enables new players to play with their friends even if they have just free to play accounts.
@@ -41,9 +41,16 @@ The Sylvari are the youngest race of the planet, only having come to live ~25 ye
 
 Humans are the only non-native race on the planet that the player can choose. While a thriving force on Tyria in the older times, they are only a shadow of their former glory and influence. Their capital City is Divinity's Reach, one of the last major human cities.
 
+
+
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
+
 # Chapter 1: The User Interface
 
-## 1.1 General Interface ![Complete](img/en/complete.jpg)
+## 1.1 General Interface 
+![Complete](img/en/complete.jpg)
 
 The user interface can be separated into different areas on the screen. Generally there is not that much interface customization possible unless you are willing to modify the game, which of course would be at your own risk and is not supported by ArenaNet.
 
@@ -73,21 +80,25 @@ In the top right you can find your content guide. It shows you your current miss
 
 In the bottom left the chat is displayed. Under that you can see your current level. You can edit the amount of tabs the chat has, what is displayed in each tab, if the chat is transparent or not as well as other things.
 
-**Bottom right**
-
-![Bottom Right](img/en/bottom_right.jpg)
-
-In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests as well as other things.
-
 **Bottom Center**
 
 ![Bottom Center](img/en/bottom_center.jpg)
 
 In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills and their cooldown and current boons and conditions that might apply to you. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
 
+**Bottom right**
+
+![Bottom Right](img/en/bottom_right.jpg)
+
+In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests as well as other things.
+
+
+
 ## 1.2 Menus
 
+[To the top](#Guild Wars 2 new Player Tutorial)
 
+---
 
 # Chapter 2: Movement, Camera and Targeting
 
@@ -99,6 +110,9 @@ In the bottom center is the most important part of the user interface. It shows 
 
 ## 2.4 Other
 
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 # Chapter 3: Combat
 
 - basics
@@ -146,7 +160,7 @@ Most status effects in the game come in the way of boons or conditions. Boons is
 
 ## 3.x: Combofields
 
-There are different Types of Fields and Finishers. When a Finisher is activated inside a Combofield a special Interaction happens depending on the Type of Field and Finisher.
+There are different types of fields and finishers. When a finisher is activated inside a Combofield a special Interaction happens depending on the type of field and finisher. Whether or not a particular skill as a field or a finisher can be seen by hovering over them and reading the description.
 
 - Blasts have an AoE effect
 - Leaps only affect yourself
@@ -196,6 +210,9 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 - **Weakness**: reduces the targets *endurance* regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage
 - **Blindness**: the next attack misses
 
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 # Chapter 4: Classes
 
 ## 4.1: Heavy Armor (Soldier)
@@ -216,7 +233,9 @@ Scholar classes have the least armor in the game, coming in at **920** armor.
 - tempest
 - weaver
 
-...
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 
 # Chapter 5: Equipment
 
@@ -293,12 +312,15 @@ Runes are used to increase the usefulness of armor. Each piece of armor has one 
 
 Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons two. You can **NOT** stack sigils in order to increase their usefulness. As with runes their effects have a wide range.
 
-## 5.5 Food
+## 5.5 Consumables
+
+There are two different types of consumables in Guild Wars 2. One being food, the other being Enhancements. They can be applied at the same time, however only one of each type. Meaning that if you eat food the current foodbuff gets replaced with a new one. 
+They usually grant passive stats like ferocity, boonduration or similar. Move information about consumables can be found on the [wiki](https://wiki.guildwars2.com/wiki/Consumable).
 
 
+[To the top](#Guild Wars 2 new Player Tutorial)
 
-​
-
+---
 # Chapter 6: Gamemodes
 
 ## 6.1: PvP
@@ -316,12 +338,19 @@ Sigils are used to increase the usefulness of weapons. One-handed weapons have o
 
 ### 6.3.1 Living World and Expansions
 
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
+
 # Chapter 7: Social
 
 ## 7.1: LFG
 
 ## 7.2: Guilds
 
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 # Chapter 8: End Game Content
 
 ## 8.1 Fractals of the Mist (FotM)
@@ -338,6 +367,9 @@ The fractals of the mist are 5 party instances that act like mini-dungeons. The 
 
 ## 8.6 WvW
 
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 # Chapter 9: Other
 
 ## 9.1: Inventory Management
@@ -351,6 +383,9 @@ The fractals of the mist are 5 party instances that act like mini-dungeons. The 
 ## 9.5: Heart of Thorns
 
 ## 9.6: Path of Fire
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 
 # Chapter 10: Further Resources
 
@@ -393,5 +428,7 @@ The Happy Raider's Kit is a document containing information on how to best get i
 
 > Note that raids are end game content and if you are just starting the game it will take a while to get there. The fastest recorded time to get raid ready from a zero account (with planning and knowledge)  was roughly 42 hours of gametime. This was achieved by [WoodenPotatoes](www.youtube.com/user/WoodenPotatoes).
 
-------
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
 
