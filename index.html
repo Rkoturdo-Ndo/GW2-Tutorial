@@ -1,0 +1,230 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>README.md</title><link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}#write, body { height: auto; }
+#write, #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write ol, #write p, #write ul { position: relative; }
+#write, #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write, pre { white-space: pre-wrap; }
+.CodeMirror, .md-fences, table { text-align: left; }
+.md-reset, a:active, a:hover { outline: 0px; }
+.md-reset, .md-toc-item a { text-decoration: none; }
+.MathJax_SVG, .md-reset { float: none; direction: ltr; }
+:root { --bg-color:#ffffff; --text-color:#333333; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
+.in-text-selection, ::selection { background: rgb(181, 214, 252); text-shadow: none; }
+#write { margin: 0px auto; word-break: normal; word-wrap: break-word; padding-bottom: 70px; overflow-x: visible; }
+.first-line-indent #write p .md-line { text-indent: 0px; }
+.first-line-indent #write li, .first-line-indent #write p, .first-line-indent #write p .md-line:first-child { text-indent: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write > blockquote:first-child, #write > div:first-child, #write > ol:first-child, #write > p:first-child, #write > pre:first-child, #write > table:first-child, #write > ul:first-child { margin-top: 30px; }
+#write li > table:first-child { margin-top: -20px; }
+img { max-width: 100%; vertical-align: middle; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+p { -webkit-margin-before: 1rem; -webkit-margin-after: 1rem; -webkit-margin-start: 0px; -webkit-margin-end: 0px; }
+.mathjax-block { margin-top: 0px; margin-bottom: 0px; -webkit-margin-before: 0px; -webkit-margin-after: 0px; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+#write > figure:first-child { margin-top: 16px; }
+figure { overflow-x: auto; margin: -8px 0px 0px -8px; max-width: calc(100% + 16px); padding: 8px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; }
+.CodeMirror-line, .md-fences { break-inside: avoid; }
+table.md-table td { min-width: 80px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; margin-right: 4px; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+.md-fences { font-size: 0.9rem; display: block; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+.md-fences .CodeMirror.CodeMirror-wrap { top: -1.6em; margin-bottom: -1.6em; }
+.md-fences.mock-cm { white-space: pre-wrap; }
+.show-fences-line-number .md-fences { padding-left: 0px; }
+.show-fences-line-number .md-fences.mock-cm { padding-left: 40px; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; vertical-align: top; background: 0px 0px; text-shadow: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; }
+.md-toc-inner, a img, img a { cursor: pointer; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: nowrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  #write { margin-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  h1, h2, h3, h4, h5, h6 { break-after: avoid-page; orphans: 2; }
+  p { orphans: 4; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 1cm; padding-right: 1cm; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  @page { margin: 20mm 0px; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > img:only-child { display: block; margin: auto; }
+.md-line > .md-image:only-child, p > .md-image:only-child { display: inline-block; width: 100%; text-align: center; }
+.mathjax-block:not(:empty)::after, .md-toc-content::after, .md-toc::after { display: none; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.mathjax-block { white-space: pre; overflow: hidden; width: 100%; }
+p + .mathjax-block { margin-top: -1.143rem; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.MathJax_SVG, .mathjax-block .MathJax_SVG_Display { text-indent: 0px; max-width: none; max-height: none; min-height: 0px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-inner:hover { }
+.md-toc-inner { display: inline-block; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, tt { font-family: var(--monospace); }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.mathjax-block .MathJax_SVG_Display { text-align: center; margin: 1em 0px; position: relative; min-width: 100%; width: auto; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: monospace; }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; min-width: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg, [lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+
+
+:root { --side-bar-bg-color: #fafafa; --control-text-color: #777; }
+@font-face { font-family: "Open Sans"; font-style: normal; font-weight: normal; src: local("Open Sans Regular"), url("./github/400.woff") format("woff"); }
+@font-face { font-family: "Open Sans"; font-style: italic; font-weight: normal; src: local("Open Sans Italic"), url("./github/400i.woff") format("woff"); }
+@font-face { font-family: "Open Sans"; font-style: normal; font-weight: bold; src: local("Open Sans Bold"), url("./github/700.woff") format("woff"); }
+@font-face { font-family: "Open Sans"; font-style: italic; font-weight: bold; src: local("Open Sans Bold Italic"), url("./github/700i.woff") format("woff"); }
+html { font-size: 16px; }
+body { font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.6; }
+#write { max-width: 860px; margin: 0px auto; padding: 20px 30px 100px; }
+#write > ul:first-child, #write > ol:first-child { margin-top: 30px; }
+body > :first-child { margin-top: 0px !important; }
+body > :last-child { margin-bottom: 0px !important; }
+a { color: rgb(65, 131, 196); }
+h1, h2, h3, h4, h5, h6 { position: relative; margin-top: 1rem; margin-bottom: 1rem; font-weight: bold; line-height: 1.4; cursor: text; }
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor { text-decoration: none; }
+h1 tt, h1 code { font-size: inherit; }
+h2 tt, h2 code { font-size: inherit; }
+h3 tt, h3 code { font-size: inherit; }
+h4 tt, h4 code { font-size: inherit; }
+h5 tt, h5 code { font-size: inherit; }
+h6 tt, h6 code { font-size: inherit; }
+h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
+h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
+h3 { font-size: 1.5em; line-height: 1.43; }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1em; }
+h6 { font-size: 1em; color: rgb(119, 119, 119); }
+p, blockquote, ul, ol, dl, table { margin: 0.8em 0px; }
+li > ol, li > ul { margin: 0px; }
+hr { height: 4px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border-width: 0px 0px 1px; border-style: none none solid; border-top-color: initial; border-right-color: initial; border-left-color: initial; border-image: initial; overflow: hidden; box-sizing: content-box; border-bottom-color: rgb(221, 221, 221); }
+body > h2:first-child { margin-top: 0px; padding-top: 0px; }
+body > h1:first-child { margin-top: 0px; padding-top: 0px; }
+body > h1:first-child + h2 { margin-top: 0px; padding-top: 0px; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child { margin-top: 0px; padding-top: 0px; }
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 { margin-top: 0px; padding-top: 0px; }
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p { margin-top: 0px; }
+li p.first { display: inline-block; }
+ul, ol { padding-left: 30px; }
+ul:first-child, ol:first-child { margin-top: 0px; }
+ul:last-child, ol:last-child { margin-bottom: 0px; }
+blockquote { border-left: 4px solid rgb(221, 221, 221); padding: 0px 15px; color: rgb(119, 119, 119); }
+blockquote blockquote { padding-right: 0px; }
+table { padding: 0px; word-break: initial; }
+table tr { border-top: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0px; }
+table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+table tr th { font-weight: bold; border-width: 1px 1px 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; text-align: left; margin: 0px; padding: 6px 13px; }
+table tr td { border: 1px solid rgb(204, 204, 204); text-align: left; margin: 0px; padding: 6px 13px; }
+table tr th:first-child, table tr td:first-child { margin-top: 0px; }
+table tr th:last-child, table tr td:last-child { margin-bottom: 0px; }
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); }
+.md-fences, code, tt { border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); border-radius: 3px; font-family: Consolas, "Liberation Mono", Courier, monospace; padding: 2px 4px 0px; font-size: 0.9em; }
+.md-fences { margin-bottom: 15px; margin-top: 15px; padding: 8px 1em 6px; }
+.md-task-list-item > input { margin-left: -1.3em; }
+@media screen and (min-width: 914px) {
+}
+@media print {
+  html { font-size: 13px; }
+  table, pre { break-inside: avoid; }
+  pre { word-wrap: break-word; }
+}
+.md-fences { background-color: rgb(248, 248, 248); }
+#write pre.md-meta-block { padding: 1rem; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border: 0px; border-radius: 3px; color: rgb(119, 119, 119); margin-top: 0px !important; }
+.mathjax-block > .code-tooltip { bottom: 0.375rem; }
+#write > h3.md-focus::before { left: -1.5625rem; top: 0.375rem; }
+#write > h4.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+#write > h5.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+#write > h6.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+.md-image > .md-meta { border-radius: 3px; font-family: Consolas, "Liberation Mono", Courier, monospace; padding: 2px 0px 0px 4px; font-size: 0.9em; color: inherit; }
+.md-tag { color: inherit; }
+.md-toc { margin-top: 20px; padding-bottom: 20px; }
+.sidebar-tabs { border-bottom: none; }
+#typora-quick-open { border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); }
+#typora-quick-open-item { background-color: rgb(250, 250, 250); border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238); border-style: solid; border-width: 1px; }
+#md-notification::before { top: 10px; }
+.on-focus-mode blockquote { border-left-color: rgba(85, 85, 85, 0.12); }
+header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Arial, sans-serif; }
+.file-node-content:hover .file-node-icon, .file-node-content:hover .file-node-open-state { visibility: visible; }
+.mac-seamless-mode #typora-sidebar { background-color: var(--side-bar-bg-color); }
+.md-lang { color: rgb(180, 101, 77); }
+.html-for-mac .context-menu { --item-hover-bg-color: #E6F0FE; }
+
+
+
+
+
+ .typora-export p {white-space: normal;} 
+</style>
+</head>
+<body class='typora-export' >
+<div  id='write'  class = 'is-node show-fences-line-number'><h1><a name='header-n0' class='md-header-anchor '></a>Guild Wars 2 new Player Tutorial</h1><p>By the community, for the community.</p><p><img src='img/en/Southsun.jpg' alt='Southsun' /></p><div class='md-toc' mdtype='toc'><p class="md-toc-content"><span class="md-toc-item md-toc-h1" data-ref="n0"><a class="md-toc-inner" href="#header-n0">Guild Wars 2 new Player Tutorial</a></span><span class="md-toc-item md-toc-h1" data-ref="n8"><a class="md-toc-inner" href="#header-n8">Chapter 0: Basic Terminology</a></span><span class="md-toc-item md-toc-h2" data-ref="n19"><a class="md-toc-inner" href="#header-n19">Chapter 0.1 Races</a></span><span class="md-toc-item md-toc-h3" data-ref="n24"><a class="md-toc-inner" href="#header-n24">0.1.1 Norn</a></span><span class="md-toc-item md-toc-h3" data-ref="n27"><a class="md-toc-inner" href="#header-n27">0.1.2 Charr</a></span><span class="md-toc-item md-toc-h3" data-ref="n30"><a class="md-toc-inner" href="#header-n30">0.1.3 Asura</a></span><span class="md-toc-item md-toc-h3" data-ref="n33"><a class="md-toc-inner" href="#header-n33">0.1.4 Sylvari</a></span><span class="md-toc-item md-toc-h3" data-ref="n36"><a class="md-toc-inner" href="#header-n36">0.1.5 Humans</a></span><span class="md-toc-item md-toc-h1" data-ref="n39"><a class="md-toc-inner" href="#header-n39">Chapter 1: The User Interface</a></span><span class="md-toc-item md-toc-h1" data-ref="n69"><a class="md-toc-inner" href="#header-n69">Chapter 2: Movement, Camera and Targeting</a></span><span class="md-toc-item md-toc-h2" data-ref="n70"><a class="md-toc-inner" href="#header-n70">Chapter 2.1 Movement</a></span><span class="md-toc-item md-toc-h2" data-ref="n71"><a class="md-toc-inner" href="#header-n71">Chapter 2.2 Tab Targeting</a></span><span class="md-toc-item md-toc-h2" data-ref="n72"><a class="md-toc-inner" href="#header-n72">Chapter 2.3 Action Cam</a></span><span class="md-toc-item md-toc-h2" data-ref="n73"><a class="md-toc-inner" href="#header-n73">Chapter 2.4 Other</a></span><span class="md-toc-item md-toc-h1" data-ref="n74"><a class="md-toc-inner" href="#header-n74">Chapter 3: Combat</a></span><span class="md-toc-item md-toc-h2" data-ref="n94"><a class="md-toc-inner" href="#header-n94">3.x: Boons and Conditions</a></span><span class="md-toc-item md-toc-h2" data-ref="n174"><a class="md-toc-inner" href="#header-n174">3.x: Combofields</a></span><span class="md-toc-item md-toc-h2" data-ref="n251"><a class="md-toc-inner" href="#header-n251">3.x: Break-bars and Crowd Control</a></span><span class="md-toc-item md-toc-h1" data-ref="n304"><a class="md-toc-inner" href="#header-n304">Chapter 4: Classes</a></span><span class="md-toc-item md-toc-h2" data-ref="n305"><a class="md-toc-inner" href="#header-n305">Chapter 4.1: Heavy Armor (Soldier)</a></span><span class="md-toc-item md-toc-h2" data-ref="n308"><a class="md-toc-inner" href="#header-n308">Chapter 4.2: Medium Armor (Adventurer)</a></span><span class="md-toc-item md-toc-h2" data-ref="n311"><a class="md-toc-inner" href="#header-n311">Chapter 4.3: Light Armor (Scholar)</a></span><span class="md-toc-item md-toc-h2" data-ref="n314"><a class="md-toc-inner" href="#header-n314">Chapter 4.3.1: Elementalist</a></span><span class="md-toc-item md-toc-h1" data-ref="n327"><a class="md-toc-inner" href="#header-n327">Chapter 5: Equipment</a></span><span class="md-toc-item md-toc-h2" data-ref="n328"><a class="md-toc-inner" href="#header-n328">5.1 Attribute Combinations</a></span><span class="md-toc-item md-toc-h2" data-ref="n337"><a class="md-toc-inner" href="#header-n337">5.2 Rarities</a></span><span class="md-toc-item md-toc-h1" data-ref="n407"><a class="md-toc-inner" href="#header-n407">Chapter 6: Gamemodes</a></span><span class="md-toc-item md-toc-h2" data-ref="n408"><a class="md-toc-inner" href="#header-n408">Chapter 6.1: PvP</a></span><span class="md-toc-item md-toc-h2" data-ref="n422"><a class="md-toc-inner" href="#header-n422">Chapter 6.2: WvW</a></span><span class="md-toc-item md-toc-h2" data-ref="n427"><a class="md-toc-inner" href="#header-n427">Chapter 6.3: PvE</a></span><span class="md-toc-item md-toc-h3" data-ref="n428"><a class="md-toc-inner" href="#header-n428">Chapter 6.3.1 Living World and Expansions</a></span><span class="md-toc-item md-toc-h1" data-ref="n429"><a class="md-toc-inner" href="#header-n429">Chapter 7: Social</a></span><span class="md-toc-item md-toc-h2" data-ref="n430"><a class="md-toc-inner" href="#header-n430">Chapter 7.1: LFG</a></span><span class="md-toc-item md-toc-h2" data-ref="n431"><a class="md-toc-inner" href="#header-n431">Chapter 7.2: Guilds</a></span><span class="md-toc-item md-toc-h1" data-ref="n432"><a class="md-toc-inner" href="#header-n432">Chapter 8: End Game Content</a></span><span class="md-toc-item md-toc-h2" data-ref="n433"><a class="md-toc-inner" href="#header-n433">8.1 Fractals of the Mist (FotM)</a></span><span class="md-toc-item md-toc-h2" data-ref="n436"><a class="md-toc-inner" href="#header-n436">8.2 Dungeons</a></span><span class="md-toc-item md-toc-h2" data-ref="n437"><a class="md-toc-inner" href="#header-n437">8.3 Raids</a></span><span class="md-toc-item md-toc-h2" data-ref="n438"><a class="md-toc-inner" href="#header-n438">8.4 Fashion Wars</a></span><span class="md-toc-item md-toc-h2" data-ref="n439"><a class="md-toc-inner" href="#header-n439">8.5 PVP</a></span><span class="md-toc-item md-toc-h2" data-ref="n440"><a class="md-toc-inner" href="#header-n440">8.6 WvW</a></span><span class="md-toc-item md-toc-h1" data-ref="n441"><a class="md-toc-inner" href="#header-n441">Chapter 9: Other</a></span><span class="md-toc-item md-toc-h2" data-ref="n442"><a class="md-toc-inner" href="#header-n442">Chapter 9.1: Inventory Management</a></span><span class="md-toc-item md-toc-h2" data-ref="n443"><a class="md-toc-inner" href="#header-n443">Chapter 9.2: Crafting</a></span><span class="md-toc-item md-toc-h2" data-ref="n444"><a class="md-toc-inner" href="#header-n444">Chapter 9.3: Questing</a></span><span class="md-toc-item md-toc-h2" data-ref="n445"><a class="md-toc-inner" href="#header-n445">Chapter 9.4: Chat commands</a></span><span class="md-toc-item md-toc-h2" data-ref="n446"><a class="md-toc-inner" href="#header-n446">Chapter 9.5: Heart of Thorns</a></span><span class="md-toc-item md-toc-h2" data-ref="n447"><a class="md-toc-inner" href="#header-n447">Chapter 9.6: Path of Fire</a></span><span class="md-toc-item md-toc-h1" data-ref="n448"><a class="md-toc-inner" href="#header-n448">Chapter 10: Further Resources</a></span></p></div><hr /><h1><a name='header-n8' class='md-header-anchor '></a>Chapter 0: Basic Terminology</h1><ul><li>If numbers are used the base value for level 80 and or the rarity exotic is used. Other level or rarity gear/skills have different numbers.</li><li>CC means Crowd-Control. Generally that refers to skills that in some way restrict the control an enemy has over his character.</li><li>​</li></ul><h2><a name='header-n19' class='md-header-anchor '></a>Chapter 0.1 Races</h2><blockquote><p>It is no problem for new players that want to play together to get different races, since the first way point in every starting region is unlocked for every player from the beginning. 
+This enables new players to play with their friends even if they have just free to play accounts.</p></blockquote><h3><a name='header-n24' class='md-header-anchor '></a>0.1.1 Norn</h3><p>The Norn i don&#39;t actually know jack shit about besides that they are over sized humans that can transform into animals. Their main city is Hoelbrak, which they built after they were forced out of the north by the elder dragon Jormag.</p><h3><a name='header-n27' class='md-header-anchor '></a>0.1.2 Charr</h3><p>The Charr are a feline race native to Tyria. 250 years ago they fought war against the humans to reclaim territories taken from them by the humans. Their main city in the game is the black citadel, built on the ruins of the old human kingdom of Ascalon.</p><h3><a name='header-n30' class='md-header-anchor '></a>0.1.3 Asura</h3><p>The Asura are one of the older races. Though not native to the surface they were forced out of the underground by the elder dragon Primordus. They are best known for their intelligence, technological advantages and their inflated ego. Their main city is Rata Sum, built after they had to escape the underground.</p><h3><a name='header-n33' class='md-header-anchor '></a>0.1.4 Sylvari</h3><p>The Sylvari are the youngest race of the planet, only having come to live ~25 years before the events of Guild Wars 2. Their main city is the Grove, where they all awaken from the dream to come into this world.</p><h3><a name='header-n36' class='md-header-anchor '></a>0.1.5 Humans</h3><p>Humans are the only non-native race on the planet that the player can choose. While a thriving force on Tyria in the older times, they are only a shadow of their former glory and influence. Their capital City is Divinity&#39;s Reach, one of the last major human cities.</p><h1><a name='header-n39' class='md-header-anchor '></a>Chapter 1: The User Interface</h1><ul><li><p>Top left</p></li><li><p>Top right</p></li><li><p>map</p></li><li><p>chat</p></li><li><p>menus</p></li><li><p>center </p><ul><li>how to swap skills</li><li>show/hide cooldowns etc</li></ul></li><li><p>mentioning mods like ICM/ARCdps/TaCo ?</p></li></ul><h1><a name='header-n69' class='md-header-anchor '></a>Chapter 2: Movement, Camera and Targeting</h1><h2><a name='header-n70' class='md-header-anchor '></a>Chapter 2.1 Movement</h2><h2><a name='header-n71' class='md-header-anchor '></a>Chapter 2.2 Tab Targeting</h2><h2><a name='header-n72' class='md-header-anchor '></a>Chapter 2.3 Action Cam</h2><h2><a name='header-n73' class='md-header-anchor '></a>Chapter 2.4 Other</h2><h1><a name='header-n74' class='md-header-anchor '></a>Chapter 3: Combat</h1><ul><li>basics</li><li>levelcap for maps</li><li>dodging</li><li>combofields</li><li>conditions</li><li>weak trinity</li></ul><h2><a name='header-n94' class='md-header-anchor '></a>3.x: Boons and Conditions</h2><p>Most status effects in the game come in the way of boons or conditions. Boons is the term for positive effects, Condition for negative. They can either stack intensity, meaning that when the same is applied again the effect gets stronger, or they can stack duration, meaning when the same is applied the time is increased.</p><p><strong>Boons:</strong></p><ul><li><strong>Regeneration</strong>: Regenerate health over timer, stacks duration</li><li><strong>Stability</strong>: While you have stability you can&#39;t be hard CCed, stacks intensity</li><li><strong>Might</strong>: Gain Power and Condition-damage, stacks intensity</li><li><strong>Fury</strong>: 20% critical hit chance, stacks duration</li><li><strong>Aegis</strong>: block the next attack, stacks duration</li><li><strong>Resistance</strong>: be unaffected by conditions, stacks duration</li><li><strong>Alacrity</strong>: reduces the skill recharge time by 33%, stacks duration</li><li><strong>Swiftness</strong>: move 33% faster, stacks duration</li><li><strong>Quickness</strong>: execute skills 33% faster, stacks duration</li></ul><p><strong>Conditions:</strong></p><ul><li><p>Damaging Conditions, stacking Intensity</p><ul><li><strong>Burn</strong>: damage</li><li><strong>Poison</strong>: damage and reduce received healing</li><li><strong>Confusion</strong>: damage and extra damage on skill activation</li><li><strong>Torment</strong>: damage and extra damage while moving</li><li><strong>Bleeding</strong>: damage</li></ul></li><li><p>Crowd Control Conditions, stacking duration</p><blockquote><p>See the chapter over Crowd Control</p></blockquote><ul><li>Chill</li><li>Weakness</li><li>Blind</li><li>Cripple</li><li>Fear</li><li>Immobilize</li></ul></li></ul><h2><a name='header-n174' class='md-header-anchor '></a>3.x: Combofields</h2><p>There are different Types of Fields and Finishers. When a Finisher is activated inside a Combofield a special Interaction happens depending on the Type of Field and Finisher.</p><ul><li>Blasts have an AoE effect</li><li>Leaps only affect yourself</li><li>Projectiles gain an additional effect, usually applying a boon or condition</li><li>Whirls create projectiles with the additional effect</li></ul><figure><table><thead><tr><th>Field</th><th>Blast Finisher (AoE)</th><th>Leap Finisher</th><th>Projectile Finisher</th><th>Whirl Finisher</th></tr></thead><tbody><tr><td>Dark</td><td>blind enemies (AoE)</td><td>blind enemies</td><td>Steal life</td><td>Lifestealing Projectiles</td></tr><tr><td>Ethereal</td><td>Chaos Aura (AoE)</td><td>Chaos Aura</td><td>Confusion</td><td>Confusion Projectiles</td></tr><tr><td>Fire</td><td>Might (AoE)</td><td>Fire Aura</td><td>Burning</td><td>Burning Projectiles</td></tr><tr><td>Ice</td><td>Frost Aura(AoE)</td><td>Frost Aura</td><td>Chilled</td><td>Chilling Projectiles</td></tr><tr><td>Light</td><td>Clean Condition(AoE)</td><td>Light Aura</td><td>Remove Condition</td><td>Cleansing Projectiles</td></tr><tr><td>Lightning</td><td>Swiftness (AoE)</td><td>Daze</td><td>Vulnerability</td><td>Vulnerability Projectiles</td></tr><tr><td>Poison</td><td>Weakness (AoE)</td><td>Weakness</td><td>Poision</td><td>Poisoning Projectiles</td></tr><tr><td>Smoke</td><td>Invisibility (AoE)</td><td>Invisibility</td><td>Blindness</td><td>Blinding Projectiles</td></tr><tr><td>Water</td><td>Healing (AoE)</td><td>Healing</td><td>Regeneration</td><td>Healing Projectiles</td></tr></tbody></table></figure><h2><a name='header-n251' class='md-header-anchor '></a>3.x: Break-bars and Crowd Control</h2><p>When playing the game you will sometimes encounter enemies that have a blue bar below their healhbar. This indicates that the champion can not be stunned instantly. It is needed to reduce that bar to 0%, at wich point it slowly regenerates.</p><p>To remove the bar players need to use Crowd-Control abilities (alias CC). There are different types of CC and  you can see if a skill inflicts CC by reading the description.</p><p>&nbsp;</p><p><strong>Hard CC:</strong></p><p>Hard CCs do more damage to breakbars, but can be avoided with stability. If the target possesss stability 1 stack of it gets remove instead of the effect of the CC activating.</p><ul><li><strong>Stuns</strong>: the target is unable to move or use skills</li><li><strong>Daze</strong>: the target is able to move but unable to use skills</li><li><strong>Float</strong>: another form of stun</li><li><strong>Knockdown</strong>: another form of stun</li><li><strong>Push/Pull</strong>: the target is moved from its current position and unable to use skills/move on its own</li><li><strong>Fear</strong>: the target runs away from you unable to move on their own or use skills</li></ul><p><strong>Soft CC:</strong></p><p>Soft CCs do less damage to break-bars and are not as severe as hard CCs, however they can not be countered by <em>stability</em> but instead are countered by <em>resistance</em>.</p><blockquote><p>Note: Fear is special in the sense that it gets countered by stability as well as resistance and aegis.</p></blockquote><ul><li><strong>Chill</strong>: the targets movement speed and skill recharge speed are reduced by 66%</li><li><strong>Cripple</strong>: the targets movement speed is reduced by 50%</li><li><strong>Immobilize</strong>: the target is unable to move but can execute skills</li><li><strong>Weakness</strong>: reduces the targets <em>endurance</em> regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage</li><li><strong>Blindness</strong>: the next attack misses</li></ul><h1><a name='header-n304' class='md-header-anchor '></a>Chapter 4: Classes</h1><h2><a name='header-n305' class='md-header-anchor '></a>Chapter 4.1: Heavy Armor (Soldier)</h2><p>Soldier classes have the highest base armor in the game, coming in at  <strong>1211</strong> armor.</p><h2><a name='header-n308' class='md-header-anchor '></a>Chapter 4.2: Medium Armor (Adventurer)</h2><p>Adventurer classes have the middle amount of armor, coming in at <strong>1064</strong> armor.</p><h2><a name='header-n311' class='md-header-anchor '></a>Chapter 4.3: Light Armor (Scholar)</h2><p>Scholar classes have the least armor in the game, coming in at <strong>920</strong> armor.</p><h2><a name='header-n314' class='md-header-anchor '></a>Chapter 4.3.1: Elementalist</h2><ul><li>core</li><li>tempest</li><li>weaver</li></ul><p>...</p><h1><a name='header-n327' class='md-header-anchor '></a>Chapter 5: Equipment</h1><h2><a name='header-n328' class='md-header-anchor '></a>5.1 Attribute Combinations</h2><p>Equipment differentiates in the bonuses it provides. Generally any armor/weapon has either 3 or 4 attributes.that it gives. On lower level equipment it is however normal to only get one or two stats from it. One exclusion from that is the divine attribute combination, which provides 7 attributes. Depending on the rarity and type of equipment the amount of stats differs.</p><p><img src='img/en/stats.png' alt='Statsheet' /></p><p>&nbsp;</p><p>To read more on the topic of attribute combinations check out the <a href='https://wiki.guildwars2.com/wiki/Attribute_combinations'>wiki</a>. That is also where the awesome table comes from.</p><h2><a name='header-n337' class='md-header-anchor '></a>5.2 Rarities</h2><p>In typical MMO fashion equipment and drops are separated by rarity. Legendary equipment always has the same stats as the highest rarity available for the particular equipment type (usually ascended).</p><figure><table><thead><tr><th>Rarity Name</th><th>Levels available</th><th>Relative stats</th><th>Improvement</th></tr></thead><tbody><tr><td><strong>Junk</strong></td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td><strong>Basic</strong></td><td>1-80</td><td>100%</td><td>N/A</td></tr><tr><td><strong>Fine</strong></td><td>1-80</td><td>125%</td><td>25%</td></tr><tr><td><strong>Masterwork</strong></td><td>14-80</td><td>135%</td><td>8%</td></tr><tr><td><strong>Rare</strong></td><td>30-80</td><td>145%</td><td>7%</td></tr><tr><td><strong>Exotic</strong></td><td>62-80</td><td>165%</td><td>14%</td></tr><tr><td><strong>Ascended</strong></td><td>80</td><td>175%</td><td>6%</td></tr><tr><td><strong>Legendary</strong></td><td>80</td><td>175%</td><td>0%</td></tr></tbody></table></figure><ul><li><p>Skins</p></li><li><p>Other</p></li><li><p>Statsets</p></li><li><p>Runes</p></li><li><p>Sigils</p></li><li><p>Food</p><p>​</p></li></ul><h1><a name='header-n407' class='md-header-anchor '></a>Chapter 6: Gamemodes</h1><h2><a name='header-n408' class='md-header-anchor '></a>Chapter 6.1: PvP</h2><ul><li>How builds work</li><li>how gamemodes work</li><li>how progression works</li><li>how seasons work</li></ul><h2><a name='header-n422' class='md-header-anchor '></a>Chapter 6.2: WvW</h2><ul><li>i ain&#39;t know shit about WvW, sorry</li></ul><h2><a name='header-n427' class='md-header-anchor '></a>Chapter 6.3: PvE</h2><h3><a name='header-n428' class='md-header-anchor '></a>Chapter 6.3.1 Living World and Expansions</h3><h1><a name='header-n429' class='md-header-anchor '></a>Chapter 7: Social</h1><h2><a name='header-n430' class='md-header-anchor '></a>Chapter 7.1: LFG</h2><h2><a name='header-n431' class='md-header-anchor '></a>Chapter 7.2: Guilds</h2><h1><a name='header-n432' class='md-header-anchor '></a>Chapter 8: End Game Content</h1><h2><a name='header-n433' class='md-header-anchor '></a>8.1 Fractals of the Mist (FotM)</h2><p>The fractals of the mist are 5 party instances that act like mini-dungeons. The have a unique mechanic called agony. There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed, in order to get agony-resistance however one has to acquire <a href='#header-n337'>ascended armor</a>.</p><h2><a name='header-n436' class='md-header-anchor '></a>8.2 Dungeons</h2><h2><a name='header-n437' class='md-header-anchor '></a>8.3 Raids</h2><h2><a name='header-n438' class='md-header-anchor '></a>8.4 Fashion Wars</h2><h2><a name='header-n439' class='md-header-anchor '></a>8.5 PVP</h2><h2><a name='header-n440' class='md-header-anchor '></a>8.6 WvW</h2><h1><a name='header-n441' class='md-header-anchor '></a>Chapter 9: Other</h1><h2><a name='header-n442' class='md-header-anchor '></a>Chapter 9.1: Inventory Management</h2><h2><a name='header-n443' class='md-header-anchor '></a>Chapter 9.2: Crafting</h2><h2><a name='header-n444' class='md-header-anchor '></a>Chapter 9.3: Questing</h2><h2><a name='header-n445' class='md-header-anchor '></a>Chapter 9.4: Chat commands</h2><h2><a name='header-n446' class='md-header-anchor '></a>Chapter 9.5: Heart of Thorns</h2><h2><a name='header-n447' class='md-header-anchor '></a>Chapter 9.6: Path of Fire</h2><h1><a name='header-n448' class='md-header-anchor '></a>Chapter 10: Further Resources</h1><p><strong>GW2Efficency</strong></p><p>Gw2Efficency is a webside wich can be used to calculate crafting recipes, check out stats about your account, see information about the economy and many more things.</p><p><a href='http://www.gw2efficency.com'>Find it here</a></p><hr /><p><strong>Metabattle</strong></p><p>Metabattle is THE side for the builds currently beeing considered the best in PvP, PvE and WvW.</p><p><a href='http://www.metabattle.com'>Find it here</a></p><hr /><p><strong>dulfy.net</strong>
+Dulfy contains many guides for achievements as well as basic tutorials about Raids, Fractals, Dungeons and more.</p><p><a href='http://www.dulfy.net'>Find it here</a></p><hr /><p><strong>Reddit</strong></p><p>The Guild Wars 2 subreddit is arguably one of the biggest online communities for Guild Wars 2.</p><p><a href='http://www.reddit.com/r/guildwars2'>Find it here</a></p><hr /><p><strong>Happy Raiders Kit</strong></p><p>The Happy Raider&#39;s Kit is a document containing information on how to best get into raids.</p><p><a href='https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1'>Find it here</a></p><blockquote><p>Note that raids are end game content and if you are just starting the game it will take a while to get there. The fastest recorded time to get raid ready from a zero account (with planning and knowledge)  was roughly 42 hours of gametime. This was achieved by <a href='www.youtube.com/user/WoodenPotatoes'>WoodenPotatoes</a>.</p></blockquote><hr /><p>&nbsp;</p></div>
+</body>
+</html>
