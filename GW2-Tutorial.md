@@ -2,6 +2,8 @@
 
 By the community, for the community.
 
+> If you want to contribute to this tutorial head over to https://github.com/Rkoturdo-Ndo/GW2-Tutorial. Whether it is just raising awareness of issues or actually contributing text, everything is welcome.
+
 ![Southsun](img/en/Southsun.jpg)
 
 [TOC]
@@ -53,6 +55,12 @@ In the top left of the User Interface you can find your party, showing health as
 
 Settings | Friends | Hero-Panel | Inventory | Mail | Trading-Post | Guilds | World vs. World | PvP
 
+**Top center**
+
+![Top Center](img/en/top_center.jpg)
+
+In the top center it shows information about your currently targeted enemy. This consists of healthbar, name, icon, [breakbar](#3.x: Break-bars and Crowd Control) (if existent) as well as boons and conditions.
+
 **Top right**
 
 ![Top Right](img/en/top_right.jpg)
@@ -83,13 +91,13 @@ In the bottom center is the most important part of the user interface. It shows 
 
 # Chapter 2: Movement, Camera and Targeting
 
-## Chapter 2.1 Movement
+## 2.1 Movement
 
-## Chapter 2.2 Tab Targeting
+## 2.2 Tab Targeting
 
-## Chapter 2.3 Action Cam
+## 2.3 Action Cam
 
-## Chapter 2.4 Other
+## 2.4 Other
 
 # Chapter 3: Combat
 
@@ -145,17 +153,17 @@ There are different Types of Fields and Finishers. When a Finisher is activated 
 - Projectiles gain an additional effect, usually applying a boon or condition
 - Whirls create projectiles with the additional effect
 
-| Field     | Blast Finisher (AoE) | Leap Finisher | Projectile Finisher | Whirl Finisher            |
-| --------- | -------------------- | ------------- | ------------------- | ------------------------- |
-| Dark      | blind enemies (AoE)  | blind enemies | Steal life          | Lifestealing Projectiles  |
-| Ethereal  | Chaos Aura (AoE)     | Chaos Aura    | Confusion           | Confusion Projectiles     |
-| Fire      | Might (AoE)          | Fire Aura     | Burning             | Burning Projectiles       |
-| Ice       | Frost Aura(AoE)      | Frost Aura    | Chilled             | Chilling Projectiles      |
-| Light     | Clean Condition(AoE) | Light Aura    | Remove Condition    | Cleansing Projectiles     |
-| Lightning | Swiftness (AoE)      | Daze          | Vulnerability       | Vulnerability Projectiles |
-| Poison    | Weakness (AoE)       | Weakness      | Poision             | Poisoning Projectiles     |
-| Smoke     | Invisibility (AoE)   | Invisibility  | Blindness           | Blinding Projectiles      |
-| Water     | Healing (AoE)        | Healing       | Regeneration        | Healing Projectiles       |
+| Field         | Blast Finisher (AoE) | Leap Finisher | Projectile Finisher | Whirl Finisher            |
+| ------------- | -------------------- | ------------- | ------------------- | ------------------------- |
+| **Dark**      | blind enemies (AoE)  | blind enemies | Steal life          | Lifestealing Projectiles  |
+| **Ethereal**  | Chaos Aura (AoE)     | Chaos Aura    | Confusion           | Confusion Projectiles     |
+| **Fire**      | Might (AoE)          | Fire Aura     | Burning             | Burning Projectiles       |
+| **Ice**       | Frost Aura(AoE)      | Frost Aura    | Chilled             | Chilling Projectiles      |
+| **Light**     | Clean Condition(AoE) | Light Aura    | Remove Condition    | Cleansing Projectiles     |
+| **Lightning** | Swiftness (AoE)      | Daze          | Vulnerability       | Vulnerability Projectiles |
+| **Poison**    | Weakness (AoE)       | Weakness      | Poision             | Poisoning Projectiles     |
+| **Smoke**     | Invisibility (AoE)   | Invisibility  | Blindness           | Blinding Projectiles      |
+| **Water**     | Healing (AoE)        | Healing       | Regeneration        | Healing Projectiles       |
 
 ## 3.x: Break-bars and Crowd Control
 
@@ -190,19 +198,19 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 
 # Chapter 4: Classes
 
-## Chapter 4.1: Heavy Armor (Soldier)
+## 4.1: Heavy Armor (Soldier)
 
 Soldier classes have the highest base armor in the game, coming in at  **1211** armor.
 
-## Chapter 4.2: Medium Armor (Adventurer)
+## 4.2: Medium Armor (Adventurer)
 
 Adventurer classes have the middle amount of armor, coming in at **1064** armor.
 
-## Chapter 4.3: Light Armor (Scholar)
+## 4.3: Light Armor (Scholar)
 
 Scholar classes have the least armor in the game, coming in at **920** armor.
 
-## Chapter 4.3.1: Elementalist
+## 4.3.1: Elementalist
 
 - core
 - tempest
@@ -293,26 +301,26 @@ Sigils are used to increase the usefulness of weapons. One-handed weapons have o
 
 # Chapter 6: Gamemodes
 
-## Chapter 6.1: PvP
+## 6.1: PvP
 
 - How builds work
 - how gamemodes work
 - how progression works
 - how seasons work
 
-## Chapter 6.2: WvW
+## 6.2: WvW
 
 - i ain't know shit about WvW, sorry
 
-## Chapter 6.3: PvE
+## 6.3: PvE
 
-### Chapter 6.3.1 Living World and Expansions
+### 6.3.1 Living World and Expansions
 
 # Chapter 7: Social
 
-## Chapter 7.1: LFG
+## 7.1: LFG
 
-## Chapter 7.2: Guilds
+## 7.2: Guilds
 
 # Chapter 8: End Game Content
 
@@ -332,17 +340,17 @@ The fractals of the mist are 5 party instances that act like mini-dungeons. The 
 
 # Chapter 9: Other
 
-## Chapter 9.1: Inventory Management
+## 9.1: Inventory Management
 
-## Chapter 9.2: Crafting
+## 9.2: Crafting
 
-## Chapter 9.3: Questing
+## 9.3: Questing
 
-## Chapter 9.4: Chat commands
+## 9.4: Chat commands
 
-## Chapter 9.5: Heart of Thorns
+## 9.5: Heart of Thorns
 
-## Chapter 9.6: Path of Fire
+## 9.6: Path of Fire
 
 # Chapter 10: Further Resources
 
