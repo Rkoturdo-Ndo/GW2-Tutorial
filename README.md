@@ -100,12 +100,11 @@ Most status effects in the game come in the way of boons or conditions. Boons is
 
   > See the chapter over Crowd Control
 
-  - Chill
-  - Weakness
-  - Blind
-  - Cripple
-  - Fear
-  - Immobilize
+  - **Chill**: the targets movement speed and skill recharge speed are reduced by 66%
+  - **Cripple**: the targets movement speed is reduced by 50%
+  - **Immobilize**: the target is unable to move but can execute skills
+  - **Weakness**: reduces the targets *endurance* regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage
+  - **Blindness**: the next attack misses
 
 ## 3.x: Combofields
 
@@ -189,6 +188,46 @@ Equipment differentiates in the bonuses it provides. Generally any armor/weapon 
 
 ![Statsheet](img/en/stats.png)
 
+### 5.1.2 Primary attributes
+
+There are 4 primary attributes. These are the only ones that a character by himself has. At level 80 they they all have the baseline of 1000. Every other attribute has a baseline of 0.
+
+**Offensive**
+
+- **Power**: Increases outgoing direct damage
+- **Precision**: Increases critical hit chance
+
+**Defensive**
+
+- **Toughness**: Increases armor
+- **Vitality**: Increases health
+
+###5.1.3 Secondary attributes
+
+There are 5 secondary attributes. These have no baseline and can only be aquired over equipment, boons and buffs.
+
+**Offensive**
+
+- **Condition Damage**: Increases damage done by inflicting conditions
+- **Expertise**: Increases duration of conditions
+- **Ferocity**: Increases critical hit damage
+
+**Defensive**
+
+- **Concentration**: Increases duration of boons
+- **Healing power**: Increases all outgoing healing
+
+### 5.1.4 Derived attributes
+
+There are 6 derived attributes, which are calculated from a corresponding primary attribute
+
+- **Armor**: Increased by Toughness and Defense, reduces incoming direct damage
+- **Boon Duration**: Increases duration of boons, 1% per 15 Concentration
+- **Critical Chance**: Increases critical hit chance, 1% per 21 Precision
+- **Critical Damage**: Increases critical hit damage, 1% per 150 Ferocity
+- **Condition Duration**: Increases duration of all inflicted conditions, 1% per 15 Expertise
+- **Health**: Maximum health, depends on profession, 10 Health per 1 Vitality
+
 
 
 To read more on the topic of attribute combinations check out the [wiki](https://wiki.guildwars2.com/wiki/Attribute_combinations). That is also where the awesome table comes from.
@@ -197,30 +236,30 @@ To read more on the topic of attribute combinations check out the [wiki](https:/
 
 In typical MMO fashion equipment and drops are separated by rarity. Legendary equipment always has the same stats as the highest rarity available for the particular equipment type (usually ascended).
 
-| Rarity Name    | Levels available | Relative stats | Improvement |
-| -------------- | ---------------- | -------------- | ----------- |
-| **Junk**       | N/A              | N/A            | N/A         |
-| **Basic**      | 1-80             | 100%           | N/A         |
-| **Fine**       | 1-80             | 125%           | 25%         |
-| **Masterwork** | 14-80            | 135%           | 8%          |
-| **Rare**       | 30-80            | 145%           | 7%          |
-| **Exotic**     | 62-80            | 165%           | 14%         |
-| **Ascended**   | 80               | 175%           | 6%          |
-| **Legendary**  | 80               | 175%           | 0%          |
+| Rarity Name    | Color  | Levels available | Relative stats | Improvement |
+| -------------- | ------ | ---------------- | -------------- | ----------- |
+| **Junk**       | Grey   | N/A              | N/A            | N/A         |
+| **Basic**      | White  | 1-80             | 100%           | N/A         |
+| **Fine**       | Blue   | 1-80             | 125%           | 25%         |
+| **Masterwork** | Green  | 14-80            | 135%           | 8%          |
+| **Rare**       | Yellow | 30-80            | 145%           | 7%          |
+| **Exotic**     | Orange | 62-80            | 165%           | 14%         |
+| **Ascended**   | Pink   | 80               | 175%           | 6%          |
+| **Legendary**  | Purple | 80               | 175%           | 0%          |
 
-- Skins
+## 5.3 Runes
 
-- Other
+Runes are used to increase the usefulness of armor. Each piece of armor has one rune slot, meaning in total you can equip 6 runes. The more of the same rune you stack the stronger the effect becomes. On lower levels this is capped to 2 stacks, on higher levels it goes up to 6. There are many different runes, ranging from providing simple stat boosts to having on hit effects or effects that are triggered by health thresholds. 
 
-- Statsets
+## 5.4 Sigils
 
-- Runes
+Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons two. You can **NOT** stack sigils in order to increase their usefulness. As with runes their effects have a wide range.
 
-- Sigils
+## 5.5 Food
 
-- Food
 
-  ​
+
+​
 
 # Chapter 6: Gamemodes
 
