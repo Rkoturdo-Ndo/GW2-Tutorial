@@ -185,8 +185,6 @@ When playing the game you will sometimes encounter enemies that have a blue bar 
 
 To remove the bar players need to use Crowd-Control abilities (alias CC). There are different types of CC and  you can see if a skill inflicts CC by reading the description.
 
-
-
 **Hard CC:**
 
 Hard CCs do more damage to breakbars, but can be avoided with stability. If the target possesss stability 1 stack of it gets remove instead of the effect of the CC activating.
@@ -317,11 +315,15 @@ Sigils are used to increase the usefulness of weapons. One-handed weapons have o
 There are two different types of consumables in Guild Wars 2. One being food, the other being Enhancements. They can be applied at the same time, however only one of each type. Meaning that if you eat food the current foodbuff gets replaced with a new one. 
 They usually grant passive stats like ferocity, boonduration or similar. Move information about consumables can be found on the [wiki](https://wiki.guildwars2.com/wiki/Consumable).
 
+##5.6 Skins
+
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
 # Chapter 6: Gamemodes
+
+The game consists of 3 main gamemodes. While it is perfectly possible to play all 3 they are very different and not each of them caters to everyone. If you find yourself disliking a particular mode you might try the others to see if they are more fun for you.
 
 ## 6.1: PvP
 
@@ -344,7 +346,7 @@ They usually grant passive stats like ferocity, boonduration or similar. Move in
 
 # Chapter 7: Social
 
-## 7.1: LFG
+## 7.1: LFGg
 
 ## 7.2: Guilds
 
@@ -424,9 +426,19 @@ Hall of Chains is the newest Raid released and the only one not being part of He
 
 ## 8.4 Fashion Wars
 
+A really big part of Guild Wars 2 is Fashion. The game has a rather complex skin system, you can read more about it in [chapter 5.6](#5.6 Skins). For many people the end goal in the game is to collect certain skins. Many are relatively easy to get, but the most prestigious ones take time and effort to acquire.
+
 ## 8.5 PVP
 
+Personally I am not much of a PvP player, so this section is cut rather short. There is a league system in the game. PvP also offers reward tracks, meaning that you can select a track and every game you play gives you progress towards is, with loot at certain stages and a grand chest at the end. As well as that there is an automated tournament system with multiple tournaments per day and a really big monthly tournament. Winning that grants you a statue in the heart of the mists, the PvP lobby of the game. PvP offers to you acquire a unique legendary backpack.
+
+One important note about PvP is that there is no gear grind. Stats are handled with amulets you can equip. While some of them have a small up front initial cost this enables the game to be fair balanced stat wise. Someone just joining has the same tools to win like an experienced player.
+
 ## 8.6 WvW
+
+Similar to PvP I don't know much about WvW. World vs World is a massive scale PvP where servers fight against one another to seize control of 3 regions. Similar to PvP it offers reward tracks and has its own legendary backpack you can acquire.
+
+Other than PvP a gear grind technically exists in WvW since it doesn't use amulets but the PvE weapons and armor you wear. This means that you have way more freedom in your builds, but at the same time have to take care of having decent equipment.
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -466,7 +478,16 @@ Metabattle is THE side for the builds currently beeing considered the best in Pv
 
 ------
 
+**GODSofPvP**
+
+Gods of PvP is a fairly new site (as far as I know) focused on builds and tutorials for PvP.
+
+[Find it here](http://godsofpvp.net/)
+
+---
+
 **dulfy.net**
+
 Dulfy contains many guides for achievements as well as basic tutorials about Raids, Fractals, Dungeons and more.
 
 [Find it here](http://www.dulfy.net)
@@ -487,7 +508,7 @@ The Happy Raider's Kit is a document containing information on how to best get i
 
 [Find it here](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1)
 
-> Note that raids are end game content and if you are just starting the game it will take a while to get there. The fastest recorded time to get raid ready from a zero account (with planning and knowledge)  was roughly 42 hours of gametime. This was achieved by [WoodenPotatoes](www.youtube.com/user/WoodenPotatoes).
+> Note that raids are end game content and if you are just starting the game it will take a while to get there. The fastest recorded time to get raid ready from a zero account (with planning and knowledge)  was roughly 42 hours of gametime. This was achieved by [WoodenPotatoes](www.youtube.com/user/WoodenPotatoes). Realistically you might take way longer than that, having to learn the game aswell. 
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
