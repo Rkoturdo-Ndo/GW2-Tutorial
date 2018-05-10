@@ -627,11 +627,11 @@ The trading post is the main way for players to trade items, since there is **no
 
 # Chapter 10: Further Resources
 
-**GW2Efficency**
+**GW2Efficiency**
 
-Gw2Efficency is a website which can be used to calculate crafting recipes, check out stats about your account, see information about the economy and many more things.
+Gw2Efficiency is a website which can be used to calculate crafting recipes, check out stats about your account, see information about the economy and many more things.
 
-[Find it here](http://www.gw2efficency.com)
+[Find it here](http://www.gw2efficiency.com)
 
 ------
 
