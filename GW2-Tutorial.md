@@ -13,9 +13,16 @@ By the community, for the community.
 # Chapter 0: Basic Terminology
 
 - If numbers are used the base value for level 80 and or the rarity exotic is used. Other level or rarity gear/skills have different numbers.
+
 - CC means Crowd-Control. Generally that refers to skills that in some way restrict the control an enemy has over his character.
+
 - The game scales you down when visiting lower level areas, so don't think it is an issue to play with friends who are a lower level.
+
 - You don't have to worry about griefing since you will get rewards for a mob for simply participating in the kill, even if you do not deliver the finishing blow.
+
+- Because of how the game works there is no downtime on patchdays. Also the server selection only matters for world vs. world. This is because of the instanced map system. [Here](http://www.gdcvault.com/play/1016640/Guild-Wars-2-Programming-the) is a technical presentation of an engineer about how it works.
+
+  > Guild Wars 1 has had about 24 hours of downtime so far in about 13 years.
 
 ## 0.1 Races
 
@@ -61,7 +68,7 @@ The user interface can be separated into different areas on the screen. Generall
 
 In the top left of the User Interface you can find your party, showing health as well as boons and conditions. Over that there are different buttons to open parts of the Interface. From the left to the right:
 
-Settings | Friends | Hero-Panel | Inventory | Mail | Trading-Post | Guilds | World vs. World | PvP
+Settings | Friends / LFG | Hero-Panel | Inventory | Mail | Trading-Post | Guilds | World vs. World | PvP
 
 **Top center**
 
@@ -87,6 +94,8 @@ In the bottom left the chat is displayed. Under that you can see your current le
 
 In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills and their cooldown and current boons and conditions that might apply to you. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
 
+Also you can see if your equipment is damaged or broken by the small orange/red shield on the bottom right of the health bubble.
+
 **Bottom right**
 
 ![Bottom Right](img/en/bottom_right.jpg)
@@ -94,8 +103,6 @@ In the bottom center is the most important part of the user interface. It shows 
 In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests as well as other things.
 
 > If you are to lazy to open all the chest to get them away you can simply right-click to instantly put the reward into your inventory.
-
-
 
 ## 1.2 Menus
 
@@ -196,13 +203,15 @@ There are different types of fields and finishers. When a finisher is activated 
 
 ## 3.x Break-bars and Crowd Control
 
-When playing the game you will sometimes encounter enemies that have a blue bar below their healhbar. This indicates that the champion can not be stunned instantly. It is needed to reduce that bar to 0%, at wich point it slowly regenerates.
+When playing the game you will sometimes encounter enemies that have a blue bar below their healthbar. This indicates that the champion can not be stunned instantly. It is needed to reduce that bar to 0%, at which point it slowly regenerates.
+
+![breakbar](img/en/breakbar.jpg)
 
 To remove the bar players need to use Crowd-Control abilities (alias CC). There are different types of CC and  you can see if a skill inflicts CC by reading the description.
 
 **Hard CC:**
 
-Hard CCs do more damage to breakbars, but can be avoided with stability. If the target possesss stability 1 stack of it gets remove instead of the effect of the CC activating.
+Hard CCs do more damage to breakbars, but can be avoided with stability. If the target possesses stability 1 stack of it gets removed instead of the effect of the CC activating.
 
 - **Stuns**: the target is unable to move or use skills
 - **Daze**: the target is able to move but unable to use skills
@@ -363,6 +372,14 @@ The game consists of 3 main gamemodes. While it is perfectly possible to play al
 
 ## 7.1: LFG
 
+The LFG is the main way for you to find players to play with. If for dungeons, casual roleplay, personal story or achievements, this is your go to way to find players.
+
+![LFG](img/en/lfg.jpg)
+
+It is separated into different categories. In order for you to be able to jump into it, here is a short list of common aberrations used in the LFG:
+
+
+
 ## 7.2: Guilds
 
 [To the top](#Guild Wars 2 new Player Tutorial)
@@ -414,7 +431,7 @@ Enter the resurfaced sunken capital Arah of the ancient human kindgom of Orr. Fi
 
 ## 8.3 Raids
 
-Raids are the newest end game content in the game. They were first introduced with the Heart of Thorns expansion. In order to be able to play raids you need the Expansion in wich they ship. There are currently 5 Raid wings. Raiding itself is a bit out of scope of this tutorial, so you might want to check out the [Happy Raiders Kit](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1) if you intend to pursue them.
+Raids are the newest end game content in the game. They were first introduced with the Heart of Thorns expansion. In order to be able to play raids you need the Expansion in which they ship. There are currently 5 Raid wings. Raiding itself is a bit out of scope of this tutorial, so you might want to check out the [Happy Raiders Kit](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1) if you intend to pursue them.
 
 **Forsaken Thicket**
 
@@ -426,11 +443,11 @@ Spirit Vale is the first Wing of the Forsaken Thicket, consisting of 3 distinct 
 
 **Salvation Pass**
 
-Salvation Pass is the second Wing. It also features 3 boss encounters. Venture deepter into the Thicket to save what you can of the squad.
+Salvation Pass is the second Wing. It also features 3 boss encounters. Venture deeper into the Thicket to save what you can of the squad.
 
 **Stronghold of the Faithful**
 
-The third wing of the first raid also features 3 boss encouters. The first one beeing an escort quest, the rest normal bosses. Enter the stronghold of the white mantle to stop them in their evil deeds.
+The third wing of the first raid also features 3 boss encounters. The first one being an escort quest, the rest normal bosses. Enter the stronghold of the white mantle to stop them in their evil deeds.
 
 **Bastion of the Penitent**
 
@@ -484,11 +501,70 @@ The active skills are what is put on the right side bar of your skills. Meaning 
 
 ## 9.3 Inventory Management
 
+Inventory management can be a huge part of MMOs. Guild Wars tries to make it as little painful as possible.  One of the unusual things you can do in GW is deposit all materials in your inventory to your material storage with one click.
+
+On the bottom left you see a button that shows you your wallet. Meaning all the different currencies. On the bottom right you see gold and a currency relevant to the map if it exists, or karma otherwise.
+
+![Inventory](img/en/inventory.jpg)
+
+The inventory size is determined by the amount and quality of bags (left row) you have. Bags go from 5 to 32 slots and you can have up to 8 bags. In the top most row you can see shared inventory slots, which are, as the name implies shared between all characters. They are pretty expensive but might be worth the hassle.
+
+**Salvaging** 
+Salvaging found equipment can be worth it in order to get materials out of them. For salvaging you will need salvage kits. If you don't want to click every single item salvage kits offer the option to salvage all of a specific type.
+
+![Salvage](img/en/salvage_all.jpg)
+
 
 
 ## 9.4 Crafting
 
 ## 9.5 Chat commands
+
+Guild Wars 2 offers a plethora of chat commands. Some of them are purely for roleplaying, while others are convenience functions or offer you additional information.
+
+**Communication**
+
+- **/s** or /l to say, meaning that only people around you will hear
+- **/g** to talk in the guild channel of your active (represented) guild. For other guilds use /g1 to /g5
+- **/p** to talk in party chat.
+- **/d** to talk in squadchat
+- **/t** to talk in teamchat (PvP, WvW, Daily Activities)
+- **/m** or /y to talk in mapchat
+- **/w** to whisper someone in private
+- **/r** to respond to someone in private
+- **Backspace** to reply to the last whisper
+
+**Pinging items**
+
+- **CTRL + leftclick** to send a link to an item, skill, waypoint or point of interest
+- **SHIFT + leftclick** to insert a link to an item, skill, waypoint or point of interest in your current message
+
+**Groups**
+
+-  **/invite** [name] - invite a player to join your party
+- **/join** [name] - request to join a player's party
+- **/leave** - leave your current party
+- **/kick** [name] - vote to kick party member (requires a majority vote)
+- **/resign** - Kill yourself. Can only be used in [raids](https://wiki.guildwars2.com/wiki/Raid) or [fractals](https://wiki.guildwars2.com/wiki/Fractal), allows squads or parties to concede defeat faster. (Also available as **/surrender**, **/concede**, **/forfeit**, **/ff**, **/qq** or **/gg**)
+- **/squadjoin** [commander_name] - join a [commander](https://wiki.guildwars2.com/wiki/Commander)'s squad. (Also available as **/sqjoin**)
+- **/squadleave** - leave your current squad. (Also available as **/sqleave**)
+- **/squadinvite** - invite to squad. (Also available as **/sqinvite**)
+
+**General**
+
+- **/age** shows you the age of your character and account
+- **/rank** — drop a banner that will display your current [PvP Rank](https://wiki.guildwars2.com/wiki/PvP_Rank), e.g. if you ranked rabbit it will show a rabbit on the banner and some hopping above.
+- **/rank** <1-80> — drop a banner of a specific PvP Rank, no higher than your current rank.
+- **/deaths** — displays the number of times your character has died, "*You have died <x> time(s).*"
+- **/ip** — displays the IP address of the server.
+- **/support** or **/bug** — opens the [support panel](https://wiki.guildwars2.com/wiki/Support_panel).
+- **/stuck** — teleports the player to the beginning of the instance 
+- **/wiki** opens the wiki in your default browser
+- **/wiki** <keyword> searches the wiki for keyword. Can be combined with shift + leftclick to search for specific items
+
+**Emotes**
+
+For roleplaying Guild Wars 2 offers some emotes. The whole table can be found [here](https://wiki.guildwars2.com/wiki/Emote). 
 
 ## 9.6 Heart of Thorns
 
@@ -501,7 +577,7 @@ The active skills are what is put on the right side bar of your skills. Meaning 
 
 **GW2Efficency**
 
-Gw2Efficency is a webside wich can be used to calculate crafting recipes, check out stats about your account, see information about the economy and many more things.
+Gw2Efficency is a website which can be used to calculate crafting recipes, check out stats about your account, see information about the economy and many more things.
 
 [Find it here](http://www.gw2efficency.com)
 
@@ -509,7 +585,7 @@ Gw2Efficency is a webside wich can be used to calculate crafting recipes, check 
 
 **Metabattle**
 
-Metabattle is THE side for the builds currently beeing considered the best in PvP, PvE and WvW.
+Metabattle is THE side for the builds currently being considered the best in PvP, PvE and WvW.
 
 [Find it here](http://www.metabattle.com)
 
@@ -523,9 +599,17 @@ Gods of PvP is a fairly new site (as far as I know) focused on builds and tutori
 
 ---
 
-**dulfy.net**
+**GW2crafts**
 
-Dulfy contains many guides for achievements as well as basic tutorials about Raids, Fractals, Dungeons and more.
+A side that calculates the best way to level your crafting profession.
+
+[Find it here](http://gw2crafts.net/)
+
+---
+
+**dulfy**
+
+Dulfy writes  many guides for achievements as well as basic tutorials about Raids, Fractals, Dungeons and more.
 
 [Find it here](http://www.dulfy.net)
 
