@@ -156,15 +156,22 @@ Most status effects in the game come in the way of boons or conditions. Boons is
 
 **Boons:**
 
-- **Regeneration**: Regenerate health over timer, stacks duration
-- **Stability**: While you have stability you can't be hard CCed, stacks intensity
-- **Might**: Gain Power and Condition-damage, stacks intensity
-- **Fury**: 20% critical hit chance, stacks duration
-- **Aegis**: block the next attack, stacks duration
-- **Resistance**: be unaffected by conditions, stacks duration
-- **Alacrity**: reduces the skill recharge time by 33%, stacks duration
-- **Swiftness**: move 33% faster, stacks duration
-- **Quickness**: execute skills 33% faster, stacks duration
+- Stacking intensity
+  - **Stability**: While you have stability you can't be hard CCed, stacks intensity
+  - **Might**: Gain Power and Condition-damage, stacks intensity
+
+
+- Stacking duration
+  - **Fury**: 20% critical hit chance, stacks duration
+  - **Regeneration**: Regenerate health over timer, stacks duration
+  - **Aegis**: block the next attack, stacks duration
+  - **Resistance**: be unaffected by conditions, stacks duration
+  - **Alacrity**: reduces the skill recharge time by 33%, stacks duration
+  - **Swiftness**: move 33% faster, stacks duration
+  - **Quickness**: execute skills 33% faster, stacks duration
+  - **Vigor**: Increase endurance regeneration by 50%
+  - **Protection**: Reduce incoming physical damage by 33%
+  - **Retaliation**: Reflect damage back to enemies
 
 **Conditions:**
 
@@ -646,7 +653,7 @@ Gods of PvP is a fairly new site (as far as I know) focused on builds and tutori
 
 **GW2crafts**
 
-A side that calculates the best way to level your crafting profession.
+A side that calculates the best way to level your crafting profession.m
 
 [Find it here](http://gw2crafts.net/)
 
@@ -667,6 +674,14 @@ The Guild Wars 2 subreddit is arguably one of the biggest online communities for
 [Find it here](http://www.reddit.com/r/guildwars2)
 
 ------
+
+**Guide to Movement and Combat**
+
+A more in depth guide about how to move and fight.
+
+[Find it here](https://whyigame.wordpress.com/the-beginners-guide-to-movement-in-combat-guild-wars-2/)
+
+---
 
 **Happy Raiders Kit**
 
