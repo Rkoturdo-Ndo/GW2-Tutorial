@@ -4,6 +4,8 @@ By the community, for the community.
 
 > If you want to contribute to this tutorial head over to https://github.com/Rkoturdo-Ndo/GW2-Tutorial. Whether it is just raising awareness of issues or actually contributing text, everything is welcome.
 
+**Though you certainly can, this is not necessarily intended to be read from start  to finish. Rather use it as a way to read about things when you are unsure.**
+
 ![Southsun](img/en/Southsun.jpg)
 
 [TOC]
@@ -28,6 +30,10 @@ By the community, for the community.
 
 > It is no problem for new players that want to play together to get different races, since the first way point in every starting region is unlocked for every player from the beginning. 
 > This enables new players to play with their friends even if they have just free to play accounts.
+
+
+
+What race you choose only has impact on the story of the game. While there are a few racial skills that are unique to them, they are designed to be not incredibly strong as to not make one race more viable than another.
 
 ### 0.1.1 Norn
 
@@ -342,6 +348,24 @@ They usually grant passive stats like ferocity, boonduration or similar. Move in
 ##5.6 Skins
 
 
+
+## 5.7 Accountbound / Souldbound /Unique
+
+This is a rather important thing to know, so it deserves its own chapter. Equipment and other items can be one of three things.
+
+**Accountbound**
+
+Accountbound means that you can use it on any character on your account, even after equipping it. It does however restrict you from selling it to other players.
+
+**Soulbound**
+
+Souldbound does go a step further. Items that are soulbound can only be used by the character they are bound to.
+
+**Unique**
+
+Some items, especially ascended Rings and Accessories can be unique. This means that you can **only equipe one item with the same name**. It is a  common mistake to buy two ascended rings that are the same and then wondering why you can't equip both. Read the description carefully :)
+
+
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
@@ -377,6 +401,15 @@ The LFG is the main way for you to find players to play with. If for dungeons, c
 ![LFG](img/en/lfg.jpg)
 
 It is separated into different categories. In order for you to be able to jump into it, here is a short list of common aberrations used in the LFG:
+
+**Taxi**
+Because the game uses a mega server system there are often multiple instances of the same map. In order to get every player on the same map (for example to do a world boss) players might offer Taxis. Using a taxi is rather simple. Join the group and go to the map. If you happen to not be on the same instance (which you will see by the health bars not being shown in the top left) you can right-click on a name up there and use 
+
+> join <mapname>
+
+- **p1 / p2 / p3** : This is a term commonly used when doing dungeons. It refers to which of the explorable paths the group intends to clear.
+- **KP**: KP means kill-proof. For raids or high level fractals players sometimes demand kill proofs to know that the player joining has some experience with the content.
+- ​
 
 
 
@@ -566,9 +599,21 @@ Guild Wars 2 offers a plethora of chat commands. Some of them are purely for rol
 
 For roleplaying Guild Wars 2 offers some emotes. The whole table can be found [here](https://wiki.guildwars2.com/wiki/Emote). 
 
-## 9.6 Heart of Thorns
+## 9.6 Making Money
 
-## 9.7 Path of Fire
+When starting a new MMO it can be hard to figure out how to best make money. While a full guide would not be in scope for this tutorial, here are a few quick tips how you can get a decent start.
+
+- Do the daily completionist achievement. For it you have to complete 3 of the daily achievements. While that might be hard in the early early beginning it is a good way to get 2 gold per day for relatively little effort.
+- Check if you can sell your loot over the trading post instead of selling it to merchants.
+- Especially when new to the game it can be good to join dungeon runs. While they are not the most bang for the buck they offer a great learning experience with decent rewards.
+
+### 9.6.1 Trading Post
+
+The trading post is the main way for players to trade items, since there is **no** direct player to player trading. When selling an item there is a 15% tax. 5% of that have to be paid when listing the item, the other 10% will be deducted once the item is sold.
+
+## 9.7 Heart of Thorns
+
+## 9.8 Path of Fire
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
