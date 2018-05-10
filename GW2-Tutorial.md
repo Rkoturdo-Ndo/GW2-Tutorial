@@ -14,7 +14,8 @@ By the community, for the community.
 
 - If numbers are used the base value for level 80 and or the rarity exotic is used. Other level or rarity gear/skills have different numbers.
 - CC means Crowd-Control. Generally that refers to skills that in some way restrict the control an enemy has over his character.
-- ​
+- The game scales you down when visiting lower level areas, so don't think it is an issue to play with friends who are a lower level.
+- You don't have to worry about griefing since you will get rewards for a mob for simply participating in the kill, even if you do not deliver the finishing blow.
 
 ## 0.1 Races
 
@@ -23,7 +24,7 @@ By the community, for the community.
 
 ### 0.1.1 Norn
 
-The Norn i don't actually know jack shit about besides that they are over sized humans that can transform into animals. Their main city is Hoelbrak, which they built after they were forced out of the north by the elder dragon Jormag.
+The Norn I don't actually know jack shit about besides that they are over sized humans that can transform into animals. Their main city is Hoelbrak, which they built after they were forced out of the north by the elder dragon Jormag.
 
 ### 0.1.2 Charr
 
@@ -78,7 +79,7 @@ In the top right you can find your content guide. It shows you your current miss
 
 ![Bottom Left](img/en/bottom_left.jpg)
 
-In the bottom left the chat is displayed. Under that you can see your current level. You can edit the amount of tabs the chat has, what is displayed in each tab, if the chat is transparent or not as well as other things.
+In the bottom left the chat is displayed. Under that you can see your current level. You can edit the amount of tabs the chat has, what is displayed in each tab, if the chat is transparent or not as well as other things. In the Chapter [Chat-Kommands](#9.5 Chat Commands) I will introduce you to the things about the chat you should know.
 
 **Bottom Center**
 
@@ -92,6 +93,8 @@ In the bottom center is the most important part of the user interface. It shows 
 
 In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests as well as other things.
 
+> If you are to lazy to open all the chest to get them away you can simply right-click to instantly put the reward into your inventory.
+
 
 
 ## 1.2 Menus
@@ -104,9 +107,21 @@ In the bottom right you can see your map. Under the map you can see the next rew
 
 ## 2.1 Movement
 
+Guild Wars utilizes the standard WASD movement. However, in order to be most effective in combat there are 2 things you have to keep in mind. The first one is dodging. It grants you a small time frame in which you evade all incoming attack. It will be your bread and butter for surviving. The other thing is jumping. Many bosses will have attacks that you can actually jump over in order to not be hit.	
+
+Generally you can and have to move while casting your abilities, there are however a few that lock you in place.
+
 ## 2.2 Tab Targeting
 
+Initially the game only utilized the well known tab targeting. It means your mouse is not locked to the middle of the screen and you can freely place your abilities and target enemies.  If you ever played World of Warcraft or other you will feel right at home.
+
 ## 2.3 Action Cam
+
+For people that prefer the TERA style of gameplay there also is an action mode. It is a bit hidden, to activate it you have to go to your keybindings, bind the "activate action cam" key and press it once you start the game. Once you to you will have a bullet eye in the middle of your screen. All freely placeable abilities will be casted at that position, but you can simply leftclick to autoattack. 
+
+Personally I highly recommend trying it out ;)
+
+![Action cam](img/en/action.jpg)
 
 ## 2.4 Other
 
@@ -122,7 +137,7 @@ In the bottom right you can see your map. Under the map you can see the next rew
 - conditions
 - weak trinity
 
-## 3.x: Boons and Conditions
+## 3.x Boons and Conditions
 
 Most status effects in the game come in the way of boons or conditions. Boons is the term for positive effects, Condition for negative. They can either stack intensity, meaning that when the same is applied again the effect gets stronger, or they can stack duration, meaning when the same is applied the time is increased.
 
@@ -158,7 +173,7 @@ Most status effects in the game come in the way of boons or conditions. Boons is
   - **Weakness**: reduces the targets *endurance* regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage
   - **Blindness**: the next attack misses
 
-## 3.x: Combofields
+## 3.x Combofields
 
 There are different types of fields and finishers. When a finisher is activated inside a Combofield a special Interaction happens depending on the type of field and finisher. Whether or not a particular skill as a field or a finisher can be seen by hovering over them and reading the description.
 
@@ -179,7 +194,7 @@ There are different types of fields and finishers. When a finisher is activated 
 | **Smoke**     | Invisibility (AoE)   | Invisibility  | Blindness           | Blinding Projectiles      |
 | **Water**     | Healing (AoE)        | Healing       | Regeneration        | Healing Projectiles       |
 
-## 3.x: Break-bars and Crowd Control
+## 3.x Break-bars and Crowd Control
 
 When playing the game you will sometimes encounter enemies that have a blue bar below their healhbar. This indicates that the champion can not be stunned instantly. It is needed to reduce that bar to 0%, at wich point it slowly regenerates.
 
@@ -213,19 +228,19 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 ---
 # Chapter 4: Classes
 
-## 4.1: Heavy Armor (Soldier)
+## 4.1 Heavy Armor (Soldier)
 
 Soldier classes have the highest base armor in the game, coming in at  **1211** armor.
 
-## 4.2: Medium Armor (Adventurer)
+## 4.2 Medium Armor (Adventurer)
 
 Adventurer classes have the middle amount of armor, coming in at **1064** armor.
 
-## 4.3: Light Armor (Scholar)
+## 4.3 Light Armor (Scholar)
 
 Scholar classes have the least armor in the game, coming in at **920** armor.
 
-## 4.3.1: Elementalist
+## 4.3.1 Elementalist
 
 - core
 - tempest
@@ -334,7 +349,7 @@ The game consists of 3 main gamemodes. While it is perfectly possible to play al
 
 ## 6.2: WvW
 
-- i ain't know shit about WvW, sorry
+- I ain't know shit about WvW, sorry
 
 ## 6.3: PvE
 
@@ -346,7 +361,7 @@ The game consists of 3 main gamemodes. While it is perfectly possible to play al
 
 # Chapter 7: Social
 
-## 7.1: LFGg
+## 7.1: LFG
 
 ## 7.2: Guilds
 
@@ -445,17 +460,39 @@ Other than PvP a gear grind technically exists in WvW since it doesn't use amule
 ---
 # Chapter 9: Other
 
-## 9.1: Inventory Management
+## 9.1 Questing
 
-## 9.2: Crafting
+Questing in Guild Wars works very different to other games.
 
-## 9.3: Questing
+First, there is the so called personal story. These are story missions you get to to every 10 levels if you are under level 80 or just back to back if you play the expansion story / living world story.
 
-## 9.4: Chat commands
+For leveling you would usually quest in other MMOs or grind mobs. In guild wars there quests do not exist. However you will find hearts scattered around the map. These are basically locally bound quest that you automatically accept once you enter the area and halt once you leave it again. 
 
-## 9.5: Heart of Thorns
+Another thing are hero points (yellow "arrows" on the map). They will give you hero points you can spend on leveling.
 
-## 9.6: Path of Fire
+The third big thing are Events. These will be shown in orange on your map. They spawn randomly around the world and every player can participate.
+
+> As you can see guild wars encourages you to explore the world to level. This also however means that there is no straight "direction" to start. You can visit the other starting areas and quest a bit there, or just play in yours.
+
+## 9.2 Leveling
+
+Leveling also works a bit different in Guildwars. When leveling up or completing hero points in the world you get hero points you can spend. If you open your character menu with H you can open a page where you can train your skills. 
+
+The training is separated into active abilities and passive traits. Passive traits can be used by equipping the entire traitline and selecting which ones to activate. You can only have up to 3 traitlines at the same time.
+
+The active skills are what is put on the right side bar of your skills. Meaning the healskill to the ultimate skill.
+
+## 9.3 Inventory Management
+
+
+
+## 9.4 Crafting
+
+## 9.5 Chat commands
+
+## 9.6 Heart of Thorns
+
+## 9.7 Path of Fire
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
@@ -508,7 +545,7 @@ The Happy Raider's Kit is a document containing information on how to best get i
 
 [Find it here](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1)
 
-> Note that raids are end game content and if you are just starting the game it will take a while to get there. The fastest recorded time to get raid ready from a zero account (with planning and knowledge)  was roughly 42 hours of gametime. This was achieved by [WoodenPotatoes](www.youtube.com/user/WoodenPotatoes). Realistically you might take way longer than that, having to learn the game aswell. 
+> Note that raids are end game content and if you are just starting the game it will take a while to get there. The fastest recorded time to get raid ready from a zero account (with planning and knowledge)  was roughly 42 hours of gametime. This was achieved by [WoodenPotatoes](www.youtube.com/user/WoodenPotatoes). Realistically you will take way longer than that, having to learn the game aswell. 
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
