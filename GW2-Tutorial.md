@@ -232,7 +232,7 @@ There are different types of fields and finishers. When a finisher is activated 
 
 ## 3.x Break-bars and Crowd Control
 
-When playing the game you will sometimes encounter enemies that have a blue bar below their health. This is a "Break-bar" and protects the foe from croud control effects. Using Crowd-Control abilities (alias CC) You can reduce this bar to 0, when this is complete the bar will begin to slowely regenerate and the foe will often become dazed and take increased damage. Break-bars are an important aspect to combat and should be broken as soon as the bar is filled again.
+When playing the game you will sometimes encounter enemies that have a blue bar below their health. This is a "Break-bar" and protects the foe from crowd control effects. Using Crowd-Control abilities (alias CC) You can reduce this bar to 0, when this is complete the bar will begin to slowly regenerate and the foe will often become dazed and take increased damage. Break-bars are an important aspect to combat and should be broken as soon as the bar is filled again.
 
 ![breakbar](img/en/breakbar.jpg)
 
@@ -272,22 +272,22 @@ Professions come in three armor classes.
 
 ## 4.1.1 Heavy Armor (Soldier)
 
-Soldier classes have the highest base armor in the game, coming in at  **1211** armor.
+Soldier classes have the highest base armor in the game, coming in at  **1211** armor. They wear heavy armor, meaning they have a higher base defense.
 
 ## 4.1.2 Medium Armor (Adventurer)
 
-Adventurer classes have the middle amount of armor, coming in at **1064** armor.
+Adventurer classes have the middle amount of armor, coming in at **1064** armor. They wear medium armor meaning that their defense is higher than light classes but not as high as heavy armor.
 
 ## 4.1.3 Light Armor (Scholar)
 
-Scholar classes have the least armor in the game, coming in at **920** armor.
+Scholar classes have the least armor in the game, coming in at **920** armor. They wear light armor, granting the least protection.
 
 ## 4.2 (Professions) Health
 
-Professions come in three health pools.
+Professions come in three health pools. These pools are added on the base health (10,000 at level 80).
 
 | Base health gained per level         |  1-19  |  20-39 | 40-59 | 60-79 |  80   | Total at level 80 |
-| -------------------------------------|--------|--------|-------|-------|-------|-------------------|      
+| -------------------------------------|--------|--------|-------|-------|-------|-------------------|
 | Warrior, Necromancer                 |   28   |   70   |  140  |  210  |  280  |       9,212       |
 | Revenant, Engineer, Ranger, Mesmer   |   18   |   45   |  90   |  135  |  180  |       5,922       |
 | Guardian, Thief, Elementalist        |   5    |  12.5  |  25   |  37.5 |  50   |       1,645       |
@@ -678,7 +678,7 @@ When starting a new MMO it can be hard to figure out how to best make money. Whi
 
 The trading post is the main way for players to trade items, since there is **no** direct player to player trading. When selling an item there is a 15% tax. 5% of that have to be paid when listing the item, the other 10% will be deducted once the item is sold.
 
-## #9.7 Options
+## 9.7 Options
 
 The options menu offers quite a few options to customize how your game behaves. Here I will list some of the most important ones.
 
