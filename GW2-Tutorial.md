@@ -4,7 +4,7 @@ By the community, for the community.
 
 > If you want to contribute to this tutorial head over to https://github.com/Rkoturdo-Ndo/GW2-Tutorial. Whether it is just raising awareness of issues or actually contributing text, everything is welcome.
 
-**Though you certainly can, this is not necessarily intended to be read from start  to finish. Rather use it as a way to read about things when you are unsure.**
+**Though you certainly can and I encourage it, this is not necessarily needed to be read from start  to finish. Rather use it as a way to read about things when you are unsure. There is no use to overwhelm yourself with a wall of text :)**
 
 ![Southsun](img/en/Southsun.jpg)
 
@@ -20,7 +20,7 @@ By the community, for the community.
 
 - The game scales you down when visiting lower level areas, so don't think it is an issue to play with friends who are a lower level.
 
-- You don't have to worry about griefing since you will get rewards for a mob for simply participating in the kill, even if you do not deliver the finishing blow.
+- You don't have to worry about griefing since you will get rewards for a mob for simply participating in the kill, even if you do not deliver the first, or the finishing blow.
 
 - Because of how the game works there is no downtime on patchdays. Also the server selection only matters for world vs. world. This is because of the instanced map system. [Here](http://www.gdcvault.com/play/1016640/Guild-Wars-2-Programming-the) is a technical presentation of an engineer about how it works.
 
@@ -100,6 +100,10 @@ In the bottom left the chat is displayed. Under that you can see your current le
 
 In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills and their cooldown and current boons and conditions that might apply to you. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
 
+> A red bar under a skill indicates whether the enemy is in range or not.
+>
+> ![range](img/en/range.jpg)
+
 Also you can see if your equipment is damaged or broken by the small orange/red shield on the bottom right of the health bubble.
 
 **Bottom right**
@@ -110,7 +114,19 @@ In the bottom right you can see your map. Under the map you can see the next rew
 
 > If you are to lazy to open all the chest to get them away you can simply right-click to instantly put the reward into your inventory.
 
-## 1.2 Menus
+## 1.2 The Map
+
+The world map is your bread and butter for exploring. It shows you events around you, hearts to complete as well as heropoints, points of interest and whatever else you might need to know.
+
+![Map](img/en/map.jpg)
+
+In the top left it shows you your progress for world completion. Below that it shows what you still have to do on the current map to complete it. Completing a map gives you a special reward.
+
+
+
+In the case that you are not finding something you can hover over the respecting icon on the left to let the map highlight the positions.
+
+![map-highlight](img/en/map_highlight.jpg)
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -276,7 +292,7 @@ Scholar classes have the least armor in the game, coming in at **920** armor.
 
 ## 5.1 Attribute Combinations
 
-Equipment differentiates in the bonuses it provides. Generally any armor/weapon has either 3 or 4 attributes.that it gives. On lower level equipment it is however normal to only get one or two stats from it. One exclusion from that is the divine attribute combination, which provides 7 attributes. Depending on the rarity and type of equipment the amount of stats differs.
+Equipment differentiates in the bonuses it provides. Generally any armor/weapon has either 3 or 4 attributes.that it gives. On lower level equipment it is however normal to only get one or two stats from it. One exclusion from that is the celestial attribute combination, which provides 7 attributes. Depending on the rarity and type of equipment the amount of stats differs.
 
 ![Statsheet](img/en/stats.png)
 
@@ -353,6 +369,14 @@ There are two different types of consumables in Guild Wars 2. One being food, th
 They usually grant passive stats like ferocity, boonduration or similar. Move information about consumables can be found on the [wiki](https://wiki.guildwars2.com/wiki/Consumable).
 
 ##5.6 Skins
+
+Skins are a huge part of Guild Wars 2. When salvaging or equipping armor you unlock the skin of that particular piece. Later you can use a transmutation charge (basically a currency) to change the look of your equipment to already unlocked skins. Some skins are very prestigious while others are not. 
+
+Heavy, medium and light armor have their own skins and can not be applied to each other. There are some cultural skins that can only be worn by one race.
+
+> You find the option to reskin in your hero panel under "Wardrobe"
+
+![skins](img/en/skins.jpg)
 
 
 
@@ -618,14 +642,39 @@ When starting a new MMO it can be hard to figure out how to best make money. Whi
 
 The trading post is the main way for players to trade items, since there is **no** direct player to player trading. When selling an item there is a 15% tax. 5% of that have to be paid when listing the item, the other 10% will be deducted once the item is sold.
 
-## 9.7 Heart of Thorns
+## #9.7 Options
 
-## 9.8 Path of Fire
+The options menu offers quite a few options to customize how your game behaves. Here I will list some of the most important ones.
+
+![options1](img/en/options1.jpg)
+
+- **Content Guide**: This settings enables you to customize what your content guide (top right) shows
+
+
+
+![options2](img/en/options2.jpg)
+
+- **Ground Targeting**: ground targeting is a way to customize how your abilities are triggered. I personally recommend ground targeting with range indicator, but it is best to experiment
+- **Double-Tap to Evade**: By default you can evade by doubletapping in a certain direction. **Disable it** and bind dodge to your mouse wheel. Trust me you will thank me later.
+- **Melee Attack Assist**: This option prevents you from accidentally walking through an enemy when attacking. I would recommend turning it of as it prevents you from standing inside enemies.
+
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
 
-# Chapter 10: Further Resources
+# Chapter 10: Expansions
+
+## 10.1 Heart of Thorns
+
+## 10.2 Path of Fire
+
+
+
+[To the top](#Guild Wars 2 new Player Tutorial)
+
+---
+
+# Chapter 11: Further Resources
 
 **GW2Efficiency**
 
