@@ -41,7 +41,7 @@ The Norn I don't actually know jack shit about besides that they are over sized 
 
 ### 0.1.2 Charr
 
-The Charr are a feline race native to Tyria. 250 years ago they fought war against the humans to reclaim territories taken from them by the humans. Their main city in the game is the black citadel, built on the ruins of the old human kingdom of Ascalon.
+The Charr are a feline race native to Tyria. 250 years ago they fought war against the humans to reclaim territories taken from them by the humans. Their main city in the game is the black citadel, built on the ruins of the old human kingdom of Ascalon. Since the conflict is still going on relations are complicated between Humans and Charr.
 
 ### 0.1.3 Asura
 
@@ -92,7 +92,7 @@ In the top right you can find your content guide. It shows you your current miss
 
 ![Bottom Left](img/en/bottom_left.jpg)
 
-In the bottom left the chat is displayed. Under that you can see your current level. You can edit the amount of tabs the chat has, what is displayed in each tab, if the chat is transparent or not as well as other things. In the Chapter [Chat-Kommands](#9.5 Chat Commands) I will introduce you to the things about the chat you should know.
+In the bottom left the chat is displayed. Under that you can see your current level. You can edit the amount of tabs the chat has, what is displayed in each tab, if the chat is transparent or not as well as other things. In the Chapter [Chat-Commands](#9.5 Chat Commands) I will introduce you to the things about the chat you should know.
 
 **Bottom Center**
 
@@ -231,7 +231,6 @@ Hard CCs do more damage to breakbars, but can be avoided with stability. If the 
 - **Float**: another form of stun
 - **Knockdown**: another form of stun
 - **Push/Pull**: the target is moved from its current position and unable to use skills/move on its own
-- **Fear**: the target runs away from you unable to move on their own or use skills
 
 **Soft CC:**
 
@@ -244,6 +243,7 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 - **Immobilize**: the target is unable to move but can execute skills
 - **Weakness**: reduces the targets *endurance* regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage
 - **Blindness**: the next attack misses
+- **Fear**: the target runs away from you unable to move on their own or use skills
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -345,7 +345,7 @@ Runes are used to increase the usefulness of armor. Each piece of armor has one 
 
 ## 5.4 Sigils
 
-Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons two. You can **NOT** stack sigils in order to increase their usefulness. As with runes their effects have a wide range.
+Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons two. You can **NOT** use two same sigils on the same weapon(if two handed) or weapons that are drawn together in order to increase their usefulness. As with runes their effects have a wide range.
 
 ## 5.5 Consumables
 
@@ -637,7 +637,7 @@ Gw2Efficiency is a website which can be used to calculate crafting recipes, chec
 
 **Metabattle**
 
-Metabattle is THE side for the builds currently being considered the best in PvP, PvE and WvW.
+Metabattle is THE site for the builds currently being considered the best in PvP, PvE and WvW.
 
 [Find it here](http://www.metabattle.com)
 
