@@ -159,12 +159,16 @@ Personally I highly recommend trying it out ;)
 ---
 # Chapter 3: Combat
 
-- basics
-- levelcap for maps
-- dodging
-- combofields
-- conditions
-- weak trinity
+- Basics
+- Levelcap for maps
+- Dodging
+- Combofields
+- Conditions
+- Weak trinity
+
+## 3.x Weapons
+
+The first five skills on your skill bar come from the weapon or wepons you have equipped (Dual Wield). Once you reach level ten you will be able to swap between two weapon sets.
 
 ## 3.x Boons and Conditions
 
@@ -270,17 +274,11 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 
 Professions come in three armor classes.
 
-## 4.1.1 Heavy Armor (Soldier)
-
-Soldier classes have the highest base armor in the game, coming in at  **1211** armor. They wear heavy armor, meaning they have a higher base defense.
-
-## 4.1.2 Medium Armor (Adventurer)
-
-Adventurer classes have the middle amount of armor, coming in at **1064** armor. They wear medium armor meaning that their defense is higher than light classes but not as high as heavy armor.
-
-## 4.1.3 Light Armor (Scholar)
-
-Scholar classes have the least armor in the game, coming in at **920** armor. They wear light armor, granting the least protection.
+|            Class             |           Profession              |   Armor Rating  |
+|------------------------------|-----------------------------------|-----------------|
+| Heavy Armor (Soldiers)       | Guardian, Revenant, Warrior       |     **1211**    |
+| Medium Armor (Adventurers)   | Engineer, Ranger, Thief           |     **1064**    |
+| Light Armor (Scholars)       | Elementalist, Mesmer, Necromancer |     **920**     |
 
 ## 4.2 (Professions) Health
 
@@ -296,29 +294,61 @@ Professions come in three health pools. These pools are added on the base health
 
 ## 4.3.1 Guardian
 
+ - Core
+ - Dragonhunter
+ - Firebrand
+ 
 ## 4.3.2 Revenant
 
+- Core
+- Herald
+- Renegade
+
 ## 4.3.3 Warrior
+
+- Core
+- Berserker
+- Spellbreaker
 
 ## 4.4 (Professions) Adventurers
 
 ## 4.4.1 Engineer
 
+- Core
+- Scrapper
+- Holosmith
+
 ## 4.4.2 Ranger
 
+- Core
+- Druid
+- Soulbeast
+
 ## 4.4.3 Thief
+
+- Core
+- Daredevil
+- Deadeye
 
 ## 4.5 (Professions) Scholars
 
 ## 4.5.1 Elementalist
 
-- core
-- tempest
-- weaver
+- Core
+- Tempest
+- Weaver
 
 ## 4.5.2 Mesmer
 
+- Core
+- Chronomancer
+- Mirage
+
 ## 4.5.3 Necromancer
+
+- Core
+- Reaper
+- Scourge
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -334,7 +364,7 @@ Equipment differentiates in the bonuses it provides. Generally any armor/weapon 
 
 ### 5.1.2 Primary attributes
 
-There are 4 primary attributes. These are the only ones that a character by himself has. At level 80 they they all have the baseline of 1000. Every other attribute has a baseline of 0.
+There are four primary attributes. These are the only ones that a character without equipment will have. At level 80 they all have the baseline of 1000. Every other attribute has a baseline of 0.
 
 **Offensive**
 
@@ -348,7 +378,7 @@ There are 4 primary attributes. These are the only ones that a character by hims
 
 ###5.1.3 Secondary attributes
 
-There are 5 secondary attributes. These have no baseline and can only be aquired over equipment, boons and buffs.
+There are 5 secondary attributes. These have no baseline and can only be aquired through equipment, boons and buffs.
 
 **Offensive**
 
@@ -393,16 +423,16 @@ In typical MMO fashion equipment and drops are separated by rarity. Legendary eq
 
 ## 5.3 Runes
 
-Runes are used to increase the usefulness of armor. Each piece of armor has one rune slot, meaning in total you can equip 6 runes. The more of the same rune you stack the stronger the effect becomes. On lower levels this is capped to 2 stacks, on higher levels it goes up to 6. There are many different runes, ranging from providing simple stat boosts to having on hit effects or effects that are triggered by health thresholds. 
+Runes are used to increase the usefulness of armor. Each piece of armor has one rune slot, allowing you to equip a total of six. The more of the same rune you stack the stronger the effect becomes. On lower levels this is capped at two stacks, on higher levels it goes up to six. There are many different runes, some offer defensive buffs, offensive buffs, or other effects.
 
 ## 5.4 Sigils
 
-Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons two. You can **NOT** use two same sigils on the same weapon(if two handed) or weapons that are drawn together in order to increase their usefulness. As with runes their effects have a wide range.
+Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons have two. You can **NOT** use two of same sigil on the same weapon set. As with runes, Sigils have Defensive, Offensive, and other effects
 
 ## 5.5 Consumables
 
-There are two different types of consumables in Guild Wars 2. One being food, the other being Enhancements. They can be applied at the same time, however only one of each type. Meaning that if you eat food the current foodbuff gets replaced with a new one. 
-They usually grant passive stats like ferocity, boonduration or similar. Move information about consumables can be found on the [wiki](https://wiki.guildwars2.com/wiki/Consumable).
+There are two different types of consumables in Guild Wars 2. One being food, the other being Enhancements. They can be applied at the same time, however only one of each type. this means eating food replaces any food buff you may have had.
+They usually grant passive stats like ferocity, boon duration or similar. More information about consumables can be found on the [wiki](https://wiki.guildwars2.com/wiki/Consumable).
 
 ##5.6 Skins
 
@@ -426,11 +456,11 @@ Accountbound means that you can use it on any character on your account, even af
 
 **Soulbound**
 
-Souldbound does go a step further. Items that are soulbound can only be used by the character they are bound to.
+Souldbound goes a step further. Items that are soulbound can only be used by the character they are bound to.
 
 **Unique**
 
-Some items, especially ascended Rings and Accessories can be unique. This means that you can **only equipe one item with the same name**. It is a  common mistake to buy two ascended rings that are the same and then wondering why you can't equip both. Read the description carefully :)
+Some items, especially ascended Rings and Accessories can be unique. This means that you can **only equip one item with the same name**. It is a  common mistake to buy two ascended rings that are the same and then wonder why you can't equip both. Read the description carefully :)
 
 
 [To the top](#Guild Wars 2 new Player Tutorial)
@@ -438,7 +468,7 @@ Some items, especially ascended Rings and Accessories can be unique. This means 
 ---
 # Chapter 6: Gamemodes
 
-The game consists of 3 main gamemodes. While it is perfectly possible to play all 3 they are very different and not each of them caters to everyone. If you find yourself disliking a particular mode you might try the others to see if they are more fun for you.
+The game consists of three main gamemodes. While it is perfectly possible to play all three, they are very different and some players will gravitate to certain modes. If you find yourself disliking a particular mode you might try the others to see if they are more fun for you.
 
 ## 6.1: PvP
 
@@ -453,7 +483,7 @@ The game consists of 3 main gamemodes. While it is perfectly possible to play al
 
 ## 6.3: PvE
 
-### 6.3.1 Living World and Expansions
+## 6.3.1 Living World and Expansions
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -461,13 +491,13 @@ The game consists of 3 main gamemodes. While it is perfectly possible to play al
 
 # Chapter 7: Social
 
-## 7.1: LFG
+## 7.1: Looking For Group (LFG)
 
-The LFG is the main way for you to find players to play with. If for dungeons, casual roleplay, personal story or achievements, this is your go to way to find players.
+The LFG is the main way for you to find players to play with. For dungeons, casual roleplay, personal story or achievements, this is your go to way to find players.
 
 ![LFG](img/en/lfg.jpg)
 
-It is separated into different categories. In order for you to be able to jump into it, here is a short list of common aberrations used in the LFG:
+It is separated into different categories. In order for you to jump into it, here is a short list of common abreveations used in the LFG:
 
 **Taxi**
 Because the game uses a mega server system there are often multiple instances of the same map. In order to get every player on the same map (for example to do a world boss) players might offer Taxis. Using a taxi is rather simple. Join the group and go to the map. If you happen to not be on the same instance (which you will see by the health bars not being shown in the top left) you can right-click on a name up there and use 
@@ -479,7 +509,6 @@ Because the game uses a mega server system there are often multiple instances of
 - ​
 
 
-
 ## 7.2: Guilds
 
 [To the top](#Guild Wars 2 new Player Tutorial)
@@ -489,11 +518,11 @@ Because the game uses a mega server system there are often multiple instances of
 
 ## 8.1 Fractals of the Mist (FotM)
 
-The fractals of the mist are 5 party instances that act like mini-dungeons. The have a unique mechanic called agony. There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed, in order to get agony-resistance however one has to acquire [ascended armor](#5.2 Rarities).
+The fractals of the mist are five player instances that act like mini-dungeons. They have a unique mechanic called "Agony". There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed. In order to get agony-resistance [ascended armor](#5.2 Rarities) Is Required.
 
 ## 8.2 Dungeons
 
-Dungeons are the oldest end game content in the game. They were present at the release of the game, and while not being as actively pursued as other contents they still are worthwhile for learning the game, getting equipment and a decent amount of money. There are 8 dungeons, with one story path and 3 exploration parts (which are the ones being done for reward). One exception is the last one, which has 5 paths in total. Dungeons are 5 man content. Even though some of the dungeons have a lower recommended level they are actually decent level 80 content because of the scaling mechanism.
+Dungeons are the oldest end game content in the game. They were present at the release of the game, and while not being as actively pursued as other contens they still are worthwhile for learning the game, getting equipment and a decent amount of money. There are 8 dungeons in the game. Each dungeon has one story path and three exploration paths (which are the ones being done for reward). One exception is the last one, which has five paths in total. Dungeons are five man content. Even though some of the dungeons have a lower recommended level they are actually decent level 80 content because of the scaling mechanism.
 
 All dungeons offer unique skins as well as food and runes.
 
@@ -531,7 +560,7 @@ Enter the resurfaced sunken capital Arah of the ancient human kindgom of Orr. Fi
 
 ## 8.3 Raids
 
-Raids are the newest end game content in the game. They were first introduced with the Heart of Thorns expansion. In order to be able to play raids you need the Expansion in which they ship. There are currently 5 Raid wings. Raiding itself is a bit out of scope of this tutorial, so you might want to check out the [Happy Raiders Kit](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1) if you intend to pursue them.
+Raids are the newest end game content in the game. They were first introduced with the Heart of Thorns expansion. In order to be able to play raids you need the Expansion in which they ship. There are currently five Raid wings. Raiding itself is a bit out of scope of this tutorial, so you might want to check out the [Happy Raiders Kit](https://docs.google.com/document/d/1g7zlH3pVPvW21WIh5-qL-IXDeABtJzIqnZYXP8tCcM0/edit#heading=h.2s8eyo1) if you intend to pursue them.
 
 **Forsaken Thicket**
 
@@ -581,7 +610,7 @@ Other than PvP a gear grind technically exists in WvW since it doesn't use amule
 
 Questing in Guild Wars works very different to other games.
 
-First, there is the so called personal story. These are story missions you get to to every 10 levels if you are under level 80 or just back to back if you play the expansion story / living world story.
+First, there is the personal story. These are story missions you get every 10 levels if you are under level 80 or just back to back if you play the expansion story / living world story.
 
 For leveling you would usually quest in other MMOs or grind mobs. In guild wars there quests do not exist. However you will find hearts scattered around the map. These are basically locally bound quest that you automatically accept once you enter the area and halt once you leave it again. 
 
