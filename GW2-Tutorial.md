@@ -4,7 +4,7 @@ By the community, for the community.
 
 > If you want to contribute to this tutorial head over to https://github.com/Rkoturdo-Ndo/GW2-Tutorial. Whether it is just raising awareness of issues or actually contributing text, everything is welcome.
 
-**Though you certainly can and I encourage it, this is not necessarily needed to be read from start  to finish. Rather use it as a way to read about things when you are unsure. There is no use to overwhelm yourself with a wall of text :)**
+**Though you certainly can and I encourage it, this is not necessarily needed to be read from start to finish. Rather use it as a way to read about things when you are unsure. There is no use to overwhelm yourself with a wall of text :)**
 
 ![Southsun](img/en/Southsun.jpg)
 
@@ -29,11 +29,11 @@ By the community, for the community.
 ## 0.1 Races
 
 > It is no problem for new players that want to play together to get different races, since the first way point in every starting region is unlocked for every player from the beginning. 
-> This enables new players to play with their friends even if they have just free to play accounts.
+> This enables new players to play with their friends even if they just have free to play accounts.
 
 
 
-What race you choose only has impact on the story of the game. While there are a few racial skills that are unique to them, they are designed to be not incredibly strong as to not make one race more viable than another.
+What race you choose only has an impact on the story of the game. While there are a few racial skills that are unique to them, they are designed to not be very strong, this is done so one race is not preferential over another.
 
 ### 0.1.1 Norn
 
@@ -66,7 +66,7 @@ Humans are the only non-native race on the planet that the player can choose. Wh
 ## 1.1 General Interface 
 ![Complete](img/en/complete.jpg)
 
-The user interface can be separated into different areas on the screen. Generally there is not that much interface customization possible unless you are willing to modify the game, which of course would be at your own risk and is not supported by ArenaNet.
+The user interface can be separated into different areas on the screen. Generally, there is not much interface customization possible. Unless you are willing to modify the game, which of course would be at your own risk and is not supported by ArenaNet.
 
 **Top left**
 
@@ -80,7 +80,7 @@ Settings | Friends / LFG | Hero-Panel | Inventory | Mail | Trading-Post | Guilds
 
 ![Top Center](img/en/top_center.jpg)
 
-In the top center it shows information about your currently targeted enemy. This consists of healthbar, name, icon, [breakbar](#3.x: Break-bars and Crowd Control) (if existent) as well as boons and conditions.
+In the top center it shows information about your currently targeted enemy. This consists of a healthbar, name, icon, [breakbar](#3.x: Break-bars and Crowd Control) (if existent) as well as boons and conditions.
 
 **Top right**
 
@@ -98,7 +98,7 @@ In the bottom left the chat is displayed. Under that you can see your current le
 
 ![Bottom Center](img/en/bottom_center.jpg)
 
-In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills and their cooldown and current boons and conditions that might apply to you. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
+In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills, skill cooldowns, current boons and current conditions. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
 
 > A red bar under a skill indicates whether the enemy is in range or not.
 >
@@ -110,13 +110,13 @@ Also you can see if your equipment is damaged or broken by the small orange/red 
 
 ![Bottom Right](img/en/bottom_right.jpg)
 
-In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests as well as other things.
+In the bottom right you can see your map. Under the map you can see the next reward for leveling up (you even "level up" when reaching maximum level, giving you another reward). Over the map the game shows rewards you earned. This can be login chests (as seen in the picture), rewards for completing quests, Events, and some other in game content.
 
 > If you are to lazy to open all the chest to get them away you can simply right-click to instantly put the reward into your inventory.
 
 ## 1.2 The Map
 
-The world map is your bread and butter for exploring. It shows you events around you, hearts to complete as well as heropoints, points of interest and whatever else you might need to know.
+The world map is your bread and butter for exploring. It shows events around you, hearts, Heropoints, points of interest(POIs) and whatever else you might need to know.
 
 ![Map](img/en/map.jpg)
 
@@ -124,7 +124,7 @@ In the top left it shows you your progress for world completion. Below that it s
 
 
 
-In the case that you are not finding something you can hover over the respecting icon on the left to let the map highlight the positions.
+If you can't finding something you can hover over the respecting icon on the left to let the map highlight the positions.
 
 ![map-highlight](img/en/map_highlight.jpg)
 
@@ -136,17 +136,17 @@ In the case that you are not finding something you can hover over the respecting
 
 ## 2.1 Movement
 
-Guild Wars utilizes the standard WASD movement. However, in order to be most effective in combat there are 2 things you have to keep in mind. The first one is dodging. It grants you a small time frame in which you evade all incoming attack. It will be your bread and butter for surviving. The other thing is jumping. Many bosses will have attacks that you can actually jump over in order to not be hit.	
+Guild Wars utilizes the standard WASD movement. However, in order to be most effective in combat there are two things you have to keep in mind. The first one is dodging. It grants you a small time frame in which you evade all incoming attack. It will be your bread and butter for surviving. The other thing is jumping. Many bosses will have attacks that you can actually jump over in order to not be hit.	
 
-Generally you can and have to move while casting your abilities, there are however a few that lock you in place.
+Generally you can and should be moving while casting your abilities, there are however some skills that lock you in place.
 
 ## 2.2 Tab Targeting
 
-Initially the game only utilized the well known tab targeting. It means your mouse is not locked to the middle of the screen and you can freely place your abilities and target enemies.  If you ever played World of Warcraft or other you will feel right at home.
+Initially the game only utilized the well known tab targeting. It means your mouse is not locked to the middle of the screen and you can place your abilities and target enemies freely. If you have played World of Warcraft or other MMOs you will feel right at home.
 
 ## 2.3 Action Cam
 
-For people that prefer the TERA style of gameplay there also is an action mode. It is a bit hidden, to activate it you have to go to your keybindings, bind the "activate action cam" key and press it once you start the game. Once you to you will have a bullet eye in the middle of your screen. All freely placeable abilities will be casted at that position, but you can simply leftclick to autoattack. 
+For people that prefer the TERA style of gameplay there is also an action mode. It is a bit hidden, to activate it you must go to your keybindings, bind the "activate action cam" key and press it once you start the game. When "Action Cam" is enabled you will have a reticle in the middle of your screen. All skills will be cast at that position and you can simply leftclick to autoattack. 
 
 Personally I highly recommend trying it out ;)
 
@@ -168,7 +168,7 @@ Personally I highly recommend trying it out ;)
 
 ## 3.x Boons and Conditions
 
-Most status effects in the game come in the way of boons or conditions. Boons is the term for positive effects, Condition for negative. They can either stack intensity, meaning that when the same is applied again the effect gets stronger, or they can stack duration, meaning when the same is applied the time is increased.
+Most status effects in the game come in the way of "Boons" or "Conditions". "Boons" refer to positive effects (Buffs), "Conditions" refer to negetive effects (Debuffs). They can either stack intensity, which makes the effect stronger Or they can stack duration, which makes the effect last longer.
 
 **Boons:**
 
@@ -232,11 +232,11 @@ There are different types of fields and finishers. When a finisher is activated 
 
 ## 3.x Break-bars and Crowd Control
 
-When playing the game you will sometimes encounter enemies that have a blue bar below their healthbar. This indicates that the champion can not be stunned instantly. It is needed to reduce that bar to 0%, at which point it slowly regenerates.
+When playing the game you will sometimes encounter enemies that have a blue bar below their health. This is a "Break-bar" and protects the foe from croud control effects. Using Crowd-Control abilities (alias CC) You can reduce this bar to 0, when this is complete the bar will begin to slowely regenerate and the foe will often become dazed and take increased damage. Break-bars are an important aspect to combat and should be broken as soon as the bar is filled again.
 
 ![breakbar](img/en/breakbar.jpg)
 
-To remove the bar players need to use Crowd-Control abilities (alias CC). There are different types of CC and  you can see if a skill inflicts CC by reading the description.
+To remove the bar players need to use Crowd-Control abilities (alias CC). There are different types of CC and you can see if a skill inflicts CC by reading the description.
 
 **Hard CC:**
 
@@ -252,7 +252,7 @@ Hard CCs do more damage to breakbars, but can be avoided with stability. If the 
 
 Soft CCs do less damage to break-bars and are not as severe as hard CCs, however they can not be countered by *stability* but instead are countered by *resistance*.
 
-> Note: Fear is special in the sense that it gets countered by stability as well as resistance and aegis.
+> Note: Fear is special in that it gets countered by stability as well as resistance and aegis.
 
 - **Chill**: the targets movement speed and skill recharge speed are reduced by 66%
 - **Cripple**: the targets movement speed is reduced by 50%
@@ -264,25 +264,61 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
-# Chapter 4: Classes
+# Chapter 4: Professions
 
-## 4.1 Heavy Armor (Soldier)
+## 4.1 (Professions) Armor
+
+Professions come in three armor classes.
+
+## 4.1.1 Heavy Armor (Soldier)
 
 Soldier classes have the highest base armor in the game, coming in at  **1211** armor.
 
-## 4.2 Medium Armor (Adventurer)
+## 4.1.2 Medium Armor (Adventurer)
 
 Adventurer classes have the middle amount of armor, coming in at **1064** armor.
 
-## 4.3 Light Armor (Scholar)
+## 4.1.3 Light Armor (Scholar)
 
 Scholar classes have the least armor in the game, coming in at **920** armor.
 
-## 4.3.1 Elementalist
+## 4.2 (Professions) Health
+
+Professions come in three health pools.
+
+| Base health gained per level         |  1-19  |  20-39 | 40-59 | 60-79 |  80   | Total at level 80 |
+| -------------------------------------|--------|--------|-------|-------|-------|-------------------|      
+| Warrior, Necromancer                 |   28   |   70   |  140  |  210  |  280  |       9,212       |
+| Revenant, Engineer, Ranger, Mesmer   |   18   |   45   |  90   |  135  |  180  |       5,922       |
+| Guardian, Thief, Elementalist        |   5    |  12.5  |  25   |  37.5 |  50   |       1,645       |
+
+## 4.3 (Professions) Soldiers
+
+## 4.3.1 Guardian
+
+## 4.3.2 Revenant
+
+## 4.3.3 Warrior
+
+## 4.4 (Professions) Adventurers
+
+## 4.4.1 Engineer
+
+## 4.4.2 Ranger
+
+## 4.4.3 Thief
+
+## 4.5 (Professions) Scholars
+
+## 4.5.1 Elementalist
 
 - core
 - tempest
 - weaver
+
+## 4.5.2 Mesmer
+
+## 4.5.3 Necromancer
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
