@@ -16,13 +16,13 @@ By the community, for the community.
 
 - If numbers are used the base value for level 80 and or the rarity exotic is used. Other level or rarity gear/skills have different numbers.
 
-- CC means Crowd-Control. Generally that refers to skills that in some way restrict the control an enemy has over his character.
+- CC means [Crowd-Control](#3.x Break-bars and Crowd Control). Generally that refers to skills that in some way restrict the control an enemy has over his character.
 
 - The game scales you down when visiting lower level areas, so don't think it is an issue to play with friends who are a lower level.
 
 - You don't have to worry about griefing since you will get rewards for a mob for simply participating in the kill, even if you do not deliver the first, or the finishing blow.
 
-- Because of how the game works there is no downtime on patchdays. Also the server selection only matters for world vs. world. This is because of the instanced map system. [Here](http://www.gdcvault.com/play/1016640/Guild-Wars-2-Programming-the) is a technical presentation of an engineer about how it works.
+- Because of how the game works there is no downtime on patchdays. Also the server selection only matters for world vs. world. If you are interested in the technical aspect, click [Here](http://www.gdcvault.com/play/1016640/Guild-Wars-2-Programming-the) to see a technical presentation by an engineer about how it works.
 
   > Guild Wars 1 has had about 24 hours of downtime so far in about 13 years.
 
@@ -35,23 +35,27 @@ By the community, for the community.
 
 What race you choose only has an impact on the story of the game. While there are a few racial skills that are unique to them, they are designed to not be very strong, this is done so one race is not preferential over another.
 
-### 0.1.1 Norn
+### 0.1.1 The elder Dragons
+
+The elder dragons are massive dragons that consume magic. After consuming magic they tend to sleep for millennials. In Guild Wars 2 they are awakening and destroying everything they touch with their primordial forces.
+
+### 0.1.2 Norn
 
 The Norn I don't actually know jack shit about besides that they are over sized humans that can transform into animals. Their main city is Hoelbrak, which they built after they were forced out of the north by the elder dragon Jormag.
 
-### 0.1.2 Charr
+### 0.1.3 Charr
 
-The Charr are a feline race native to Tyria. 250 years ago they fought war against the humans to reclaim territories taken from them by the humans. Their main city in the game is the black citadel, built on the ruins of the old human kingdom of Ascalon. Since the conflict is still going on relations are complicated between Humans and Charr.
+The Charr are a feline race native to Tyria. 250 years ago they fought one of their final major offensives in the  war against the humans to reclaim territories taken from them. Their main city in the game is the black citadel, built on the ruins of the old human kingdom of Ascalon. Since the conflict is still going on relations are complicated between Humans and Charr.
 
-### 0.1.3 Asura
+### 0.1.4 Asura
 
 The Asura are one of the older races. Though not native to the surface they were forced out of the underground by the elder dragon Primordus. They are best known for their intelligence, technological advantages and their inflated ego. Their main city is Rata Sum, built after they had to escape the underground.
 
-### 0.1.4 Sylvari
+### 0.1.5 Sylvari
 
-The Sylvari are the youngest race of the planet, only having come to live ~25 years before the events of Guild Wars 2. Their main city is the Grove, where they all awaken from the dream to come into this world.
+The Sylvari are the youngest race of the planet, only having come to live ~25 years before the events of Guild Wars 2. Their main city is the Grove, where they all awaken from the dream, the mysterious stage of consciousness that they experience prior to their awakening, to come into this world.
 
-### 0.1.5 Humans
+### 0.1.6 Humans
 
 Humans are the only non-native race on the planet that the player can choose. While a thriving force on Tyria in the older times, they are only a shadow of their former glory and influence. Their capital City is Divinity's Reach, one of the last major human cities.
 
@@ -66,13 +70,13 @@ Humans are the only non-native race on the planet that the player can choose. Wh
 ## 1.1 General Interface 
 ![Complete](img/en/complete.jpg)
 
-The user interface can be separated into different areas on the screen. Generally, there is not much interface customization possible. Unless you are willing to modify the game, which of course would be at your own risk and is not supported by ArenaNet.
+The user interface can be separated into different areas on the screen. Generally, there is not much interface customization possible. 
 
 **Top left**
 
 ![Top Left](img/en/top_left.jpg)
 
-In the top left of the User Interface you can find your party, showing health as well as boons and conditions. Over that there are different buttons to open parts of the Interface. From the left to the right:
+In the top left of the User Interface you can find your party, showing health as well as  [Boons and Conditions](#3.x Boons and Conditions) (positive and negative effects on a character). Over that there are different buttons to open parts of the Interface. From the left to the right:
 
 Settings | Friends / LFG | Hero-Panel | Inventory | Mail | Trading-Post | Guilds | World vs. World | PvP
 
@@ -80,7 +84,7 @@ Settings | Friends / LFG | Hero-Panel | Inventory | Mail | Trading-Post | Guilds
 
 ![Top Center](img/en/top_center.jpg)
 
-In the top center it shows information about your currently targeted enemy. This consists of a healthbar, name, icon, [breakbar](#3.x: Break-bars and Crowd Control) (if existent) as well as boons and conditions.
+In the top center it shows information about your currently targeted entity. This consists of a healthbar, name, icon, [breakbar](#3.x: Break-bars and Crowd Control) (if existent) as well as boons and conditions. Below that extra information about them might be displayed.
 
 **Top right**
 
@@ -106,6 +110,8 @@ In the bottom center is the most important part of the user interface. It shows 
 
 Also you can see if your equipment is damaged or broken by the small orange/red shield on the bottom right of the health bubble.
 
+While out of combat you can also swap out your skills on the right side of the bar by right-clicking or using the little arrow above them.
+
 **Bottom right**
 
 ![Bottom Right](img/en/bottom_right.jpg)
@@ -116,7 +122,7 @@ In the bottom right you can see your map. Under the map you can see the next rew
 
 ## 1.2 The Map
 
-The world map is your bread and butter for exploring. It shows events around you, hearts, Heropoints, points of interest(POIs) and whatever else you might need to know.
+The world map is your bread and butter for exploring. It shows events around you, hearts, Heropoints, points of interest(POIs) and whatever else you might need to know. You open the Map by pressing **M**.
 
 ![Map](img/en/map.jpg)
 
@@ -297,7 +303,7 @@ Professions come in three health pools. These pools are added on the base health
  - Core
  - Dragonhunter
  - Firebrand
- 
+
 ## 4.3.2 Revenant
 
 - Core
@@ -624,9 +630,19 @@ The third big thing are Events. These will be shown in orange on your map. They 
 
 Leveling also works a bit different in Guildwars. When leveling up or completing hero points in the world you get hero points you can spend. If you open your character menu with H you can open a page where you can train your skills. 
 
-The training is separated into active abilities and passive traits. Passive traits can be used by equipping the entire traitline and selecting which ones to activate. You can only have up to 3 traitlines at the same time.
+![Leveling](img/en/leveling.jpg)
+
+The training is separated into active abilities (Skills) and passive traits (Specialitations). Passive traits can be used by equipping the entire traitline and selecting which ones to activate. You can only have up to 3 traitlines at the same time.
 
 The active skills are what is put on the right side bar of your skills. Meaning the healskill to the ultimate skill.
+
+![Traits](img/en/traits.jpg)
+
+
+
+> Do not worry to much about what traits and skills to level, you will be able to unlock them all.
+
+Often one of the utility lines and one of the traitlines correspond to one another. When crafting a build try to get the best synergy.	
 
 ## 9.3 Inventory Management
 
