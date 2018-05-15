@@ -37,11 +37,11 @@ What race you choose only has an impact on the story of the game. While there ar
 
 ### 0.1.1 The elder Dragons
 
-The elder dragons are massive dragons that consume magic. After consuming magic they tend to sleep for millennials. In Guild Wars 2 they are awakening and destroying everything they touch with their primordial forces.
+The elder dragons are massive dragons that consume magic. After consuming magic they tend to sleep for millennia. In Guild Wars 2 they are awakening and destroying everything they touch with their primordial forces.
 
 ### 0.1.2 Norn
 
-The Norn I don't actually know jack shit about besides that they are over sized humans that can transform into animals. Their main city is Hoelbrak, which they built after they were forced out of the north by the elder dragon Jormag.
+The Norn are a race of hunters who were pushed from their homeland far to the north by the elder dragon Jormag. They have a similar appearance to a human but are often much larger averaging nine feet tall and large in stature. They have know main governmant but congragate in the city of Hoelbrak. These large hunters listen to the Spirits of the wild and have the ability to transform.
 
 ### 0.1.3 Charr
 
@@ -166,17 +166,48 @@ Personally I highly recommend trying it out ;)
 # Chapter 3: Combat
 
 - Basics
-- Levelcap for maps
 - Dodging
+- Leveling
+- Weapons & Skills
+- Specializations & Traits
+- Elite Specializations
+- Boons & Conditions
 - Combofields
-- Conditions
-- Weak trinity
+- Break Bars & Crowd Control (CC)
+- Guild Wars 2 "Holy Trinity"
 
-## 3.x Weapons
+## 3.1 Basics
 
-The first five skills on your skill bar come from the weapon or wepons you have equipped (Dual Wield). Once you reach level ten you will be able to swap between two weapon sets.
+Guild Wars 2 combat relies much more on skill than on stats or RNG. Elements such as dodging, blocking or evading are not a numbered chance based upon your character, these abilites can be activated by the player when needed. The core of combat in Guild Wars 2 is moving, dodging, using skills at the correct time and being aware of your foes attack animations.
 
-## 3.x Boons and Conditions
+## 3.2 Dodging
+
+Learn this skill! Dodging is the most useful and most used skill in the game. all classes have the ability to dodge and a perfect dodge roll can completely mitigate all damage and effects from an attack. Dodging uses endurance which is denoted by the yellow bars above your health orb. The default key for dodging is "Left Shift" while moving in any direction pressing your bound dodge key will roll you in that direction, repositioning you and "dodging" the incoming effect.
+
+## 3.3 Leveling
+
+When leveling up or completing hero challenges in the world you get hero points which you can spend by opening your character menu with H and pressing the training tab. often traits and skills have synergies, be sure to read the skills and traits well to find what things will work together.
+
+![Leveling](img/en/leveling.jpg)
+
+> Do not worry to much about what traits and skills to level, you will be able to unlock them all.
+
+## 3.4 Weapons & Skills
+
+The skill bar is made up of ten main skills with multiple class specific ones Which will be discussed in each classes "core" section. The first five skills on your skill bar come from the weapon or weapons you have equipped (Dual Wield). Once at level ten all classes except the Elementalist and Engineer can swap between two weapon sets. The next five skills are composed of 1 heal skill, 3 utility skills and 1 elite skill. once a skill is unlocked it can be changed by right clicking on the skill and selecing another skill for that slot.
+
+## 3.5 Specializations & Traits
+
+
+![Traits](img/en/traits.jpg)
+
+You can select specializations and traits by opening your hero panel with H and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of the sccope of this guide.
+
+## 3.6 Elite Specializations
+
+Elite Specializitions are accessed buy purchasing the connected expansion and then collecting hero points to unlock them. They can only be equipped in the bottom specialization slot and as such only one can be selected at a time. These specializations change the "core" professions mechanics, giving you access to a new weapon, three new trait lines, and new skills.
+
+## 3.7 Boons & Conditions
 
 Most status effects in the game come in the way of "Boons" or "Conditions". "Boons" refer to positive effects (Buffs), "Conditions" refer to negetive effects (Debuffs). They can either stack intensity, which makes the effect stronger Or they can stack duration, which makes the effect last longer.
 
@@ -219,7 +250,7 @@ Most status effects in the game come in the way of "Boons" or "Conditions". "Boo
   - **Weakness**: reduces the targets *endurance* regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage
   - **Blindness**: the next attack misses
 
-## 3.x Combofields
+## 3.8 Combofields
 
 There are different types of fields and finishers. When a finisher is activated inside a Combofield a special Interaction happens depending on the type of field and finisher. Whether or not a particular skill as a field or a finisher can be seen by hovering over them and reading the description.
 
@@ -240,7 +271,7 @@ There are different types of fields and finishers. When a finisher is activated 
 | **Smoke**     | Invisibility (AoE)   | Invisibility  | Blindness           | Blinding Projectiles      |
 | **Water**     | Healing (AoE)        | Healing       | Regeneration        | Healing Projectiles       |
 
-## 3.x Break-bars and Crowd Control
+## 3.9 Break-bars & Crowd Control
 
 When playing the game you will sometimes encounter enemies that have a blue bar below their health. This is a "Break-bar" and protects the foe from crowd control effects. Using Crowd-Control abilities (alias CC) You can reduce this bar to 0, when this is complete the bar will begin to slowly regenerate and the foe will often become dazed and take increased damage. Break-bars are an important aspect to combat and should be broken as soon as the bar is filled again.
 
@@ -273,6 +304,10 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
+## 3.10 Guild Wars 2 "Holy Trinity"
+
+The core of many MMO's is the "Holy Trinity" style of play (Healer, Tank, DPS) Arenanet wanted to move away from this as they felt sticking people in certain roles was less intuitive than allowing all classes to fill roles if necessary. This "Holy Trinity" style also meant players could be waiting for long periods of time for the exact class needed to complete certain content. This led to Arenanet creating their own style of trinity which is Support, Damage, Control. Initially this concept was recieved well but quickly led to all classes just running full damage builds as it was easier to kill a boss quickly than it was to bring support classes and make the fight longer. With more difficult content such as "Fractals of the Mist" and "Raids" as well as the creation of "Elite Specializations" Guild Wars 2 has started to find it's way into a healthy middle ground where certain roles are needed such as Tanks and Healers but "balance permitting", these roles can be filled by different classes. Even the most difficult content has been completed with groups of non-meta classes played by skilled players.
+
 ---
 # Chapter 4: Professions
 
@@ -300,59 +335,126 @@ Professions come in three health pools. These pools are added on the base health
 
 ## 4.3.1 Guardian
 
+Guardians specialize in protective and defensive magic.
+
  - Core
+ 
+The Guardians' unique abilities are Virtues. Virtues provide passive effects to the Guardian; when activated they provide various effects for nearby allies as well. These virtues are:
+
+Virtue of Justice - Burn foes every few attacks. Activate: You and your allies inflict burning on the next attack.
+
+Virtue of Resolve - Regenerates health. Activate: Heal yourself and nearby allies.
+
+Virtue of Courage - Grants aegis every few seconds. Activate: Grant aegis to yourself and nearby allies.
+
  - Dragonhunter
  - Firebrand
 
 ## 4.3.2 Revenant
 
-- Core
-- Herald
-- Renegade
+Revenants channel the power of the Mists.
+
+ - Core
+ 
+The Revenants unique ability is to invoke the powers of certain legendary figures of the past. Swapping between these figuers changes the five skills on the right side of your skill bar.
+
+ - Herald
+ - Renegade
 
 ## 4.3.3 Warrior
 
-- Core
-- Berserker
-- Spellbreaker
+Warriors are masters of martial skills. They're versatile in combat and benefit from offensive and defensive abilities. 
+
+ - Core 
+ 
+The Warriors unique ability is called Adrenaline, as the Warrior attacks they gain adrenaline which can be used to activate a burst attack. Each weapon has its own burst attack.
+
+ - Berserker
+ - Spellbreaker
 
 ## 4.4 (Professions) Adventurers
 
 ## 4.4.1 Engineer
 
-- Core
-- Scrapper
-- Holosmith
+Engineers are technological and alchemical masterminds. They employ turrets, grenades, elixirs, a variety of other impressive devices, and concoctions to overcome their enemies.
+
+ - Core
+ 
+The Engineer's profession mechanic is the tool belt. It appears above the profession's skill bar, granting each equipped utility, elite and healing skill a corresponding extra skill.
+
+ - Scrapper
+ - Holosmith
 
 ## 4.4.2 Ranger
 
-- Core
-- Druid
-- Soulbeast
+Rangers are flexible and durable—proficient with the bow, yet surgical with the sword. Their loyal pets, which rangers tame and train, distract enemies while the rangers strike safely from a distance.
+
+ - Core
+ 
+The Rangers profession mechanic is the ability to tame and bring pets into battle. They are AI controlled allies that fight alongside the ranger and are maintained through a special user interface that can set basic behavior modes and activate a skill. Two Pets can be equipped and the ranger can swap between then in battle.
+
+ - Druid
+ - Soulbeast
 
 ## 4.4.3 Thief
 
-- Core
-- Daredevil
-- Deadeye
+Thieves are expert in the shadow arts. They utilize stealth and shadowstepping to surprise and to get close to their target.
+
+ - Core
+ 
+The Thieves unique mechanic is the "Steal" ability. In terms of game mechanics, the thief does not literally steal an item, but instead creates a bundle based on the targeted creature's classification that the thief can store for later use. The stolen item will be taken from a pool of several possible items for each creature classification.
+
+ - Daredevil
+ - Deadeye
 
 ## 4.5 (Professions) Scholars
 
 ## 4.5.1 Elementalist
 
-- Core
-- Tempest
-- Weaver
+Elementalists have harnessed Tyria's natural forces. Their powers of destruction are drawn from an affinity with the four elements that make up the world.
+
+ - Core
+ 
+The Elementalists unique mechanic is the ability to swap between the four elements. The Elementalist can't swap weapons but has 20 skills per weapon due to the four elements. The four elements are as follows:
+
+Fire Attunement - Attune to fire, gaining heavy damage and burning abilities.
+
+Water Attunement - Attune to water, gaining superior support and healing abilities.
+
+Air Attunement - Attune to air, gaining heavy damage and control abilities.
+
+Earth Attunement - Attune to earth, gaining superior damage-over-time and defensive abilities.
+
+ - Tempest
+ - Weaver
 
 ## 4.5.2 Mesmer
 
-- Core
-- Chronomancer
-- Mirage
+Mesmers are masters of mirage. They weave deception magic that seeks to confound, disorient and dumbfound their enemies. With a wave of the hand, they can shatter their own illusions to produce even greater special effects.
+
+ - Core
+ 
+Mesmers unique profession mechanic is shattering illusions for various effects. The shatter effects are as follows:
+
+Mind Wrack - Destroy all your clones, damaging nearby foes. The shatter effect also occurs at your location.
+
+Cry of Frustration - Destroy all your clones, confusing nearby foes. The shatter effect also occurs at your location.
+
+Diversion - Destroy all your clones, dazing their targets. The shatter effect also occurs at your location.
+
+Distortion - Gain distortion and destroy all your clones, gaining additional distortion for each one shattered.
+
+ - Chronomancer
+ - Mirage
 
 ## 4.5.3 Necromancer
 
+Necromancers are masters of the dark arts. They summon the dead to fight for them, channel blood energy and rend their enemies' souls. Necromancers draw on life force and use it to strengthen or heal themselves and others.
+
 - Core
+
+Necromancers unique profession mechanic is to gather Life Force from nearby deaths that allows them to transform into Death Shroud which gives them access to different set of skills and enables them to use life force instead of their
+
 - Reaper
 - Scourge
 
@@ -625,24 +727,6 @@ Another thing are hero points (yellow "arrows" on the map). They will give you h
 The third big thing are Events. These will be shown in orange on your map. They spawn randomly around the world and every player can participate.
 
 > As you can see guild wars encourages you to explore the world to level. This also however means that there is no straight "direction" to start. You can visit the other starting areas and quest a bit there, or just play in yours.
-
-## 9.2 Leveling
-
-Leveling also works a bit different in Guildwars. When leveling up or completing hero points in the world you get hero points you can spend. If you open your character menu with H you can open a page where you can train your skills. 
-
-![Leveling](img/en/leveling.jpg)
-
-The training is separated into active abilities (Skills) and passive traits (Specialitations). Passive traits can be used by equipping the entire traitline and selecting which ones to activate. You can only have up to 3 traitlines at the same time.
-
-The active skills are what is put on the right side bar of your skills. Meaning the healskill to the ultimate skill.
-
-![Traits](img/en/traits.jpg)
-
-
-
-> Do not worry to much about what traits and skills to level, you will be able to unlock them all.
-
-Often one of the utility lines and one of the traitlines correspond to one another. When crafting a build try to get the best synergy.	
 
 ## 9.3 Inventory Management
 
