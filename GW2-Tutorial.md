@@ -61,6 +61,30 @@ Humans are the only non-native race on the planet that the player can choose. Wh
 
 
 
+## 0.2 Questing and Leveling
+
+### 0.2.1 Questing
+
+Questing in Guild Wars works very different to other games.
+
+First, there is the personal story. These are story missions you get every 10 levels if you are under level 80 or just back to back if you play the expansion story / living world story.
+
+For leveling you would usually quest in other MMOs or grind mobs. In guild wars there quests do not exist. However you will find hearts scattered around the map. These are basically locally bound quest that you automatically accept once you enter the area and halt once you leave it again. 
+
+Another thing are hero points (yellow "arrows" on the map). They will give you hero points you can spend on leveling.
+
+The third big thing are Events. These will be shown in orange on your map. They spawn randomly around the world and every player can participate.
+
+> As you can see guild wars encourages you to explore the world to level. This also however means that there is no straight "direction" to start. You can visit the other starting areas and quest a bit there, or just play in yours.
+
+### 0.2.2 Leveling
+
+When leveling up or completing hero challenges in the world you get hero points which you can spend by opening your character menu with H and pressing the training tab. often traits and skills have synergies, be sure to read the skills and traits well to find what things will work together.
+
+![Leveling](/home/jonathan/Documents/Projects/GW2%20Tutorial/img/en/leveling.jpg)
+
+> Do not worry to much about what traits and skills to level, you will be able to unlock them all.
+
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
@@ -184,30 +208,22 @@ Guild Wars 2 combat relies much more on skill than on stats or RNG. Elements suc
 
 Learn this skill! Dodging is the most useful and most used skill in the game. all classes have the ability to dodge and a perfect dodge roll can completely mitigate all damage and effects from an attack. Dodging uses endurance which is denoted by the yellow bars above your health orb. The default key for dodging is "Left Shift" while moving in any direction pressing your bound dodge key will roll you in that direction, repositioning you and "dodging" the incoming effect.
 
-## 3.3 Leveling
-
-When leveling up or completing hero challenges in the world you get hero points which you can spend by opening your character menu with H and pressing the training tab. often traits and skills have synergies, be sure to read the skills and traits well to find what things will work together.
-
-![Leveling](img/en/leveling.jpg)
-
-> Do not worry to much about what traits and skills to level, you will be able to unlock them all.
-
-## 3.4 Weapons & Skills
+## 3.3 Weapons & Skills
 
 The skill bar is made up of ten main skills with multiple class specific ones Which will be discussed in each classes "core" section. The first five skills on your skill bar come from the weapon or weapons you have equipped (Dual Wield). Once at level ten all classes except the Elementalist and Engineer can swap between two weapon sets. The next five skills are composed of 1 heal skill, 3 utility skills and 1 elite skill. once a skill is unlocked it can be changed by right clicking on the skill and selecing another skill for that slot.
 
-## 3.5 Specializations & Traits
+## 3.4 Specializations & Traits
 
 
 ![Traits](img/en/traits.jpg)
 
 You can select specializations and traits by opening your hero panel with H and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of the sccope of this guide.
 
-## 3.6 Elite Specializations
+## 3.5 Elite Specializations
 
 Elite Specializitions are accessed buy purchasing the connected expansion and then collecting hero points to unlock them. They can only be equipped in the bottom specialization slot and as such only one can be selected at a time. These specializations change the "core" professions mechanics, giving you access to a new weapon, three new trait lines, and new skills.
 
-## 3.7 Boons & Conditions
+## 3.6 Boons & Conditions
 
 Most status effects in the game come in the way of "Boons" or "Conditions". "Boons" refer to positive effects (Buffs), "Conditions" refer to negetive effects (Debuffs). They can either stack intensity, which makes the effect stronger Or they can stack duration, which makes the effect last longer.
 
@@ -250,7 +266,7 @@ Most status effects in the game come in the way of "Boons" or "Conditions". "Boo
   - **Weakness**: reduces the targets *endurance* regeneration and a 50% chance that hits are glancing blows, dealing 50% less damage
   - **Blindness**: the next attack misses
 
-## 3.8 Combofields
+## 3.7 Combofields
 
 There are different types of fields and finishers. When a finisher is activated inside a Combofield a special Interaction happens depending on the type of field and finisher. Whether or not a particular skill as a field or a finisher can be seen by hovering over them and reading the description.
 
@@ -271,7 +287,7 @@ There are different types of fields and finishers. When a finisher is activated 
 | **Smoke**     | Invisibility (AoE)   | Invisibility  | Blindness           | Blinding Projectiles      |
 | **Water**     | Healing (AoE)        | Healing       | Regeneration        | Healing Projectiles       |
 
-## 3.9 Break-bars & Crowd Control
+## 3.8 Break-bars & Crowd Control
 
 When playing the game you will sometimes encounter enemies that have a blue bar below their health. This is a "Break-bar" and protects the foe from crowd control effects. Using Crowd-Control abilities (alias CC) You can reduce this bar to 0, when this is complete the bar will begin to slowly regenerate and the foe will often become dazed and take increased damage. Break-bars are an important aspect to combat and should be broken as soon as the bar is filled again.
 
@@ -302,11 +318,11 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 - **Blindness**: the next attack misses
 - **Fear**: the target runs away from you unable to move on their own or use skills
 
-[To the top](#Guild Wars 2 new Player Tutorial)
-
-## 3.10 Guild Wars 2 "Holy Trinity"
+## 3.9 Guild Wars 2 "Holy Trinity"
 
 The core of many MMO's is the "Holy Trinity" style of play (Healer, Tank, DPS) Arenanet wanted to move away from this as they felt sticking people in certain roles was less intuitive than allowing all classes to fill roles if necessary. This "Holy Trinity" style also meant players could be waiting for long periods of time for the exact class needed to complete certain content. This led to Arenanet creating their own style of trinity which is Support, Damage, Control. Initially this concept was recieved well but quickly led to all classes just running full damage builds as it was easier to kill a boss quickly than it was to bring support classes and make the fight longer. With more difficult content such as "Fractals of the Mist" and "Raids" as well as the creation of "Elite Specializations" Guild Wars 2 has started to find it's way into a healthy middle ground where certain roles are needed such as Tanks and Healers but "balance permitting", these roles can be filled by different classes. Even the most difficult content has been completed with groups of non-meta classes played by skilled players.
+
+[To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
 # Chapter 4: Professions
@@ -338,7 +354,7 @@ Professions come in three health pools. These pools are added on the base health
 Guardians specialize in protective and defensive magic.
 
  - Core
- 
+
 The Guardians' unique abilities are Virtues. Virtues provide passive effects to the Guardian; when activated they provide various effects for nearby allies as well. These virtues are:
 
 Virtue of Justice - Burn foes every few attacks. Activate: You and your allies inflict burning on the next attack.
@@ -355,7 +371,7 @@ Virtue of Courage - Grants aegis every few seconds. Activate: Grant aegis to you
 Revenants channel the power of the Mists.
 
  - Core
- 
+
 The Revenants unique ability is to invoke the powers of certain legendary figures of the past. Swapping between these figuers changes the five skills on the right side of your skill bar.
 
  - Herald
@@ -366,7 +382,7 @@ The Revenants unique ability is to invoke the powers of certain legendary figure
 Warriors are masters of martial skills. They're versatile in combat and benefit from offensive and defensive abilities. 
 
  - Core 
- 
+
 The Warriors unique ability is called Adrenaline, as the Warrior attacks they gain adrenaline which can be used to activate a burst attack. Each weapon has its own burst attack.
 
  - Berserker
@@ -379,7 +395,7 @@ The Warriors unique ability is called Adrenaline, as the Warrior attacks they ga
 Engineers are technological and alchemical masterminds. They employ turrets, grenades, elixirs, a variety of other impressive devices, and concoctions to overcome their enemies.
 
  - Core
- 
+
 The Engineer's profession mechanic is the tool belt. It appears above the profession's skill bar, granting each equipped utility, elite and healing skill a corresponding extra skill.
 
  - Scrapper
@@ -390,7 +406,7 @@ The Engineer's profession mechanic is the tool belt. It appears above the profes
 Rangers are flexible and durable—proficient with the bow, yet surgical with the sword. Their loyal pets, which rangers tame and train, distract enemies while the rangers strike safely from a distance.
 
  - Core
- 
+
 The Rangers profession mechanic is the ability to tame and bring pets into battle. They are AI controlled allies that fight alongside the ranger and are maintained through a special user interface that can set basic behavior modes and activate a skill. Two Pets can be equipped and the ranger can swap between then in battle.
 
  - Druid
@@ -401,7 +417,7 @@ The Rangers profession mechanic is the ability to tame and bring pets into battl
 Thieves are expert in the shadow arts. They utilize stealth and shadowstepping to surprise and to get close to their target.
 
  - Core
- 
+
 The Thieves unique mechanic is the "Steal" ability. In terms of game mechanics, the thief does not literally steal an item, but instead creates a bundle based on the targeted creature's classification that the thief can store for later use. The stolen item will be taken from a pool of several possible items for each creature classification.
 
  - Daredevil
@@ -414,7 +430,7 @@ The Thieves unique mechanic is the "Steal" ability. In terms of game mechanics, 
 Elementalists have harnessed Tyria's natural forces. Their powers of destruction are drawn from an affinity with the four elements that make up the world.
 
  - Core
- 
+
 The Elementalists unique mechanic is the ability to swap between the four elements. The Elementalist can't swap weapons but has 20 skills per weapon due to the four elements. The four elements are as follows:
 
 Fire Attunement - Attune to fire, gaining heavy damage and burning abilities.
@@ -433,7 +449,7 @@ Earth Attunement - Attune to earth, gaining superior damage-over-time and defens
 Mesmers are masters of mirage. They weave deception magic that seeks to confound, disorient and dumbfound their enemies. With a wave of the hand, they can shatter their own illusions to produce even greater special effects.
 
  - Core
- 
+
 Mesmers unique profession mechanic is shattering illusions for various effects. The shatter effects are as follows:
 
 Mind Wrack - Destroy all your clones, damaging nearby foes. The shatter effect also occurs at your location.
@@ -714,21 +730,7 @@ Other than PvP a gear grind technically exists in WvW since it doesn't use amule
 ---
 # Chapter 9: Other
 
-## 9.1 Questing
-
-Questing in Guild Wars works very different to other games.
-
-First, there is the personal story. These are story missions you get every 10 levels if you are under level 80 or just back to back if you play the expansion story / living world story.
-
-For leveling you would usually quest in other MMOs or grind mobs. In guild wars there quests do not exist. However you will find hearts scattered around the map. These are basically locally bound quest that you automatically accept once you enter the area and halt once you leave it again. 
-
-Another thing are hero points (yellow "arrows" on the map). They will give you hero points you can spend on leveling.
-
-The third big thing are Events. These will be shown in orange on your map. They spawn randomly around the world and every player can participate.
-
-> As you can see guild wars encourages you to explore the world to level. This also however means that there is no straight "direction" to start. You can visit the other starting areas and quest a bit there, or just play in yours.
-
-## 9.3 Inventory Management
+## 9.1 Inventory Management
 
 Inventory management can be a huge part of MMOs. Guild Wars tries to make it as little painful as possible.  One of the unusual things you can do in GW is deposit all materials in your inventory to your material storage with one click.
 
@@ -745,9 +747,9 @@ Salvaging found equipment can be worth it in order to get materials out of them.
 
 
 
-## 9.4 Crafting
+## 9.2 Crafting
 
-## 9.5 Chat commands
+## 9.3 Chat commands
 
 Guild Wars 2 offers a plethora of chat commands. Some of them are purely for roleplaying, while others are convenience functions or offer you additional information.
 
@@ -795,7 +797,7 @@ Guild Wars 2 offers a plethora of chat commands. Some of them are purely for rol
 
 For roleplaying Guild Wars 2 offers some emotes. The whole table can be found [here](https://wiki.guildwars2.com/wiki/Emote). 
 
-## 9.6 Making Money
+## 9.4 Making Money
 
 When starting a new MMO it can be hard to figure out how to best make money. While a full guide would not be in scope for this tutorial, here are a few quick tips how you can get a decent start.
 
@@ -803,11 +805,11 @@ When starting a new MMO it can be hard to figure out how to best make money. Whi
 - Check if you can sell your loot over the trading post instead of selling it to merchants.
 - Especially when new to the game it can be good to join dungeon runs. While they are not the most bang for the buck they offer a great learning experience with decent rewards.
 
-### 9.6.1 Trading Post
+### 9.4.1 Trading Post
 
 The trading post is the main way for players to trade items, since there is **no** direct player to player trading. When selling an item there is a 15% tax. 5% of that have to be paid when listing the item, the other 10% will be deducted once the item is sold.
 
-## 9.7 Options
+## 9.5 Options
 
 The options menu offers quite a few options to customize how your game behaves. Here I will list some of the most important ones.
 
