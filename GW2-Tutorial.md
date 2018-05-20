@@ -189,17 +189,6 @@ Personally I highly recommend trying it out ;)
 ---
 # Chapter 3: Combat
 
-- Basics
-- Dodging
-- Leveling
-- Weapons & Skills
-- Specializations & Traits
-- Elite Specializations
-- Boons & Conditions
-- Combofields
-- Break Bars & Crowd Control (CC)
-- Guild Wars 2 "Holy Trinity"
-
 ## 3.1 Basics
 
 Guild Wars 2 combat relies much more on skill than on stats or RNG. Elements such as dodging, blocking or evading are not a numbered chance based upon your character, these abilites can be activated by the player when needed. The core of combat in Guild Wars 2 is moving, dodging, using skills at the correct time and being aware of your foes attack animations.
@@ -218,6 +207,10 @@ The skill bar is made up of ten main skills with multiple class specific ones Wh
 ![Traits](img/en/traits.jpg)
 
 You can select specializations and traits by opening your hero panel with H and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of the sccope of this guide.
+
+> If you have to expansions you can also unlock elite-specialisations. These require all other things to be fully trained and offer a new playstyle to a class. They offer a new passive traitline, a new healskill, 4 new utility skills, a new elite skill and a new weapon to be used for the class. 
+>
+> You can only equip one elite specialisation at the same time, which is ensured by them only being slottable in the last slot of the passive traitline.
 
 ## 3.5 Elite Specializations
 
@@ -452,13 +445,12 @@ Mesmers are masters of mirage. They weave deception magic that seeks to confound
 
 Mesmers unique profession mechanic is shattering illusions for various effects. The shatter effects are as follows:
 
-Mind Wrack - Destroy all your clones, damaging nearby foes. The shatter effect also occurs at your location.
+- Mind Wrack - Destroy all your clones, damaging nearby foes. The shatter effect also occurs at your location.
+- Cry of Frustration - Destroy all your clones, confusing nearby foes. The shatter effect also occurs at your location.
+- Diversion - Destroy all your clones, dazing their targets. The shatter effect also occurs at your location.
+- Distortion - Gain distortion and destroy all your clones, gaining additional distortion for each one shattered.
 
-Cry of Frustration - Destroy all your clones, confusing nearby foes. The shatter effect also occurs at your location.
 
-Diversion - Destroy all your clones, dazing their targets. The shatter effect also occurs at your location.
-
-Distortion - Gain distortion and destroy all your clones, gaining additional distortion for each one shattered.
 
  - Chronomancer
  - Mirage
@@ -517,7 +509,7 @@ There are 5 secondary attributes. These have no baseline and can only be aquired
 
 ### 5.1.4 Derived attributes
 
-There are 6 derived attributes, which are calculated from a corresponding primary attribute
+There are 6 derived attributes, which are calculated from a corresponding primary or secondary attribute.
 
 - **Armor**: Increased by Toughness and Defense, reduces incoming direct damage
 - **Boon Duration**: Increases duration of boons, 1% per 15 Concentration
@@ -634,6 +626,8 @@ Because the game uses a mega server system there are often multiple instances of
 
 
 ## 7.2: Guilds
+
+Guilds are formed by groups of players. A guild can have up to 500 members. The specialty of the guild system in Guild Wars 2 is that every player has the ability to be in 5 Guilds at the same time. They are account wide, but each character can separately select which guild to represent, meaning that you have the tag besides your name and see its players on the worldmap. Besides that guilds offer guild missions, which can be done weekly in order to gain special rewards. For 100 gold a guild can also buy a guildhall which can be leveled up in order to gain special vendors among other things. There are some tie in of guilds with World vs World, mainly that a guild can claim outposts after capturing them.
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -795,7 +789,7 @@ Guild Wars 2 offers a plethora of chat commands. Some of them are purely for rol
 
 **Emotes**
 
-For roleplaying Guild Wars 2 offers some emotes. The whole table can be found [here](https://wiki.guildwars2.com/wiki/Emote). 
+For roleplaying Guild Wars 2 offers some emotes. The whole table can be found [here](https://wiki.guildwars2.com/wiki/Emote). When using `/emote *`  you can synchronize your emotes with other players. 
 
 ## 9.4 Making Money
 
@@ -825,6 +819,24 @@ The options menu offers quite a few options to customize how your game behaves. 
 - **Double-Tap to Evade**: By default you can evade by doubletapping in a certain direction. **Disable it** and bind dodge to your mouse wheel. Trust me you will thank me later.
 - **Melee Attack Assist**: This option prevents you from accidentally walking through an enemy when attacking. I would recommend turning it of as it prevents you from standing inside enemies.
 
+## 9.6 Restrictions of a free to play account
+
+There are a few restrictions placed on free to play accounts. These exist to prevent malicious players from abusing the system. While there are a few more I will list the most important ones here:
+
+- Only 2 character slots of the initial 5
+- Can't leave starter maps before level 10
+- Can not send items or gold through mail and only send mail to mutual friends (having each other on the friendlist)
+- Can only see mapchat and can only whisper mutual friends or players on the same map
+- Can only use LfG one level 30 is reached
+- no login rewards
+- gem Store is limited, currency exchange is only gems to gold and the trading post is restricted to certain things
+- no forum posting
+- no access to HoT or PoF content
+
+A full list of the restrictions can be found [here](https://wiki.guildwars2.com/wiki/Account#Free_accounts).
+
+> Though these might sound like harsher restrictions I still recommend anyone to use f2p in order to evaluate whether or not they will like the game. There is still hundreds of hours of content in the core game alone.
+
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
@@ -833,9 +845,13 @@ The options menu offers quite a few options to customize how your game behaves. 
 
 ## 10.1 Heart of Thorns
 
+Heart of Thorns is the first expansion to the game, it offers 5 new maps, the Mastery System, which is a way to level up after level 80 in a sideways progression, gliders (which are part of the mastery system) as well as the first Raids of the game. 
+
+It also offers a new Elite-Specialization for each class, meaning a new passive traitline, a new weapon and a fresh set of utility skills. 
+
 ## 10.2 Path of Fire
 
-
+Path of Fire is the second expansion of the game. Similar to HoT it offers 5 new maps, new elite specializations, 1 new raid (so far) as well as Mounts (which are part of the mastery system). There are 5 mounts in total each bringing a unique way to traverse the terrain.
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
