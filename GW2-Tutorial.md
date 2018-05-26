@@ -6,6 +6,8 @@ By the community, for the community.
 
 **Though you certainly can and I encourage it, this is not necessarily needed to be read from start to finish. Rather use it as a way to read about things when you are unsure. There is no use to overwhelm yourself with a wall of text :)**
 
+Also don't worry about getting into the game to late. GW2 is very casual-friendly in the sense that you do not need to devote much time to it, your progress is not being voided if you are not grinding enough etc.
+
 ![Southsun](img/en/Southsun.jpg)
 
 [TOC]
@@ -322,7 +324,7 @@ The core of many MMO's is the "Holy Trinity" style of play (Healer, Tank, DPS) A
 
 ## 4.1 (Professions) Armor
 
-Professions come in three armor classes.
+Professions come in three armor classes. This does however not mean that a particular armor class can't fulfill a role. For example the mesmer (light armor) is a highly used Tank, while the Warrior is often a supporting the team with special boons.
 
 |            Class             |           Profession              |   Armor Rating  |
 |------------------------------|-----------------------------------|-----------------|
@@ -357,7 +359,12 @@ Virtue of Resolve - Regenerates health. Activate: Heal yourself and nearby allie
 Virtue of Courage - Grants aegis every few seconds. Activate: Grant aegis to yourself and nearby allies.
 
  - Dragonhunter
+
+   Being the HoT Elite-Specialization the Guardian gets access to a Longbow, as well as Traps to plant. 
+
  - Firebrand
+
+   The Firebrand gets access to mantras, which are  a special type of ability that work with ammunition as well as transforming his Virtues into tomes he can summon, granting him 5 new abilities each. One is offensive, one gives boons and one is for healing.
 
 ## 4.3.2 Revenant
 
@@ -368,7 +375,12 @@ Revenants channel the power of the Mists.
 The Revenants unique ability is to invoke the powers of certain legendary figures of the past. Swapping between these figuers changes the five skills on the right side of your skill bar.
 
  - Herald
+
+   Herald is the Heart of Thorns Elite-Specialization of the Revenant. You gain acess to the new legend Glint, which is designed around supporting others. His new weapon is a shield.
+
  - Renegade
+
+   Renegade is the Path of Fire one. The new Legends is (TODO, a char). You gain the ability to summon spirits that help you in combat, the new weapon is (TODO).
 
 ## 4.3.3 Warrior
 
@@ -379,7 +391,12 @@ Warriors are masters of martial skills. They're versatile in combat and benefit 
 The Warriors unique ability is called Adrenaline, as the Warrior attacks they gain adrenaline which can be used to activate a burst attack. Each weapon has its own burst attack.
 
  - Berserker
+
+   Berserker is the first Elite-Specialization of the Warrior. He gains the ability to wield a torch. The class is designed to be a damager dealer.
+
  - Spellbreaker
+
+   Spellbreaker is the second Elite-Specialization, being available with Path of Fire. It is designed to be heavily PvP oriented and works about removing boons from your enemy. 
 
 ## 4.4 (Professions) Adventurers
 
@@ -435,7 +452,12 @@ Air Attunement - Attune to air, gaining heavy damage and control abilities.
 Earth Attunement - Attune to earth, gaining superior damage-over-time and defensive abilities.
 
  - Tempest
+
+   With the Tempest specialization the Elementalist gains the ability to overload his attunements. These skills are tremendously powerful but increase the recharge time of the Attunement significantly. The new weapon is a warhorn.
+
  - Weaver
+
+   With the Weaver the Elementalist gains the ability to be attuned to two Attunements as the same time. The first 2 weapon skills in one, the last 3 in the other. Depending on the combination the 3rd skill changes to a combination. The new weapon is a sword.
 
 ## 4.5.2 Mesmer
 
@@ -636,11 +658,11 @@ Guilds are formed by groups of players. A guild can have up to 500 members. The 
 
 ## 8.1 Fractals of the Mist (FotM)
 
-The fractals of the mist are five player instances that act like mini-dungeons. They have a unique mechanic called "Agony". There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed. In order to get agony-resistance [ascended armor](#5.2 Rarities) Is Required.
+The fractals of the mist are five player instances that act like mini-dungeons. They have a unique mechanic called "Agony". There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed. In order to get agony-resistance [ascended armor is required.
 
 ## 8.2 Dungeons
 
-Dungeons are the oldest end game content in the game. They were present at the release of the game, and while not being as actively pursued as other contens they still are worthwhile for learning the game, getting equipment and a decent amount of money. There are 8 dungeons in the game. Each dungeon has one story path and three exploration paths (which are the ones being done for reward). One exception is the last one, which has five paths in total. Dungeons are five man content. Even though some of the dungeons have a lower recommended level they are actually decent level 80 content because of the scaling mechanism.
+Dungeons are the oldest end game content in the game. They were present at the release of the game, and while not being as actively pursued as other content they still are worthwhile for learning the game, getting equipment and a decent amount of money. There are 8 dungeons in the game. Each dungeon has one story path and three exploration paths (which are the ones being done for reward). One exception is the last one, which has five paths in total. Dungeons are five man content. Even though some of the dungeons have a lower recommended level they are actually decent level 80 content because of the scaling mechanism.
 
 All dungeons offer unique skins as well as food and runes.
 
@@ -743,6 +765,26 @@ Salvaging found equipment can be worth it in order to get materials out of them.
 
 ## 9.2 Crafting
 
+Guild Wars 2 has a huge crafting system. To explain it in detail would be out of scope for this tutorial, but I will try to give a broad overview.
+
+There are 9 crafting disciplines, each being responsible for other pieces of equipment. Each character can learn 2 disciplines by default. Switching on of these out is possible at all times for a small fee.
+
+- **Armorsmith** for crafing heavy armor.
+- **Artificer** for magical weapons (focus, staff, scepter, trident)
+- **Chef**  for food and dyes
+- **Huntsman** for bows, guns torches and warhorns
+- **Jeweler** for trinkets (amulet, ring, earring)
+- **Leatherworker** for medium armor
+- **Scribe** for guildhall decorations
+- **Tailor** for light armor
+- **Weaponsmith** for melee weapons and shields (axe, dager, sword etc)
+
+Besides that most professions can craft either runes or sigils as well as some other things. A full lis of what each profession can craft can be found [on the wiki](https://wiki.guildwars2.com/wiki/Crafting).
+
+Disciplines usually go from level 0 to level 500, unlocking new recipes with higher levels. To see which recipes can be used to increase the level look for colored ones. [GW2Crafts](http://gw2crafts.net/) can be used in order to calculate the best way to level a profession.
+
+> Recipes can be found everywhere in the world as loot or from vendors. You do NOT have to worry about unlocking it with the right character as recipes get unlocked for your entire account.
+
 ## 9.3 Chat commands
 
 Guild Wars 2 offers a plethora of chat commands. Some of them are purely for roleplaying, while others are convenience functions or offer you additional information.
@@ -821,7 +863,9 @@ The options menu offers quite a few options to customize how your game behaves. 
 
 ## 9.6 Restrictions of a free to play account
 
-There are a few restrictions placed on free to play accounts. These exist to prevent malicious players from abusing the system. While there are a few more I will list the most important ones here:
+There are a few restrictions placed on free to play accounts. These exist to prevent malicious players from abusing the system. While there are a few more I will list 
+
+the most important ones here:
 
 - Only 2 character slots of the initial 5
 - Can't leave starter maps before level 10
