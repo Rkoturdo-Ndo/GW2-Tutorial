@@ -208,15 +208,13 @@ The skill bar is made up of ten main skills with multiple class specific ones Wh
 
 ![Traits](img/en/traits.jpg)
 
-You can select specializations and traits by opening your hero panel with H and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of the sccope of this guide.
-
-> If you have to expansions you can also unlock elite-specialisations. These require all other things to be fully trained and offer a new playstyle to a class. They offer a new passive traitline, a new healskill, 4 new utility skills, a new elite skill and a new weapon to be used for the class. 
->
-> You can only equip one elite specialisation at the same time, which is ensured by them only being slottable in the last slot of the passive traitline.
+You can select specializations and traits by opening your hero panel with **H** and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of the sccope of this guide.
 
 ## 3.5 Elite Specializations
 
 Elite Specializitions are accessed buy purchasing the connected expansion and then collecting hero points to unlock them. They can only be equipped in the bottom specialization slot and as such only one can be selected at a time. These specializations change the "core" professions mechanics, giving you access to a new weapon, three new trait lines, and new skills.
+
+They offer a new passive traitline, a new healskill, 4 new utility skills, a new elite skill and a new weapon to be used.
 
 ## 3.6 Boons & Conditions
 
@@ -615,9 +613,11 @@ The game consists of three main gamemodes. While it is perfectly possible to pla
 - how progression works
 - how seasons work
 
+One important note about PvP is that there is no gear grind. Stats are handled with amulets you can equip. While some of them have a small up front initial cost this enables the game to be fair balanced stat wise. Someone just joining has the same tools to win like an experienced player.
+
 ## 6.2: WvW
 
-- I ain't know shit about WvW, sorry
+Other than PvP a gear grind technically exists in WvW since it doesn't use amulets but the PvE weapons and armor you wear. This means that you have way more freedom in your builds, but at the same time have to take care of having decent equipment.
 
 ## 6.3: PvE
 
@@ -733,13 +733,11 @@ A really big part of Guild Wars 2 is Fashion. The game has a rather complex skin
 
 Personally I am not much of a PvP player, so this section is cut rather short. There is a league system in the game. PvP also offers reward tracks, meaning that you can select a track and every game you play gives you progress towards is, with loot at certain stages and a grand chest at the end. As well as that there is an automated tournament system with multiple tournaments per day and a really big monthly tournament. Winning that grants you a statue in the heart of the mists, the PvP lobby of the game. PvP offers to you acquire a unique legendary backpack.
 
-One important note about PvP is that there is no gear grind. Stats are handled with amulets you can equip. While some of them have a small up front initial cost this enables the game to be fair balanced stat wise. Someone just joining has the same tools to win like an experienced player.
+
 
 ## 8.6 WvW
 
 Similar to PvP I don't know much about WvW. World vs World is a massive scale PvP where servers fight against one another to seize control of 3 regions. Similar to PvP it offers reward tracks and has its own legendary backpack you can acquire.
-
-Other than PvP a gear grind technically exists in WvW since it doesn't use amulets but the PvE weapons and armor you wear. This means that you have way more freedom in your builds, but at the same time have to take care of having decent equipment.
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
@@ -783,7 +781,7 @@ Besides that most professions can craft either runes or sigils as well as some o
 
 Disciplines usually go from level 0 to level 500, unlocking new recipes with higher levels. To see which recipes can be used to increase the level look for colored ones. [GW2Crafts](http://gw2crafts.net/) can be used in order to calculate the best way to level a profession.
 
-> Recipes can be found everywhere in the world as loot or from vendors. You do NOT have to worry about unlocking it with the right character as recipes get unlocked for your entire account.
+> Recipes can be found everywhere in the world as loot or from vendors. Besides that you can also unlock them in the discovery tab. You do NOT have to worry about unlocking it with the right character as recipes get unlocked for your entire account.
 
 ## 9.3 Chat commands
 
@@ -844,6 +842,8 @@ When starting a new MMO it can be hard to figure out how to best make money. Whi
 ### 9.4.1 Trading Post
 
 The trading post is the main way for players to trade items, since there is **no** direct player to player trading. When selling an item there is a 15% tax. 5% of that have to be paid when listing the item, the other 10% will be deducted once the item is sold.
+
+> There is no direct player to player trade, so the trading post is the only official way to trade between players.
 
 ## 9.5 Options
 
