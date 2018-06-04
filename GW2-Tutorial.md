@@ -658,7 +658,7 @@ Guilds are formed by groups of players. A guild can have up to 500 members. The 
 
 ## 8.1 Fractals of the Mist (FotM)
 
-The fractals of the mist are five player instances that act like mini-dungeons. They have a unique mechanic called "Agony". There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed. In order to get agony-resistance [ascended armor is required.
+The fractals of the mist are five player instances that act like mini-dungeons. They have a unique mechanic called "Agony". There are currently 18 different fractals and 100 fractal levels. Higher levels are harder and require agony-resistance, but also grant more rewards. For the lower levels no special equipment is needed. In order to get agony-resistance ascended armor is required.
 
 ## 8.2 Dungeons
 
