@@ -865,17 +865,17 @@ The options menu offers quite a few options to customize how your game behaves. 
 
 There are a few restrictions placed on free to play accounts. These exist to prevent malicious players from abusing the system. While there are a few more I will list 
 
-the most important ones here:
+The most important ones here:
 
 - Only 2 character slots of the initial 5
 - Can't leave starter maps before level 10
 - Can not send items or gold through mail and only send mail to mutual friends (having each other on the friendlist)
 - Can only see mapchat and can only whisper mutual friends or players on the same map
-- Can only use LfG one level 30 is reached
-- no login rewards
-- gem Store is limited, currency exchange is only gems to gold and the trading post is restricted to certain things
-- no forum posting
-- no access to HoT or PoF content
+- Can only use LfG once level 30 is reached
+- No login rewards
+- Gem Store is limited, currency exchange is only gems to gold and the trading post is restricted to certain things
+- No forum posting
+- No access to HoT or PoF content
 
 A full list of the restrictions can be found [here](https://wiki.guildwars2.com/wiki/Account#Free_accounts).
 
