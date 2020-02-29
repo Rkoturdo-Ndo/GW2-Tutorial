@@ -4,15 +4,23 @@ By the community, for the community.
 
 > If you want to contribute to this tutorial head over to https://github.com/Rkoturdo-Ndo/GW2-Tutorial. Whether it is just raising awareness of issues or actually contributing text, everything is welcome.
 
-**Though you certainly can and I encourage it, this is not necessarily needed to be read from start to finish. Rather use it as a way to read about things when you are unsure. There is no use to overwhelm yourself with a wall of text :)**
-
-Also don't worry about getting into the game to late. GW2 is very casual-friendly in the sense that you do not need to devote much time to it, your progress is not being voided if you are not grinding enough etc.
+**Though you certainly can and I encourage it, this is not necessarily needed to be read from start to finish. Rather use it as a way to read about things when you are unsure. There is no use to overwhelm yourself with a wall of text :)** 
 
 ![Southsun](img/en/Southsun.jpg)
 
 [TOC]
 
 ------
+
+# Preamble
+
+## Getting into the game
+
+Arenanet recently started to add achievments to give new players guidance in the beginning of the game. Those can be easily used to just jump into the game. So after creating your charakter you can just start working on these if you prefer a quickstart. If you play with friends don't worry about choosing the same Race to play to gether, the first waypoitn of every race is always accessible so you can play together if you want.
+
+![Tutorial Achievments](img/en/tutorial_achievments.jpg)
+
+---
 
 # Chapter 0: Basic Terminology
 
@@ -25,7 +33,7 @@ Also don't worry about getting into the game to late. GW2 is very casual-friendl
 - You don't have to worry about griefing since you will get rewards for a mob for simply participating in the kill, even if you do not deliver the first, or the finishing blow.
 
 - Because of how the game works there is no downtime on patchdays. Also the server selection only matters for world vs. world. If you are interested in the technical aspect, click [Here](http://www.gdcvault.com/play/1016640/Guild-Wars-2-Programming-the) to see a technical presentation by an engineer about how it works.
-
+  
   > Guild Wars 1 has had about 24 hours of downtime so far in about 13 years.
 
 ## 0.1 Races
@@ -33,35 +41,27 @@ Also don't worry about getting into the game to late. GW2 is very casual-friendl
 > It is no problem for new players that want to play together to get different races, since the first way point in every starting region is unlocked for every player from the beginning. 
 > This enables new players to play with their friends even if they just have free to play accounts.
 
+What race you choose only has an impact on the story of the game. While there are a few racial skills that are unique to them, they are designed to not be very strong, so that one race is not preferential over another.
 
+### 0.1.1 Norn
 
-What race you choose only has an impact on the story of the game. While there are a few racial skills that are unique to them, they are designed to not be very strong, this is done so one race is not preferential over another.
+The Norn are a race of hunters who were pushed from their homeland far to the north by the elder dragon Jormag. They have a similar appearance to a human but are often much larger averaging 2.7 meters tall and large in figure. They have no main government but congragate in the city of Hoelbrak. These large hunters listen to the sypirits of the wild and have the ability to transform.
 
-### 0.1.1 The elder Dragons
+### 0.1.2 Charr
 
-The elder dragons are massive dragons that consume magic. After consuming magic they tend to sleep for millennia. In Guild Wars 2 they are awakening and destroying everything they touch with their primordial forces.
+The Charr are a feline race native to Tyria. 250 years ago they fought one of their final major offensives in the  war against the humans to reclaim territories taken from them. Their main city in the game is the Black Citadel, built on the ruins of the old human kingdom of Ascalon. Since then the conflict is still going on and relations are complicated between Humans and Charr.
 
-### 0.1.2 Norn
-
-The Norn are a race of hunters who were pushed from their homeland far to the north by the elder dragon Jormag. They have a similar appearance to a human but are often much larger averaging nine feet tall and large in stature. They have know main governmant but congragate in the city of Hoelbrak. These large hunters listen to the Spirits of the wild and have the ability to transform.
-
-### 0.1.3 Charr
-
-The Charr are a feline race native to Tyria. 250 years ago they fought one of their final major offensives in the  war against the humans to reclaim territories taken from them. Their main city in the game is the black citadel, built on the ruins of the old human kingdom of Ascalon. Since the conflict is still going on relations are complicated between Humans and Charr.
-
-### 0.1.4 Asura
+### 0.1.3 Asura
 
 The Asura are one of the older races. Though not native to the surface they were forced out of the underground by the elder dragon Primordus. They are best known for their intelligence, technological advantages and their inflated ego. Their main city is Rata Sum, built after they had to escape the underground.
 
-### 0.1.5 Sylvari
+### 0.1.4 Sylvari
 
-The Sylvari are the youngest race of the planet, only having come to live ~25 years before the events of Guild Wars 2. Their main city is the Grove, where they all awaken from the dream, the mysterious stage of consciousness that they experience prior to their awakening, to come into this world.
+The Sylvari are the youngest race of the planet, only having come to life ~25 years before the events of Guild Wars 2. Their main city is the Grove, where they all awaken from the dream, the mysterious stage of consciousness that they experience prior to their awakening, to come into this world.
 
-### 0.1.6 Humans
+### 0.1.5 Humans
 
 Humans are the only non-native race on the planet that the player can choose. While a thriving force on Tyria in the older times, they are only a shadow of their former glory and influence. Their capital City is Divinity's Reach, one of the last major human cities.
-
-
 
 ## 0.2 Questing and Leveling
 
@@ -71,19 +71,21 @@ Questing in Guild Wars works very different to other games.
 
 First, there is the personal story. These are story missions you get every 10 levels if you are under level 80 or just back to back if you play the expansion story / living world story.
 
-For leveling you would usually quest in other MMOs or grind mobs. In guild wars there quests do not exist. However you will find hearts scattered around the map. These are basically locally bound quest that you automatically accept once you enter the area and halt once you leave it again. 
+For leveling you would usually quest in other MMOs or grind mobs. In Guild Wars 2 quests do not exist. However you will find hearts scattered around the map. These are basically locally bound quest that you automatically accept once you enter the area and halt once you leave it again. 
 
 Another thing are hero points (yellow "arrows" on the map). They will give you hero points you can spend on leveling.
 
-The third big thing are Events. These will be shown in orange on your map. They spawn randomly around the world and every player can participate.
+The third big thing are events. These will be shown in orange on your map. They spawn randomly around the world and every player can participate.
 
 > As you can see guild wars encourages you to explore the world to level. This also however means that there is no straight "direction" to start. You can visit the other starting areas and quest a bit there, or just play in yours.
 
+Therefore openly exloring the map is the best way to level up.
+
 ### 0.2.2 Leveling
 
-When leveling up or completing hero challenges in the world you get hero points which you can spend by opening your character menu with H and pressing the training tab. often traits and skills have synergies, be sure to read the skills and traits well to find what things will work together.
+When leveling up or completing hero challenges in the world you get hero points which you can spend to learn new skills. You do this by opening your character menu with **H** and pressing the training tab. Often traits and skills have synergies, so be sure to read the skills and traits to find what things will work together.
 
-![Leveling](/home/jonathan/Documents/Projects/GW2%20Tutorial/img/en/leveling.jpg)
+![Leveling](img/en/leveling.jpg)
 
 > Do not worry to much about what traits and skills to level, you will be able to unlock them all.
 
@@ -93,16 +95,17 @@ When leveling up or completing hero challenges in the world you get hero points 
 
 # Chapter 1: The User Interface
 
-## 1.1 General Interface 
+## 1.1 General Interface
+
 ![Complete](img/en/complete.jpg)
 
-The user interface can be separated into different areas on the screen. Generally, there is not much interface customization possible. 
+The user interface can be separated into different areas on the screen. While they can not be rearranged to a great deal there is the dynamic UI to hide parts in certain conditions. 
 
 **Top left**
 
 ![Top Left](img/en/top_left.jpg)
 
-In the top left of the User Interface you can find your party, showing health as well as  [Boons and Conditions](#3.x Boons and Conditions) (positive and negative effects on a character). Over that there are different buttons to open parts of the Interface. From the left to the right:
+In the top left of the User Interface you can find your party, showing health as well as  [Boons and Conditions](#3.x Boons and Conditions) (positive and negative effects on a character). Over that are different buttons to open parts of the Interface. From the left to the right:
 
 Settings | Friends / LFG | Hero-Panel | Inventory | Mail | Trading-Post | Guilds | World vs. World | PvP
 
@@ -116,7 +119,7 @@ In the top center it shows information about your currently targeted entity. Thi
 
 ![Top Right](img/en/top_right.jpg)
 
-In the top right you can find your content guide. It shows you your current mission, current events in your area, where to go for the next mission or piece needed for map completion. Besides that it can also show achievements you currently track.
+In the top right you can find your content guide. It shows you your current mission, current events in your area, where to go for the next mission or pieces needed for map completion. Besides that it can also show achievements or collections you currently track.
 
 **Bottom left**
 
@@ -131,10 +134,10 @@ In the bottom left the chat is displayed. Under that you can see your current le
 In the bottom center is the most important part of the user interface. It shows your health (red bubble) as well as your endurance (orange bars over the bubble). Besides that it shows you your skills, skill cooldowns, current boons and current conditions. A bit over that you see the casting-bar. It shows how far you are in casting your current spell/attack.
 
 > A red bar under a skill indicates whether the enemy is in range or not.
->
+> 
 > ![range](img/en/range.jpg)
 
-Also you can see if your equipment is damaged or broken by the small orange/red shield on the bottom right of the health bubble.
+Also you can see if your equipment is damaged or broken by the small orange/red shield on the bottom right of the health bubble. On the bottom left it shows you an arrow that indicates if you have died often recently. If you happen to die to much you will not go into down-state but directly die.
 
 While out of combat you can also swap out your skills on the right side of the bar by right-clicking or using the little arrow above them.
 
@@ -146,6 +149,12 @@ In the bottom right you can see your map. Under the map you can see the next rew
 
 > If you are to lazy to open all the chest to get them away you can simply right-click to instantly put the reward into your inventory.
 
+**Dynamic UI**
+
+The dynamic UI is a recent addition to the game. It allows you to dynamically hide certain elements of the UI out of combat / in combat etc. There are also a few presets available.
+
+![Dynamic UI](img/en/dynamic_ui.jpg)
+
 ## 1.2 The Map
 
 The world map is your bread and butter for exploring. It shows events around you, hearts, Heropoints, points of interest(POIs) and whatever else you might need to know. You open the Map by pressing **M**.
@@ -154,9 +163,7 @@ The world map is your bread and butter for exploring. It shows events around you
 
 In the top left it shows you your progress for world completion. Below that it shows what you still have to do on the current map to complete it. Completing a map gives you a special reward.
 
-
-
-If you can't finding something you can hover over the respecting icon on the left to let the map highlight the positions.
+If you can't find something you can hover over the respecting icon on the left to let the map highlight the positions.
 
 ![map-highlight](img/en/map_highlight.jpg)
 
@@ -168,7 +175,7 @@ If you can't finding something you can hover over the respecting icon on the lef
 
 ## 2.1 Movement
 
-Guild Wars utilizes the standard WASD movement. However, in order to be most effective in combat there are two things you have to keep in mind. The first one is dodging. It grants you a small time frame in which you evade all incoming attack. It will be your bread and butter for surviving. The other thing is jumping. Many bosses will have attacks that you can actually jump over in order to not be hit.	
+Guild Wars utilizes the standard WASD movement. However, in order to be most effective in combat there are two things you have to keep in mind. The first one is dodging. It grants you a small time frame in which you evade all incoming attack. It will be your bread and butter for surviving. The other thing is jumping. Many bosses will have attacks that you can actually jump over in order to not be hit.    
 
 Generally you can and should be moving while casting your abilities, there are however some skills that lock you in place.
 
@@ -180,61 +187,60 @@ Initially the game only utilized the well known tab targeting. It means your mou
 
 For people that prefer the TERA style of gameplay there is also an action mode. It is a bit hidden, to activate it you must go to your keybindings, bind the "activate action cam" key and press it once you start the game. When "Action Cam" is enabled you will have a reticle in the middle of your screen. All skills will be cast at that position and you can simply leftclick to autoattack. 
 
-Personally I highly recommend trying it out ;)
+> Personally I highly recommend trying it out ;)
 
 ![Action cam](img/en/action.jpg)
-
-## 2.4 Other
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
+
 # Chapter 3: Combat
 
 ## 3.1 Basics
 
-Guild Wars 2 combat relies much more on skill than on stats or RNG. Elements such as dodging, blocking or evading are not a numbered chance based upon your character, these abilites can be activated by the player when needed. The core of combat in Guild Wars 2 is moving, dodging, using skills at the correct time and being aware of your foes attack animations.
+Guild Wars 2 combat relies much more on skill than on stats or RNG since there is no endless geargrind and thus not necessarily a stat difference. Elements such as dodging, blocking or evading are not a numbered chance based upon your character, these abilites can be activated by the player when needed. The core of combat in Guild Wars 2 is moving, dodging, using skills at the correct time and being aware of your foes attack animations.
 
 ## 3.2 Dodging
 
-Learn this skill! Dodging is the most useful and most used skill in the game. all classes have the ability to dodge and a perfect dodge roll can completely mitigate all damage and effects from an attack. Dodging uses endurance which is denoted by the yellow bars above your health orb. The default key for dodging is "Left Shift" while moving in any direction pressing your bound dodge key will roll you in that direction, repositioning you and "dodging" the incoming effect.
+Learn this skill! Dodging is the most useful and most used skill in the game. All classes have the ability to dodge and a perfect dodge roll can completely mitigate all damage and effects from an attack. Dodging uses endurance which is denoted by the yellow bars above your health orb. The default key for dodging is "Left Shift" while moving in any direction pressing your bound dodge key will roll you in that direction, repositioning you and "dodging" the incoming effect.
 
 ## 3.3 Weapons & Skills
 
-The skill bar is made up of ten main skills with multiple class specific ones Which will be discussed in each classes "core" section. The first five skills on your skill bar come from the weapon or weapons you have equipped (Dual Wield). Once at level ten all classes except the Elementalist and Engineer can swap between two weapon sets. The next five skills are composed of 1 heal skill, 3 utility skills and 1 elite skill. once a skill is unlocked it can be changed by right clicking on the skill and selecing another skill for that slot.
+The skill bar is made up of ten main skills with multiple class specific ones. Which will be discussed in each classes "core" section. The first five skills on your skill bar come from the weapon or weapons you have equipped (Dual Wield). Once at level ten all classes except the Elementalist and Engineer can swap between two weapon sets. The next five skills are composed of one heal skill, three utility skills and one elite skill. Once a skill is unlocked it can be changed by right clicking on the skill and selecing another skill for that slot.
+
+> Elementalists and Engineers can carry to weaponsets and swap them freely out of combat like any other class, but while in combat they are locked to the currently selected set.
 
 ## 3.4 Specializations & Traits
 
-
 ![Traits](img/en/traits.jpg)
 
-You can select specializations and traits by opening your hero panel with **H** and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of the sccope of this guide.
+You can select specializations and traits by opening your hero panel with **H** and then selecting the build tab. Each profession has access to five core specializations and two elite specializations. Slot-wise there are two types of traits: minor and major - three predetermined minor traits which cannot be unselected, and three major traits per tier, one of which can be selected and used. Traits are grouped into three tiers: adept, master, and grandmaster, and are unlocked sequentially by spending hero points in the Training Panel. The exact use of traits or which ones might be best to use is out of scope for this guide.
 
 ## 3.5 Elite Specializations
 
 Elite Specializitions are accessed buy purchasing the connected expansion and then collecting hero points to unlock them. They can only be equipped in the bottom specialization slot and as such only one can be selected at a time. These specializations change the "core" professions mechanics, giving you access to a new weapon, three new trait lines, and new skills.
 
-They offer a new passive traitline, a new healskill, 4 new utility skills, a new elite skill and a new weapon to be used.
-
 ## 3.6 Boons & Conditions
 
-Most status effects in the game come in the way of "Boons" or "Conditions". "Boons" refer to positive effects (Buffs), "Conditions" refer to negetive effects (Debuffs). They can either stack intensity, which makes the effect stronger Or they can stack duration, which makes the effect last longer.
+Most status effects in the game come in the way of "Boons" or "Conditions". "Boons" refer to positive effects (Buffs), "Conditions" refer to negative effects (Debuffs). They can either stack intensity, which makes the effect stronger or they can stack duration, which makes the effect last longer.
 
 **Boons:**
 
 - Stacking intensity
-  - **Stability**: While you have stability you can't be hard CCed, stacks intensity
-  - **Might**: Gain Power and Condition-damage, stacks intensity
-
+  
+  - **Stability**: While you have stability you can't be hard CCed
+  - **Might**: Gain Power and Condition-damage
 
 - Stacking duration
-  - **Fury**: 20% critical hit chance, stacks duration
-  - **Regeneration**: Regenerate health over timer, stacks duration
-  - **Aegis**: block the next attack, stacks duration
-  - **Resistance**: be unaffected by conditions, stacks duration
-  - **Alacrity**: reduces the skill recharge time by 33%, stacks duration
-  - **Swiftness**: move 33% faster, stacks duration
-  - **Quickness**: execute skills 33% faster, stacks duration
+  
+  - **Fury**: 20% critical hit chance
+  - **Regeneration**: Regenerate health over timer
+  - **Aegis**: block the next attack
+  - **Resistance**: be unaffected by conditions
+  - **Alacrity**: reduces the skill recharge time by 33%
+  - **Swiftness**: move 33% faster
+  - **Quickness**: execute skills 33% faster
   - **Vigor**: Increase endurance regeneration by 50%
   - **Protection**: Reduce incoming physical damage by 33%
   - **Retaliation**: Reflect damage back to enemies
@@ -242,7 +248,7 @@ Most status effects in the game come in the way of "Boons" or "Conditions". "Boo
 **Conditions:**
 
 - Damaging Conditions, stacking Intensity
-
+  
   - **Burn**: damage
   - **Poison**: damage and reduce received healing
   - **Confusion**: damage and extra damage on skill activation
@@ -250,9 +256,9 @@ Most status effects in the game come in the way of "Boons" or "Conditions". "Boo
   - **Bleeding**: damage
 
 - Crowd Control Conditions, stacking duration
-
+  
   > See the chapter over Crowd Control
-
+  
   - **Chill**: the targets movement speed and skill recharge speed are reduced by 66%
   - **Cripple**: the targets movement speed is reduced by 50%
   - **Immobilize**: the target is unable to move but can execute skills
@@ -261,11 +267,13 @@ Most status effects in the game come in the way of "Boons" or "Conditions". "Boo
 
 ## 3.7 Combofields
 
-There are different types of fields and finishers. When a finisher is activated inside a Combofield a special Interaction happens depending on the type of field and finisher. Whether or not a particular skill as a field or a finisher can be seen by hovering over them and reading the description.
+There are different types of fields and finishers. When a finisher is activated inside a Combofield a special interaction happens depending on the type of field and finisher. Whether or not a particular skill as a field or a finisher can be seen by hovering over them and reading the description.
+
+![Combos](img/en/combos.jpg)
 
 - Blasts have an AoE effect
 - Leaps only affect yourself
-- Projectiles gain an additional effect, usually applying a boon or condition
+- Projectiles gain an additional effect, usually applying a boon to you or a condition to an enemy
 - Whirls create projectiles with the additional effect
 
 | Field         | Blast Finisher (AoE) | Leap Finisher | Projectile Finisher | Whirl Finisher            |
@@ -280,9 +288,29 @@ There are different types of fields and finishers. When a finisher is activated 
 | **Smoke**     | Invisibility (AoE)   | Invisibility  | Blindness           | Blinding Projectiles      |
 | **Water**     | Healing (AoE)        | Healing       | Regeneration        | Healing Projectiles       |
 
-## 3.8 Break-bars & Crowd Control
+## 3.8 Auras
+
+Auras are a special effect that can either be created by a Combofield or given by some traits / skills directly.  There are 7 Auras in the game.
+
+- **Chaos Aura**: When you are struck you recieve a random boon and the enemy a random condition
+
+- **Dark Aura**: Incoming condition damage is reduced and enemys get the torment condition for attacking you
+
+- **Fire Aura**: Grants might each time you are attacked
+
+- **Frost Aura**: Incoming physical damage is reduced and enemies attacking you get the cilling condition
+
+- **Light Aura**: When struck you gain retaliation, incoming condition damageis reduced
+
+- **Magnetic Aura**: Reflect projectiles
+
+- **Shocking Aura**: Stuns nearby attacking enemies periodically
+
+## 3.9 Break-bars & Crowd Control
 
 When playing the game you will sometimes encounter enemies that have a blue bar below their health. This is a "Break-bar" and protects the foe from crowd control effects. Using Crowd-Control abilities (alias CC) You can reduce this bar to 0, when this is complete the bar will begin to slowly regenerate and the foe will often become dazed and take increased damage. Break-bars are an important aspect to combat and should be broken as soon as the bar is filled again.
+
+> Since break bars regenerate usually players need to coordinate to break them
 
 ![breakbar](img/en/breakbar.jpg)
 
@@ -311,34 +339,35 @@ Soft CCs do less damage to break-bars and are not as severe as hard CCs, however
 - **Blindness**: the next attack misses
 - **Fear**: the target runs away from you unable to move on their own or use skills
 
-## 3.9 Guild Wars 2 "Holy Trinity"
+## 3.10 Guild Wars 2 "Holy Trinity"
 
-The core of many MMO's is the "Holy Trinity" style of play (Healer, Tank, DPS) Arenanet wanted to move away from this as they felt sticking people in certain roles was less intuitive than allowing all classes to fill roles if necessary. This "Holy Trinity" style also meant players could be waiting for long periods of time for the exact class needed to complete certain content. This led to Arenanet creating their own style of trinity which is Support, Damage, Control. Initially this concept was recieved well but quickly led to all classes just running full damage builds as it was easier to kill a boss quickly than it was to bring support classes and make the fight longer. With more difficult content such as "Fractals of the Mist" and "Raids" as well as the creation of "Elite Specializations" Guild Wars 2 has started to find it's way into a healthy middle ground where certain roles are needed such as Tanks and Healers but "balance permitting", these roles can be filled by different classes. Even the most difficult content has been completed with groups of non-meta classes played by skilled players.
+The core of many MMO's is the "Holy Trinity" style of play (Healer, Tank, DPS). Arenanet wanted to move away from this as they felt sticking people in certain roles was less intuitive than allowing all classes to fill roles as necessary. This "Holy Trinity" style also meant players could be waiting for long periods of time for the exact class needed to complete certain content. This led to Arenanet creating their own style of trinity which is Support, Damage, Control. Initially this concept was recieved well but quickly led to all classes just running full damage builds as it was easier to kill a boss quickly than it was to bring support classes and make the fight longer. With more difficult content such as "Fractals of the Mist" and "Raids" as well as the creation of "Elite Specializations" Guild Wars 2 has started to find it's way into a healthy middle ground where certain roles are needed such as Tanks and Healers but "balance permitting", these roles can be filled by different classes. Even the most difficult content has been completed with groups of non-meta classes played by skilled players.
 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
+
 # Chapter 4: Professions
 
 ## 4.1 (Professions) Armor
 
 Professions come in three armor classes. This does however not mean that a particular armor class can't fulfill a role. For example the mesmer (light armor) is a highly used Tank, while the Warrior is often a supporting the team with special boons.
 
-|            Class             |           Profession              |   Armor Rating  |
-|------------------------------|-----------------------------------|-----------------|
-| Heavy Armor (Soldiers)       | Guardian, Revenant, Warrior       |     **1211**    |
-| Medium Armor (Adventurers)   | Engineer, Ranger, Thief           |     **1064**    |
-| Light Armor (Scholars)       | Elementalist, Mesmer, Necromancer |     **920**     |
+| Class                      | Profession                        | Armor Rating |
+| -------------------------- | --------------------------------- | ------------ |
+| Heavy Armor (Soldiers)     | Guardian, Revenant, Warrior       | **1211**     |
+| Medium Armor (Adventurers) | Engineer, Ranger, Thief           | **1064**     |
+| Light Armor (Scholars)     | Elementalist, Mesmer, Necromancer | **920**      |
 
 ## 4.2 (Professions) Health
 
 Professions come in three health pools. These pools are added on the base health (10,000 at level 80).
 
-| Base health gained per level         |  1-19  |  20-39 | 40-59 | 60-79 |  80   | Total at level 80 |
-| -------------------------------------|--------|--------|-------|-------|-------|-------------------|
-| Warrior, Necromancer                 |   28   |   70   |  140  |  210  |  280  |       9,212       |
-| Revenant, Engineer, Ranger, Mesmer   |   18   |   45   |  90   |  135  |  180  |       5,922       |
-| Guardian, Thief, Elementalist        |   5    |  12.5  |  25   |  37.5 |  50   |       1,645       |
+| Base health gained per level       | 1-19 | 20-39 | 40-59 | 60-79 | 80  | Total at level 80 |
+| ---------------------------------- | ---- | ----- | ----- | ----- | --- | ----------------- |
+| Warrior, Necromancer               | 28   | 70    | 140   | 210   | 280 | 9,212             |
+| Revenant, Engineer, Ranger, Mesmer | 18   | 45    | 90    | 135   | 180 | 5,922             |
+| Guardian, Thief, Elementalist      | 5    | 12.5  | 25    | 37.5  | 50  | 1,645             |
 
 ## 4.3 (Professions) Soldiers
 
@@ -346,7 +375,7 @@ Professions come in three health pools. These pools are added on the base health
 
 Guardians specialize in protective and defensive magic.
 
- - Core
+- Core
 
 The Guardians' unique abilities are Virtues. Virtues provide passive effects to the Guardian; when activated they provide various effects for nearby allies as well. These virtues are:
 
@@ -356,45 +385,45 @@ Virtue of Resolve - Regenerates health. Activate: Heal yourself and nearby allie
 
 Virtue of Courage - Grants aegis every few seconds. Activate: Grant aegis to yourself and nearby allies.
 
- - Dragonhunter
+- Dragonhunter
+  
+  Being the HoT Elite-Specialization the Guardian gets access to a Longbow, as well as Traps to plant. 
 
-   Being the HoT Elite-Specialization the Guardian gets access to a Longbow, as well as Traps to plant. 
-
- - Firebrand
-
-   The Firebrand gets access to mantras, which are  a special type of ability that work with ammunition as well as transforming his Virtues into tomes he can summon, granting him 5 new abilities each. One is offensive, one gives boons and one is for healing.
+- Firebrand
+  
+  The Firebrand gets access to mantras, which are  a special type of ability that work with ammunition as well as transforming his Virtues into tomes he can summon, granting him 5 new abilities each. One is offensive, one gives boons and one is for healing.
 
 ## 4.3.2 Revenant
 
 Revenants channel the power of the Mists.
 
- - Core
+- Core
 
 The Revenants unique ability is to invoke the powers of certain legendary figures of the past. Swapping between these figuers changes the five skills on the right side of your skill bar.
 
- - Herald
+- Herald
+  
+  Herald is the Heart of Thorns Elite-Specialization of the Revenant. You gain acess to the new legend Glint, which is designed around supporting others. His new weapon is a shield.
 
-   Herald is the Heart of Thorns Elite-Specialization of the Revenant. You gain acess to the new legend Glint, which is designed around supporting others. His new weapon is a shield.
-
- - Renegade
-
-   Renegade is the Path of Fire one. The new Legends is (TODO, a char). You gain the ability to summon spirits that help you in combat, the new weapon is (TODO).
+- Renegade
+  
+  Renegade is the Path of Fire one. The new Legends is (TODO, a char). You gain the ability to summon spirits that help you in combat, the new weapon is (TODO).
 
 ## 4.3.3 Warrior
 
 Warriors are masters of martial skills. They're versatile in combat and benefit from offensive and defensive abilities. 
 
- - Core 
+- Core 
 
 The Warriors unique ability is called Adrenaline, as the Warrior attacks they gain adrenaline which can be used to activate a burst attack. Each weapon has its own burst attack.
 
- - Berserker
+- Berserker
+  
+  Berserker is the first Elite-Specialization of the Warrior. He gains the ability to wield a torch. The class is designed to be a damager dealer.
 
-   Berserker is the first Elite-Specialization of the Warrior. He gains the ability to wield a torch. The class is designed to be a damager dealer.
-
- - Spellbreaker
-
-   Spellbreaker is the second Elite-Specialization, being available with Path of Fire. It is designed to be heavily PvP oriented and works about removing boons from your enemy. 
+- Spellbreaker
+  
+  Spellbreaker is the second Elite-Specialization, being available with Path of Fire. It is designed to be heavily PvP oriented and works about removing boons from your enemy. 
 
 ## 4.4 (Professions) Adventurers
 
@@ -402,34 +431,34 @@ The Warriors unique ability is called Adrenaline, as the Warrior attacks they ga
 
 Engineers are technological and alchemical masterminds. They employ turrets, grenades, elixirs, a variety of other impressive devices, and concoctions to overcome their enemies.
 
- - Core
+- Core
 
 The Engineer's profession mechanic is the tool belt. It appears above the profession's skill bar, granting each equipped utility, elite and healing skill a corresponding extra skill.
 
- - Scrapper
- - Holosmith
+- Scrapper
+- Holosmith
 
 ## 4.4.2 Ranger
 
 Rangers are flexible and durable—proficient with the bow, yet surgical with the sword. Their loyal pets, which rangers tame and train, distract enemies while the rangers strike safely from a distance.
 
- - Core
+- Core
 
 The Rangers profession mechanic is the ability to tame and bring pets into battle. They are AI controlled allies that fight alongside the ranger and are maintained through a special user interface that can set basic behavior modes and activate a skill. Two Pets can be equipped and the ranger can swap between then in battle.
 
- - Druid
- - Soulbeast
+- Druid
+- Soulbeast
 
 ## 4.4.3 Thief
 
 Thieves are expert in the shadow arts. They utilize stealth and shadowstepping to surprise and to get close to their target.
 
- - Core
+- Core
 
 The Thieves unique mechanic is the "Steal" ability. In terms of game mechanics, the thief does not literally steal an item, but instead creates a bundle based on the targeted creature's classification that the thief can store for later use. The stolen item will be taken from a pool of several possible items for each creature classification.
 
- - Daredevil
- - Deadeye
+- Daredevil
+- Deadeye
 
 ## 4.5 (Professions) Scholars
 
@@ -437,7 +466,7 @@ The Thieves unique mechanic is the "Steal" ability. In terms of game mechanics, 
 
 Elementalists have harnessed Tyria's natural forces. Their powers of destruction are drawn from an affinity with the four elements that make up the world.
 
- - Core
+- Core
 
 The Elementalists unique mechanic is the ability to swap between the four elements. The Elementalist can't swap weapons but has 20 skills per weapon due to the four elements. The four elements are as follows:
 
@@ -449,31 +478,33 @@ Air Attunement - Attune to air, gaining heavy damage and control abilities.
 
 Earth Attunement - Attune to earth, gaining superior damage-over-time and defensive abilities.
 
- - Tempest
+- Tempest
+  
+  With the Tempest specialization the Elementalist gains the ability to overload his attunements. These skills are tremendously powerful but increase the recharge time of the Attunement significantly. The new weapon is a warhorn.
 
-   With the Tempest specialization the Elementalist gains the ability to overload his attunements. These skills are tremendously powerful but increase the recharge time of the Attunement significantly. The new weapon is a warhorn.
-
- - Weaver
-
-   With the Weaver the Elementalist gains the ability to be attuned to two Attunements as the same time. The first 2 weapon skills in one, the last 3 in the other. Depending on the combination the 3rd skill changes to a combination. The new weapon is a sword.
+- Weaver
+  
+  With the Weaver the Elementalist gains the ability to be attuned to two Attunements as the same time. The first 2 weapon skills in one, the last 3 in the other. Depending on the combination the 3rd skill changes to a combination. The new weapon is a sword.
 
 ## 4.5.2 Mesmer
 
 Mesmers are masters of mirage. They weave deception magic that seeks to confound, disorient and dumbfound their enemies. With a wave of the hand, they can shatter their own illusions to produce even greater special effects.
 
- - Core
+- Core
 
 Mesmers unique profession mechanic is shattering illusions for various effects. The shatter effects are as follows:
 
 - Mind Wrack - Destroy all your clones, damaging nearby foes. The shatter effect also occurs at your location.
+
 - Cry of Frustration - Destroy all your clones, confusing nearby foes. The shatter effect also occurs at your location.
+
 - Diversion - Destroy all your clones, dazing their targets. The shatter effect also occurs at your location.
+
 - Distortion - Gain distortion and destroy all your clones, gaining additional distortion for each one shattered.
 
+- Chronomancer
 
-
- - Chronomancer
- - Mirage
+- Mirage
 
 ## 4.5.3 Necromancer
 
@@ -494,7 +525,7 @@ Necromancers unique profession mechanic is to gather Life Force from nearby deat
 
 ## 5.1 Attribute Combinations
 
-Equipment differentiates in the bonuses it provides. Generally any armor/weapon has either 3 or 4 attributes.that it gives. On lower level equipment it is however normal to only get one or two stats from it. One exclusion from that is the celestial attribute combination, which provides 7 attributes. Depending on the rarity and type of equipment the amount of stats differs.
+Equipment differentiates in the boni it provides. Generally any armor/weapon has either 3 or 4 attributes. On lower level equipment it is however normal to only get one or two stats from it. One exclusion from that is the celestial attribute combination, which provides 7 attributes. Depending on the rarity and type of equipment the amount of stats differs.
 
 ![Statsheet](img/en/stats.png)
 
@@ -512,7 +543,7 @@ There are four primary attributes. These are the only ones that a character with
 - **Toughness**: Increases armor
 - **Vitality**: Increases health
 
-###5.1.3 Secondary attributes
+### 5.1.3 Secondary attributes
 
 There are 5 secondary attributes. These have no baseline and can only be aquired through equipment, boons and buffs.
 
@@ -534,11 +565,9 @@ There are 6 derived attributes, which are calculated from a corresponding primar
 - **Armor**: Increased by Toughness and Defense, reduces incoming direct damage
 - **Boon Duration**: Increases duration of boons, 1% per 15 Concentration
 - **Critical Chance**: Increases critical hit chance, 1% per 21 Precision
-- **Critical Damage**: Increases critical hit damage, 1% per 150 Ferocity
+- **Critical Damage**: Increases critical hit damage, 1% per 15 Ferocity
 - **Condition Duration**: Increases duration of all inflicted conditions, 1% per 15 Expertise
 - **Health**: Maximum health, depends on profession, 10 Health per 1 Vitality
-
-
 
 To read more on the topic of attribute combinations check out the [wiki](https://wiki.guildwars2.com/wiki/Attribute_combinations). That is also where the awesome table comes from.
 
@@ -561,26 +590,30 @@ In typical MMO fashion equipment and drops are separated by rarity. Legendary eq
 
 Runes are used to increase the usefulness of armor. Each piece of armor has one rune slot, allowing you to equip a total of six. The more of the same rune you stack the stronger the effect becomes. On lower levels this is capped at two stacks, on higher levels it goes up to six. There are many different runes, some offer defensive buffs, offensive buffs, or other effects.
 
+![Runes](img/en/runes.jpg)
+
 ## 5.4 Sigils
 
 Sigils are used to increase the usefulness of weapons. One-handed weapons have one sigil slot, two-handed weapons have two. You can **NOT** use two of same sigil on the same weapon set. As with runes, Sigils have Defensive, Offensive, and other effects
+
+![Sigil](img/en/sigil.jpg)
 
 ## 5.5 Consumables
 
 There are two different types of consumables in Guild Wars 2. One being food, the other being Enhancements. They can be applied at the same time, however only one of each type. this means eating food replaces any food buff you may have had.
 They usually grant passive stats like ferocity, boon duration or similar. More information about consumables can be found on the [wiki](https://wiki.guildwars2.com/wiki/Consumable).
 
-##5.6 Skins
+![Food](img/en/food.jpg)
 
-Skins are a huge part of Guild Wars 2. When salvaging or equipping armor you unlock the skin of that particular piece. Later you can use a transmutation charge (basically a currency) to change the look of your equipment to already unlocked skins. Some skins are very prestigious while others are not. 
+## 5.6 Skins
+
+Skins are a huge part of Guild Wars 2. When salvaging or equipping armor you unlock the skin of that particular piece. Later you can use a transmutation charges (basically a currency) to change the look of your equipment to already unlocked skins. Some skins are very prestigious while others are not. 
 
 Heavy, medium and light armor have their own skins and can not be applied to each other. There are some cultural skins that can only be worn by one race.
 
 > You find the option to reskin in your hero panel under "Wardrobe"
 
 ![skins](img/en/skins.jpg)
-
-
 
 ## 5.7 Accountbound / Souldbound /Unique
 
@@ -598,28 +631,25 @@ Souldbound goes a step further. Items that are soulbound can only be used by the
 
 Some items, especially ascended Rings and Accessories can be unique. This means that you can **only equip one item with the same name**. It is a  common mistake to buy two ascended rings that are the same and then wonder why you can't equip both. Read the description carefully :)
 
-
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
+
 # Chapter 6: Gamemodes
 
 The game consists of three main gamemodes. While it is perfectly possible to play all three, they are very different and some players will gravitate to certain modes. If you find yourself disliking a particular mode you might try the others to see if they are more fun for you.
 
-## 6.1: PvP
-
-- How builds work
-- how gamemodes work
-- how progression works
-- how seasons work
+## 6.1: Player versus Player
 
 One important note about PvP is that there is no gear grind. Stats are handled with amulets you can equip. While some of them have a small up front initial cost this enables the game to be fair balanced stat wise. Someone just joining has the same tools to win like an experienced player.
 
-## 6.2: WvW
+## 6.2: World versus World
 
-Other than PvP a gear grind technically exists in WvW since it doesn't use amulets but the PvE weapons and armor you wear. This means that you have way more freedom in your builds, but at the same time have to take care of having decent equipment.
+Opposed to  PvP a gear grind technically exists in WvW since it doesn't use amulets but the PvE weapons and armor you wear. This means that you have way more freedom in your builds, but at the same time have to take care of having decent equipment.
 
-## 6.3: PvE
+## 6.3: Player versus Environment
+
+PvE content largely consists of Dungeons, raids, Fractals and story (Living World and Expansions).
 
 ## 6.3.1 Living World and Expansions
 
@@ -644,8 +674,6 @@ Because the game uses a mega server system there are often multiple instances of
 
 - **p1 / p2 / p3** : This is a term commonly used when doing dungeons. It refers to which of the explorable paths the group intends to clear.
 - **KP**: KP means kill-proof. For raids or high level fractals players sometimes demand kill proofs to know that the player joining has some experience with the content.
-- ​
-
 
 ## 7.2: Guilds
 
@@ -654,6 +682,7 @@ Guilds are formed by groups of players. A guild can have up to 500 members. The 
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
+
 # Chapter 8: End Game Content
 
 ## 8.1 Fractals of the Mist (FotM)
@@ -733,8 +762,6 @@ A really big part of Guild Wars 2 is Fashion. The game has a rather complex skin
 
 Personally I am not much of a PvP player, so this section is cut rather short. There is a league system in the game. PvP also offers reward tracks, meaning that you can select a track and every game you play gives you progress towards is, with loot at certain stages and a grand chest at the end. As well as that there is an automated tournament system with multiple tournaments per day and a really big monthly tournament. Winning that grants you a statue in the heart of the mists, the PvP lobby of the game. PvP offers to you acquire a unique legendary backpack.
 
-
-
 ## 8.6 WvW
 
 Similar to PvP I don't know much about WvW. World vs World is a massive scale PvP where servers fight against one another to seize control of 3 regions. Similar to PvP it offers reward tracks and has its own legendary backpack you can acquire.
@@ -742,6 +769,7 @@ Similar to PvP I don't know much about WvW. World vs World is a massive scale Pv
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
+
 # Chapter 9: Other
 
 ## 9.1 Inventory Management
@@ -754,12 +782,15 @@ On the bottom left you see a button that shows you your wallet. Meaning all the 
 
 The inventory size is determined by the amount and quality of bags (left row) you have. Bags go from 5 to 32 slots and you can have up to 8 bags. In the top most row you can see shared inventory slots, which are, as the name implies shared between all characters. They are pretty expensive but might be worth the hassle.
 
+**Unidentified Gear**
+In order to further ease inventory management Arenanet added unidentified gear. This is gera of a certain rarity that can stack. Most dropped gear will come in this form.  This allowes to have a huge amount of gear in the inventory  without it taking up much space.
+
+![Salvage](img/en/gear.jpg)
+
 **Salvaging** 
-Salvaging found equipment can be worth it in order to get materials out of them. For salvaging you will need salvage kits. If you don't want to click every single item salvage kits offer the option to salvage all of a specific type.
+Salvaging found equipment can be done to get materials out of them. For salvaging you will need salvage kits. If you don't want to click every single item salvage kits offer the option to salvage all of a specific type.
 
 ![Salvage](img/en/salvage_all.jpg)
-
-
 
 ## 9.2 Crafting
 
@@ -767,7 +798,7 @@ Guild Wars 2 has a huge crafting system. To explain it in detail would be out of
 
 There are 9 crafting disciplines, each being responsible for other pieces of equipment. Each character can learn 2 disciplines by default. Switching on of these out is possible at all times for a small fee.
 
-- **Armorsmith** for crafing heavy armor.
+- **Armorsmith** for crafing heavy armor
 - **Artificer** for magical weapons (focus, staff, scepter, trident)
 - **Chef**  for food and dyes
 - **Huntsman** for bows, guns torches and warhorns
@@ -777,7 +808,7 @@ There are 9 crafting disciplines, each being responsible for other pieces of equ
 - **Tailor** for light armor
 - **Weaponsmith** for melee weapons and shields (axe, dager, sword etc)
 
-Besides that most professions can craft either runes or sigils as well as some other things. A full lis of what each profession can craft can be found [on the wiki](https://wiki.guildwars2.com/wiki/Crafting).
+Besides that most professions can craft either runes or sigils as well as some other things. A full list of what each profession can craft can be found [on the wiki](https://wiki.guildwars2.com/wiki/Crafting).
 
 Disciplines usually go from level 0 to level 500, unlocking new recipes with higher levels. To see which recipes can be used to increase the level look for colored ones. [GW2Crafts](http://gw2crafts.net/) can be used in order to calculate the best way to level a profession.
 
@@ -806,7 +837,7 @@ Guild Wars 2 offers a plethora of chat commands. Some of them are purely for rol
 
 **Groups**
 
--  **/invite** [name] - invite a player to join your party
+- **/invite** [name] - invite a player to join your party
 - **/join** [name] - request to join a player's party
 - **/leave** - leave your current party
 - **/kick** [name] - vote to kick party member (requires a majority vote)
@@ -843,6 +874,8 @@ When starting a new MMO it can be hard to figure out how to best make money. Whi
 
 The trading post is the main way for players to trade items, since there is **no** direct player to player trading. When selling an item there is a 15% tax. 5% of that have to be paid when listing the item, the other 10% will be deducted once the item is sold.
 
+![Trading Post](img/en/tp.jpg)
+
 > There is no direct player to player trade, so the trading post is the only official way to trade between players.
 
 ## 9.5 Options
@@ -852,8 +885,6 @@ The options menu offers quite a few options to customize how your game behaves. 
 ![options1](img/en/options1.jpg)
 
 - **Content Guide**: This settings enables you to customize what your content guide (top right) shows
-
-
 
 ![options2](img/en/options2.jpg)
 
@@ -902,6 +933,22 @@ Path of Fire is the second expansion of the game. Similar to HoT it offers 5 new
 ---
 
 # Chapter 11: Further Resources
+
+**Guild Wars 2 Wiki**
+
+The main wiki of the game. There you should be able to find any information you need about items, events or other ingame things.
+
+[Find it here](https://wiki.guildwars2.com/wiki/Main_Page)
+
+---
+
+**Dak393's Beginner Guide**
+
+A basic guide showing all the important information to a new player.
+
+[Find it here](https://wiki.guildwars2.com/wiki/User:Dak393/New_player_Guide)
+
+---
 
 **GW2Efficiency**
 
@@ -959,6 +1006,14 @@ A more in depth guide about how to move and fight.
 
 ---
 
+**GW2timer**
+
+A website that shows when worldbosses or major events spawn.
+
+[Find it here](https://gw2timer.com)
+
+---
+
 **Happy Raiders Kit**
 
 The Happy Raider's Kit is a document containing information on how to best get into raids.
@@ -970,4 +1025,3 @@ The Happy Raider's Kit is a document containing information on how to best get i
 [To the top](#Guild Wars 2 new Player Tutorial)
 
 ---
-
